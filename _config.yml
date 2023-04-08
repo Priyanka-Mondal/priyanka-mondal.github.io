@@ -85,7 +85,7 @@ author:
   bio              : Post-Doctorate Fellow
   employer         : "Chennai Mathematical Institute"
   location : "shibasismax@gmail.com"
-   webpage         : mailto:shibasismax@gmail.com
+   webpage         : "mailto:shibasismax@gmail.com"
   pubmed           :
   googlescholar    : 
   researchgate     :  
@@ -213,7 +213,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: about
     values:
       layout: single
       author_profile: true
