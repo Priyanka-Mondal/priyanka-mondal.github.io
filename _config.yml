@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao, Ph.D."
+title                    : "Shibasis Roy, Ph.D."
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao, Ph.D."
-description              : &description "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her."
-url                      : https://rasikabh.github.io
+name                     : &name "Shibasis Roy, Ph.D."
+description              : &description "I am an Post-Doc at the Chennai Mathematical Sciences."
+url                      : https://shibasisroy.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rasikabh/rasikabh.github.io"
+repository               : "shibasisroy/shibasisroy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
