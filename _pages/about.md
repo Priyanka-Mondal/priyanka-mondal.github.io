@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-<img src="shiba.jpg" width="200">
 
 ## News
 
