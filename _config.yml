@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shibasis Roy"
-  avatar           : shiba.jpg
+  avatar           : "shiba.jpg"
   bio              : Post-Doctorate Fellow
   employer         : "Chennai Mathematical Institute"
    webpage         : mailto:shibasismax@gmail.com
