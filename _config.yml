@@ -11,9 +11,9 @@ title                    : "Shibasis Roy, Ph.D."
 title_separator          : "-"
 name                     : &name "Shibasis Roy, Ph.D."
 description              : &description "I am an Post-Doc at the Chennai Mathematical Sciences."
-url                      : https://shibasisroy.github.io
+url                      : https://priyanka-mondal.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shibasisroy/shibasisroy.github.io"
+repository               : "Priyanka-Mondal/priyanka-mondal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter rasikabh
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rasika Bhalerao, Ph.D."
-  avatar           : "Bhalerao2021.jpeg"
-  bio              : "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her"
-  location         : "rasikabh @ gmail.com"
-  employer         : "New York University"
+  name             : "Shibasis Roy, Ph.D."
+  avatar           : 
+  bio              : 
+  location         : "shibasismax@gmail.com"
+  employer         : "Chennai Mathematical Institute"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
-  researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
+  googlescholar    : 
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rasikabh"
+  github           : 
   google_plus      :
-  keybase          : "rasikabh"
+  keybase          : 
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rasika-bhalerao-ph-d-8a827188"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "rasikabh"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
