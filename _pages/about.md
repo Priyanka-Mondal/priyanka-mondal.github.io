@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-#<img src="/images/Bhalerao2021.jpeg" width="200">
+<img src="shiba.jpg" width="200">
 
 ## News
 
