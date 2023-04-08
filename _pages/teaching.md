@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "About"
 permalink: teaching/
 author_profile: true
 
@@ -13,11 +13,17 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### Assistant Teaching Professor at Northeastern University Khoury College of Computer Sciences
-#### Intensive Foundations of Computer Science [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022
-#### Object-oriented Design [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Spring 2023
-#### Labs for Fundamentals of Computer Science I and II (Undergrad) | Fall 2022, Spring 2023
-#### Grad Natural Language Processing | [Fall 2023](https://rasikabh.github.io/nlp2023/)
+### Employments
+#### March 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
+#### Jan 2023 – February 2023 : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
+#### December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India
+#####                 Project title: The Flavour Window to Physics beyond the Standard Model,
+
+### Research Experience and Interest
+#### Rare decays of B mesons and b-baryons
+#### CP violation in the SM and beyond
+#### Precision measurement of quark mixing angles
+#### Applications of SM effective field theory
 <br/>
 
 ### Lecturer at UC Berkeley School of Information
