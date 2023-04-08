@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shibasis Roy"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Shibasis Roy, Ph.D."
+name                     : &name "Shibasis Roy"
 description              : &description "I am an Post-Doc at the Chennai Mathematical Sciences."
 url                      : https://priyanka-mondal.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shibasis Roy"
-  avatar           : 
+  avatar           : "shiba.jpg"
   bio              : Post-Doctorate Fellow
   location         : "shibasismax@gmail.com"
   employer         : "Chennai Mathematical Institute"
