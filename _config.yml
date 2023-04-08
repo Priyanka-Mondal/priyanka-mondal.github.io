@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shibasis Roy, Ph.D."
+title                    : "Shibasis Roy"
 title_separator          : "-"
 name                     : &name "Shibasis Roy, Ph.D."
 description              : &description "I am an Post-Doc at the Chennai Mathematical Sciences."
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shibasis Roy, Ph.D."
+  name             : "Shibasis Roy"
   avatar           : 
-  bio              : 
+  bio              : Post-Doctorate Fellow
   location         : "shibasismax@gmail.com"
   employer         : "Chennai Mathematical Institute"
   pubmed           :
@@ -114,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
