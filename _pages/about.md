@@ -27,3 +27,11 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### Precision measurement of quark mixing angles
 #### Applications of SM effective field theory
 <br/>
+
+## Talks and Posters
+#### blah 1
+#### blah 2
+
+## Participation in Workshops and Schools
+#### school 1 
+#### school 2
