@@ -28,6 +28,20 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### Applications of SM effective field theory
 <br/>
 
+## Employment
+#### CMI
+#### blah 1
+#### blah 2
+
+<br/>
+
+## Education
+#### Phd
+#### MSc
+#### ...
+
+<br/>
+
 ## Talks and Posters
 #### blah 1
 #### blah 2
