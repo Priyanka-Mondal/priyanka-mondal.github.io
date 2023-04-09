@@ -13,15 +13,15 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### Employments
+## Employments
 #### March 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
 #### Jan 2023 – February 2023 : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
 #### December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India
-#### Project title: The Flavour Window to Physics beyond the Standard Model,
+####                  Project title : The Flavour Window to Physics beyond the Standard Model,
 
 <br/>
 
-### Research Experience and Interest
+## Research Experience and Interest
 #### Rare decays of B mesons and b-baryons
 #### CP violation in the SM and beyond
 #### Precision measurement of quark mixing angles
