@@ -14,7 +14,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ## Employments
-<br/>
 ### - March 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
 ### - Jan 2023 – February 2023 : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
 ### - December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India.
@@ -22,7 +21,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 <br/>
 ## Research Experience and Interest
-<br/>
 ### - Rare decays of B mesons and b-baryons
 ### - CP violation in the SM and beyond
 ### - Precision measurement of quark mixing angles
@@ -31,7 +29,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 ## Education
-<br/>
 ### Phd
 ### MSc
 ### ...
@@ -40,7 +37,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 
 ## Talks and Posters
-<br/>
 ### blah 1
 ### blah 2
 <br/>
