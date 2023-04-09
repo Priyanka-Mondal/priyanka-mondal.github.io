@@ -17,8 +17,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 ### - March 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
 ### - Jan 2023 – February 2023 : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
-### - December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India
---- #### -                 Project title : The Flavour Window to Physics beyond the Standard Model,
+### - December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India.
 
 <br/>
 <br/>
