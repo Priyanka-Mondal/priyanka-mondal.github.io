@@ -3,9 +3,6 @@ permalink: /
 title: "Shibasis Roy"
 excerpt: "Home"
 author_profile: true
-redirect_from: 
-  - home/
-  - home.html
 ---
 
 
