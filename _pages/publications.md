@@ -25,7 +25,7 @@ Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)<br>
 
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"}<br>
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
-Proceedings of the 9th ACM Symposium on Cloud Computing (SoCC 2019)
+Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019)
 
 
 
