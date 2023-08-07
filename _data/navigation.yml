@@ -3,6 +3,7 @@ main:
       
   - title: "CV"
     url: https://drive.google.com/file/d/xxx
+    target: "_blank"
     
   - title: "Publications"
     url: /publications/ 
