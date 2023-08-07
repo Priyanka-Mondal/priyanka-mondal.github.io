@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Priyanka Mondal"
+title: ""
 excerpt: "Home"
 permalink: /
 author_profile: true
