@@ -19,7 +19,9 @@ Under Submission
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
-Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)
+Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)<br>
+<font color="red"> Distinguished Paper Award </font>
+
 
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"}<br>
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
