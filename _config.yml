@@ -175,13 +175,13 @@ kramdown:
 # Collections
 collections:
   about:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -201,17 +201,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  #- scope:
-   #   path: ""
-    #  type: pages
-    #values:
-    #  layout: single
-     # author_profile: true
-  # _home
+   # _CV
   - scope:
       path: ""
-      type: home
+      type: CV
     values:
       layout: single
       author_profile: true
@@ -229,21 +222,13 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: about
+      type: talks
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+ 
 # Sass/SCSS
 sass:
   sass_dir: _sass
