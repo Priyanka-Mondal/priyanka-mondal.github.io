@@ -83,7 +83,7 @@ author:
   name             : "Priyanka Mondal"
   avatar           : "priyanka.jpg"
   bio              : PhD Candidate
-  employer         : "University of California, Santa Cruz"
+  employer         : [UCSC]() #"University of California, Santa Cruz"
   location         : "pmondal@ucsc.edu"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en"
