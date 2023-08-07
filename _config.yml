@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shibasis Roy"
+title                    : "Priyanka Mondal"
 title_separator          : "-"
-name                     : &name "Shibasis Roy"
-description              : &description "I am an Post-Doc at the Chennai Mathematical Sciences."
+name                     : &name "Priyanka Mondal"
+description              : &description "I am a PhD Candidate at the University of California, Santa Cruz."
 url                      : https://priyanka-mondal.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Priyanka-Mondal/priyanka-mondal.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shibasis Roy"
-  avatar           : "shiba.jpg"
-  bio              : Post-Doctorate Fellow
-  employer         : "Chennai Mathematical Institute"
-  location         : "shibasismax@gmail.com"
+  name             : "Priyanka Mondal"
+  avatar           : "priyanka.jpg"
+  bio              : PhD Candidate
+  employer         : "University of California, Santa Cruz"
+  location         : "pmondal@ucsc.edu"
   pubmed           :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/Priyanka-Mondal/"
   google_plus      :
   keybase          : 
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/priyanka-mondal-621a1548/"
   orcid            :
   pinterest        :
   soundcloud       :
