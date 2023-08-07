@@ -15,7 +15,7 @@ Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
 Proceedings of the 9th ACM Symposium on Cloud Computing (SoCC 2019)
 
-Phys. Rev. Lett. 128 (2022) no.8, 081803"** [(Slides)](https://drive.google.com/file/giveslideslink)
+
 
 
 
