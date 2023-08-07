@@ -202,12 +202,12 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  #- scope:
+   #   path: ""
+    #  type: pages
+    #values:
+    #  layout: single
+     # author_profile: true
   # _home
   - scope:
       path: ""
@@ -226,15 +226,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _about
-  ##- scope:
-    ##  path: ""
-      ##type: about
-    ##values:
-      ##layout: single
-      ##author_profile: true
-      ##share: true
-      ##comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
