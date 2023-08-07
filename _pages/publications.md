@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"}
 {% include base_path %}
+
+
+-[I/O-Efficient Dynamic Searchable Encryption meets Forward &
+Backward Privacy](){:target="_blank"}<br>
+**Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitris Papadopoulos <br>
+Under Submission
+
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
 Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)
