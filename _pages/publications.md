@@ -8,7 +8,9 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"}
 {% include base_path %}
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"}
+  
   **Priyanka Mondal**, Maximilian Algehed, and Owen Arden
+  
   Proceedings of 35th IEEE Computer Security Foundations (CSF 2022)
 
 - Rahul Sinha, **Shibasis Roy** and N G DeshPande,
