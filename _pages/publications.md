@@ -8,8 +8,11 @@ author_profile: true
 You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"}
 {% include base_path %}
 
+- [Flow-Limited Authorization for consensus, replication, and secret sharing](){:target="_blank"}<br>
+**Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
+Under Submission
 
--[I/O-Efficient Dynamic Searchable Encryption meets Forward &
+- [I/O-Efficient Dynamic Searchable Encryption meets Forward &
 Backward Privacy](){:target="_blank"}<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitris Papadopoulos <br>
 Under Submission
