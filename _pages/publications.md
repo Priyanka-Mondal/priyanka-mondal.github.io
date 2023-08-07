@@ -8,10 +8,12 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"}
 {% include base_path %}
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"}<br>
-**Priyanka Mondal**, Maximilian Algehed, and Owen Arden
-Proceedings of 35th IEEE Computer Security Foundations (CSF 2022)
+**Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
+Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)
 
-- [Measuring CP violating phase in beauty baryon decays,]([https://drive.google.com/file/d/1JV_0ALmFSrrhISKcWs3LivvcG_ADiYnR/view?usp=sharing](https://inspirehep.net/literature/1925486))
+- [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"}<br>
+Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
+Proceedings of the 9th ACM Symposium on Cloud Computing (SoCC 2019)
 
 Phys. Rev. Lett. 128 (2022) no.8, 081803"** [(Slides)](https://drive.google.com/file/giveslideslink)
 
