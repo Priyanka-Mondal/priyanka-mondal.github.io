@@ -6,8 +6,5 @@ permalink: /
 author_profile: true
 ---
 
-## News
+Hello there !! Welcome to my personal website !!
 
--
--
--
