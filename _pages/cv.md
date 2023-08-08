@@ -7,7 +7,7 @@ author_profile: true
 
 <center>
 <embed src=
-"https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link" 
+"https://drive.google.com/drive/u/1/my-drive/priyanka_mondal.pdf" 
                width="800"
                height="500">
 </center>
