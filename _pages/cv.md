@@ -2,6 +2,6 @@
 layout: forward
 title: ""
 excerpt: "CV"
-permalink: /cv/
+permalink: cv/
 author_profile: true
 ---
