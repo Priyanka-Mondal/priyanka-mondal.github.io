@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<b> Hello there, I'm Priyanka Mondal. Welcome to my personal website !! </b>  
+<b> Hello there, I'm Priyanka !! Welcome to my personal website. </b>  
 
 Currently, I am working towards my PhD at the University of California, Santa Cruz. 
 I am advised by Prof. Owen Arden and Prof. Ioannis Demertzis. 
