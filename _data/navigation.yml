@@ -1,11 +1,10 @@
 # main links links
 main:
       
-  - title: "CV" #[CV](http://stackoverflow.com){:target="_blank" rel="noopener"} 
-    url: https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link 
-    #target: "_blank"
-    #url: https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link 
-    
+  #- title: "CV" 
+  #  url: https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link 
+   # #target: "_blank"
+   
   - title: "Publications"
     url: /publications/ 
 
