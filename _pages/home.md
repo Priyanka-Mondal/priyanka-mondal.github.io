@@ -6,7 +6,8 @@ permalink: /
 author_profile: true
 ---
 
-<b> Hello there, I'm Priyanka Mondal. Welcome to my personal website </b> !!  <br> 
+<b> Hello there, I'm Priyanka Mondal. Welcome to my personal website !! </b>  
+
 Currently, I am working towards my PhD at the University of California, Santa Cruz. 
 I am advised by Prof. Owen Arden and Prof. Ioannis Demertzis. 
 My research lies in the intersection of language-based security, security in distributed systems, 
