@@ -174,8 +174,8 @@ kramdown:
 
 # Collections
 collections:
-  about:
-    output: false
+  cv:
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
