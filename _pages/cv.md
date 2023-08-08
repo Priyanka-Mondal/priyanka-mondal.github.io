@@ -2,7 +2,7 @@
 layout: forward
 title: ""
 excerpt: "CV"
-permalink: cv/
-target: https://drive.google.com/file/d/0B0yDXlBaWkDwZExGVmQ1UW0xWFk/view?usp=drive_link&resourcekey=0-rqtRq6GnyLfrPXUv9jtsJg
+permalink: https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link
+target: "_blank"
 author_profile: true
 ---
