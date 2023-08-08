@@ -25,11 +25,10 @@ Feel free to connect with me as I explore the fascinating world of computer secu
 
 **Latest news**
 <ol>
-<li>Karnataka</li>
-<li>Assam</li>
-<li>Gujarath</li>
-<li>Westbengal</li>
-<li>Karnataka</li>
-<li>Assam</li>
-<li>Gujarath</li>
+<li>acc</li>
+<li> Will be serving Wisys at vice president</li>
+<li>Launched Wicys student chapter</li>
+<li>gave a talk at SRL seminar...</li>
+<li> gave a talk at CRSS</li>
+<li>Distinguished paper award</li>
 </ol>
