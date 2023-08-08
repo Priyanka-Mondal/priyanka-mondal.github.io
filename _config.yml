@@ -204,6 +204,7 @@ defaults:
       type: CV
     values:
       layout: single
+      target: "_blank"
       author_profile: true
       share: true
       comments: true
