@@ -2,7 +2,7 @@
 main:
       
   - title: "CV"
-    url: https://drive.google.com/file/d/xxx
+    url: https://drive.google.com/drive/u/1/my-drive
     target: "_blank"
     
   - title: "Publications"
