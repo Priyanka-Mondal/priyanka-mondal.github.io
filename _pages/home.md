@@ -31,6 +31,5 @@ Feel free to connect with me as I explore the fascinating world of computer secu
 - [Feb 21st] Presented my work on [I/O efficient Dynamic Searchable Encryption](https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing){:target="_blank"} at the [CRSS seminar](https://www.ssrc.ucsc.edu/seminars.html){:target="_blank"}
 - [Feb 2nd, 2023] We launched a [Wicys](https://www.wicys.org){:target="_blank"} student chapter at UCSC
 - [Dec 6th, 2022] Passed my advancement Exam, Yay!! 
-- [August 8th, 2022] Our CSF 2022 paper [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the 
-  <b><font color="red"> Distinguished paper award </font></b> 
+- [August 8th, 2022] Our paper [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="red"> Distinguished paper award </font></b> 
 
