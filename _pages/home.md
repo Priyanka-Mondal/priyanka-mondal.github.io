@@ -26,10 +26,12 @@ Feel free to connect with me as I explore the fascinating world of computer secu
 
 **Latest news**
 <ol>
-<li>acc</li>
-<li> Will be serving Wisys at vice president</li>
-<li>Launched Wicys student chapter</li>
-<li>gave a talk at SRL seminar...</li>
-<li> gave a talk at CRSS</li>
-<li>Distinguished paper award</li>
+<li>[Aug 8th, 2023] <b><font color="red"> I am actively looking for full-time jobs </font></b> </li>
+<li> [April 21st, 2023] Will be serving the student chapter of [WiCyS](https://www.wicys.org) at UCSC as the Vice President</li>
+<li> [March 15th, 2023] Gave a talk on [Flow-Limited Authorization background & extension](https://docs.google.com/presentation/d/1epIaJiqbhezyXvnGHIKzhwG2LjHI2nd890l80ZUFb1s/edit?usp=sharing) at the [SRL seminar](https://srl-ucsc.github.io/seminar.html) </li>
+<li>[Feb 21st] Presented my work on [I/O efficient Dynamic Searchable Encryption meets Forward & Backward Privacy](https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing) at the [CRSS seminar](https://www.ssrc.ucsc.edu/seminars.html) </li>
+<li>[Feb 2nd, 2023] We launched a [Wicys](https://www.wicys.org) student chapter at UCSC</li>
+<li>[Dec 6th, 2022] Passed my advancement Exam, Yay!! </li>
+<li>[August 8th, 2022] Our CSF 2022 paper [Applying consensus and replication securely with FLAQR]() won the 
+  <b><font color="red"> Distinguished paper award </font></b> </li>
 </ol>
