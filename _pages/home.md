@@ -27,7 +27,7 @@ Feel free to connect with me as I explore the fascinating world of computer secu
 **Latest news**
 <ol>
 <li>[Aug 8th, 2023] <b><font color="red"> I am actively looking for full-time jobs </font></b> </li>
-<li> [April 21st, 2023] Will be serving the student chapter of [WiCyS](https://www.wicys.org) at UCSC as the Vice President</li>
+<li> [April 21st, 2023] I will be serving the student chapter of [WiCyS](https://www.wicys.org) at UCSC as the Vice President</li>
 <li> [March 15th, 2023] Gave a talk on [Flow-Limited Authorization: background & extension](https://docs.google.com/presentation/d/1epIaJiqbhezyXvnGHIKzhwG2LjHI2nd890l80ZUFb1s/edit?usp=sharing) at the [SRL seminar](https://srl-ucsc.github.io/seminar.html) </li>
 <li>[Feb 21st] Presented my work on [I/O efficient Dynamic Searchable Encryption](https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing) at the [CRSS seminar](https://www.ssrc.ucsc.edu/seminars.html) </li>
 <li>[Feb 2nd, 2023] We launched a [Wicys](https://www.wicys.org) student chapter at UCSC</li>
