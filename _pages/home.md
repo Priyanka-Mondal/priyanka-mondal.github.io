@@ -26,6 +26,7 @@ Through my work, I strive to create a safer digital environment for all.
 Feel free to connect with me as I explore the fascinating world of computer security.
 
 ## Latest news
+
 - [Aug 8th, 2023] <b><font color="red"> I am actively looking for full-time jobs </font></b>
 - [April 21st, 2023] I will be serving the [WiCyS](https://www.wicys.org){:target="_blank"}  student chapter at UCSC as the Vice President
 - [March 15th, 2023] Gave a talk on [Flow-Limited Authorization: background & extension](https://docs.google.com/presentation/d/1epIaJiqbhezyXvnGHIKzhwG2LjHI2nd890l80ZUFb1s/edit?usp=sharing){:target="_blank"} at the [SRL seminar](https://srl-ucsc.github.io/seminar.html){:target="_blank"}
