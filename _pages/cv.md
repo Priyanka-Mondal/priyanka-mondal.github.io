@@ -3,8 +3,7 @@ layout: forward
 title: ""
 excerpt: "CV"
 permalink: cv/
-target: "_blank"
-author_profile: false
+author_profile: true
 ---
 <center>
 <embed src=
