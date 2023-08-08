@@ -8,11 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
+<h1> Timeline </h1>
+
 <h1> Talks </h1>
 
-<h1> Employments </h1>
-
-<h1> Teaching Experiences </h1>
+<h1> Courses taught as a teaching assistant </h1>
 
 <h1> Services and outreach </h1> 
 
