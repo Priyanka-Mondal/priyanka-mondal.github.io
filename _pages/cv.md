@@ -7,7 +7,7 @@ author_profile: true
 
 <center>
 <embed src=
-"priyanka_mondal.pdf" 
+"https://github.com/Priyanka-Mondal/priyanka-mondal.github.io/blob/main/priyanka_mondal.pdf" 
                width="800"
                height="500">
 </center>
