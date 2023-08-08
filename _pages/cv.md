@@ -2,6 +2,6 @@
 layout: forward
 title: ""
 excerpt: "CV"
-permalink: https://priyanka-mondal.github.io/cv/
+permalink: /cv/
 author_profile: true
 ---
