@@ -186,48 +186,6 @@ collections:
 
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-   # _CV
-  - scope:
-      path: "https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view"
-      type: CV
-      target: "_blank"
-      #[CV](http://stackoverflow.com){:target="_blank" rel="noopener"} 
-    values:
-      layout: archive
-      target: "_blank"
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _miscellany
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
  
 # Sass/SCSS
 sass:
