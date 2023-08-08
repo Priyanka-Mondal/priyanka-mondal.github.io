@@ -9,7 +9,7 @@ author_profile: true
 <b> Hello there, I'm Priyanka !! Welcome to my personal website. </b>  
 
 Currently, I am working towards my PhD at the University of California, Santa Cruz. 
-I am advised by Prof. Owen Arden and Prof. Ioannis Demertzis. 
+I am advised by Prof. Owen Arden and [Prof. Ioannis Demertzis](https://idemertzis.com). 
 My research lies in the intersection of language-based security, security in distributed systems, 
 and applied cryptography. Specifically, I am interested in information flow policies, 
 fault tolerant systems and searchable encyption. At UCSC I am an active member of Women in Cybersecurity 
