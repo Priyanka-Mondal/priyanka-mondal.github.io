@@ -204,7 +204,7 @@ defaults:
       type: CV
       target: "_blank"
     values:
-      layout: forward
+      layout: archive
       target: "_blank"
       author_profile: true
       share: true
