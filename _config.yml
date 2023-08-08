@@ -200,8 +200,9 @@ defaults:
       related: true
    # _CV
   - scope:
-      path: ""
+      path: "/cv"
       type: CV
+      target: "_blank"
     values:
       layout: single
       target: "_blank"
