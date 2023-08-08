@@ -23,3 +23,5 @@ Hello there !! Welcome to my personal website !!
 <li>Gujarath</li>
 <li>Westbengal</li>
 </ul>
+li { display: none; } /* Hide all */
+li:nth-child(-n+3) { display: list-item; } /* Display first three */
