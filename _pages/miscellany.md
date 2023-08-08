@@ -15,9 +15,9 @@ author_profile: true
 - 📚 2009-2013: Bachelor of Engineering, [Department of Computer Science and Technology](https://www.iiests.ac.in/IIEST/AcaUnitDetails/CST), [Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in)
 
 <h2> Hobbies </h2>
-- ✈️🌍 Travel enthusiast 
-- 💃🎶 I learned Kathak (an Indian classical dance form) for 6 years, but I am keen about dance forms like bharatnatyam, 
+- 🌍 Travel enthusiast 
+- 🎶 I learned Kathak (an Indian classical dance form) for 6 years, but I am keen about dance forms like bharatnatyam, 
 Afrobeats etc.
-- 🎨🖌️ Sometimes I like expressing myself on canvas too
-- 🍜👩‍🍳 I am a big foodie and like to perform experiments in the kitchen
+- 🎨 Sometimes I like expressing myself on canvas too
+- 🍜 I am a big foodie and like to perform experiments in the kitchen
 
