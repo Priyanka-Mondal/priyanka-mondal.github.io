@@ -19,5 +19,5 @@ author_profile: true
 - 💃🎶 I learned Kathak (an Indian classical dance form) for 6 years, but I am keen about dance forms like bharatnatyam, 
 Afrobeats etc.
 - 🎨🖌️ Sometimes I like expressing myself on canvas too
-- 🍜👩‍🍳 I am a big foodie and like perform experiments in the kitchen
+- 🍜👩‍🍳 I am a big foodie and like to perform experiments in the kitchen
 
