@@ -200,9 +200,10 @@ defaults:
       related: true
    # _CV
   - scope:
-      path: "https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view"
-      type: CV
-      target: "_blank"
+      #path: "https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view"
+      #type: CV
+      #target: "_blank"
+      [CV](http://stackoverflow.com){:target="_blank" rel="noopener"} 
     values:
       layout: archive
       target: "_blank"
