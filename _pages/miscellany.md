@@ -8,5 +8,5 @@ author_profile: true
 
 {% include base_path %}
 
-<h3> Timeline </h3>
+<h2> Timeline </h2>
 
