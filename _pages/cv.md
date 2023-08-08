@@ -1,5 +1,5 @@
 ---
-layout: forward
+layout: archive
 title: ""
 excerpt: "CV"
 permalink: cv/
