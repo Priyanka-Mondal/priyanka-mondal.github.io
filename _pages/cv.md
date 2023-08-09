@@ -4,7 +4,7 @@ title: ""
 permalink: cv/
 author_profile: true
 ---
-<a href="https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link" download="Priyanka_Mondal_CV.pdf">Download CV</a>
+<a href="https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link" download="Priyanka_Mondal_CV.pdf" target="_blank">Download CV</a>
 <center>
 <object data="https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link&embedded=true" style="width:80; height:500;" frameborder="0"></object>
 </center>
