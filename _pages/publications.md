@@ -17,7 +17,7 @@ Backward Privacy](){:target="_blank"}<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitris Papadopoulos <br>
 Under Submission
 
-- [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} ( recipient of the <b> <font color="red"> <i> Distinguished Paper Award </i> </font> </b> ) <br>
+- [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} ( recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> </font> </b> ) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
 Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)<br>
 
