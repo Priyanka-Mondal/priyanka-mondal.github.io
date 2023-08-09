@@ -33,5 +33,7 @@ Feel free to connect with me as the explore the world of computer security.
 - [Feb 2nd, 2023] We launched a [Wicys](https://www.wicys.org){:target="_blank"} student chapter at UCSC
 - [Dec 7th, 2022] Passed my [Advancement Exam](https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless){:target="_blank"}, Yay!! 
 - [August 8th, 2022] Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> </font></b>
-[All news](){:target="_blank"}
+
+
+[All news>>](){:target="_blank"}
 
