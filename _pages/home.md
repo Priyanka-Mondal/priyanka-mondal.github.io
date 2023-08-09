@@ -24,6 +24,7 @@ During this time, I had the opportunity to work as an undergraduate summer inter
 
 Through my work, I strive to create a safer digital environment for all. 
 Feel free to connect with me as I explore the world of computer security.
+<hr>
 
 ## Latest news
 
