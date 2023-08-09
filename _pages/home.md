@@ -8,7 +8,7 @@ author_profile: true
 
 <b> Hello there, I'm Priyanka !! Welcome to my personal website. </b>  
 
-Currently, I am working towards my PhD at the [UCSC](https://www.ucsc.edu/about/){:target="_blank"}. 
+Currently, I am working towards my PhD at [UCSC](https://www.ucsc.edu/about/){:target="_blank"}. 
 I am advised by [Prof. Owen Arden](https://owenarden.github.io/home/){:target="_blank"} and [Prof. Ioannis Demertzis](https://idemertzis.com){:target="_blank"}. 
 My research lies in the intersection of language-based security, security in distributed systems, 
 and applied cryptography. Specifically, I am interested in information flow policies, 
