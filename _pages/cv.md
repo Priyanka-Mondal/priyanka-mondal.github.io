@@ -11,6 +11,6 @@ author_profile: true
     src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://priyanka-mondal.github.io/priyanka_mondal.pdf#toolbar=0&scrollbar=0"
     frameBorder="0"
     scrolling="auto"
-    height="100%"
+    height="500px"
     width="100%"
 ></iframe>
