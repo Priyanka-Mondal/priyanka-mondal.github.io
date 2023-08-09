@@ -18,7 +18,7 @@ and [Women in Science and Engineering](https://wiseucsc.wixsite.com/wise){:targe
 advocating for diversity and excellence in science and technology.
 Before joining UCSC, I worked as a software engineer for the Networking & Cloud team
 at [Citrix R&D, Bangalore](https://www.citrix.com){:target="_blank"}, for two years. Prior to that, 
-I acquired a masters degree from the esteemed [IISc, Bangalore](https://iisc.ac.in){:target="_blank"}, where I worked with [Prof. Aditya Kanade](https://www.linkedin.com/in/aditya-kanade-572113139/){:target="_blank"} in [Software Engineering and Analysis Lab](https://www.iisc-seal.net){:target="_blank"}, developing an automated bug detection [tool](https://drive.google.com/file/d/0B0yDXlBaWkDwamZoRnZDYTZlNTg/view?usp=drive_link&resourcekey=0-arHXT1Dx5MEKqy6SfSSdKA){:target="_blank"} for Android applications. 
+I acquired a masters degree from the esteemed [IISc, Bangalore](https://iisc.ac.in){:target="_blank"}, where I worked with [Prof. Aditya Kanade](https://www.linkedin.com/in/aditya-kanade-572113139/){:target="_blank"} in the [Software Engineering and Analysis Lab](https://www.iisc-seal.net){:target="_blank"}, developing an automated bug detection [tool](https://drive.google.com/file/d/0B0yDXlBaWkDwamZoRnZDYTZlNTg/view?usp=drive_link&resourcekey=0-arHXT1Dx5MEKqy6SfSSdKA){:target="_blank"} for Android applications. 
 I am also a proud alumna of [IIEST, Shibpur](https://www.iiests.ac.in){:target="_blank"}, where I did my undergraduate studies. 
 During this time, I had the opportunity to work as an undergraduate summer intern at [Nomura Research Institute, Kolkata](https://www.nrifintech.com){:target="_blank"}.
 
