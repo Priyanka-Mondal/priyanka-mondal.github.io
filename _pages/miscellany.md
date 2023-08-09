@@ -16,6 +16,9 @@ author_profile: true
 - 2009-2013: Bachelor of Engineering, [Department of Computer Science and Technology](https://www.iiests.ac.in/IIEST/AcaUnitDetails/CST), [Indian Institute of Engineering Science and Technology, Shibpur](https://www.iiests.ac.in)
  
 <hr>
+## Useful links
+- [Software Foundations](https://softwarefoundations.cis.upenn.edu)
+<hr>
 ## Hobbies 
 
 - 🎶 I learned Kathak (an Indian classical dance form) for 6 years, but I enjoy other dance forms like Bharatnatyam, 
