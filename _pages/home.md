@@ -35,5 +35,5 @@ Feel free to connect with me as the explore the world of computer security.
 - [August 8th, 2022] Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> </font></b>
 
 
-[All news>>](){:target="_blank"}
+[All news>>]()
 
