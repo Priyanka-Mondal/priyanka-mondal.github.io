@@ -23,7 +23,8 @@ I am also a proud alumna of [IIEST, Shibpur](https://www.iiests.ac.in){:target="
 During this time, I had the opportunity to work as an undergraduate summer intern at [Nomura Research Institute, Kolkata](https://www.nrifintech.com){:target="_blank"}.
 
 Through my work, I strive to create a safer digital environment for all. 
-Feel free to connect with me as I explore the world of computer security.
+Feel free to connect with me via email or LinkedIn.
+
 <hr>
 
 ## Latest news
