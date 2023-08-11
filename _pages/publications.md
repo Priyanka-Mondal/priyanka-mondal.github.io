@@ -16,7 +16,7 @@ Under Submission
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
-  Journal of Computer Security (31), August 2023
+  Journal of Computer Security (31st Volume), August 2023
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} ( recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> </font> </b> ) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
