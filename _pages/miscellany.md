@@ -25,5 +25,5 @@ author_profile: true
 ## My Hobbies 
 
  🎶 I learned Kathak (an Indian classical dance form) for 6 years, but I enjoy other dance forms like Bharatnatyam, 
-Afrobeats etc., as well ||  🌍 Travel enthusiast ||  🎨 Sometimes I like expressing myself on canvas too || 🍜 I am a big foodie and like to perform experiments in the kitchen
+Afrobeats etc., as well ||  🌍 Travel enthusiast ||  🎨 Sometimes I like expressing myself on canvas too ||
 
