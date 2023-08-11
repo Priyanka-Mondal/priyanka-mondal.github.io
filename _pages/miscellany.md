@@ -13,7 +13,7 @@ author_profile: true
 - 2017-2024: PhD, [Computer Science and Engineering](https://engineering.ucsc.edu/departments/computer-science-and-engineering/){:target="_blank"}, [University of California, Santa Cruz](https://www.ucsc.edu/about/){:target="_blank"}
 - 2015-2017: Software Engineer <b> Level 2</b>, Networking and Cloud Team, [Citrix R&D, Bangalore](https://www.citrix.com){:target="_blank"}
 - 2013-2015: Master of Engineering, [Computer Science and Automation](https://www.csa.iisc.ac.in){:target="_blank"}, [Indian Institute of Science, Bangalore](https://iisc.ac.in){:target="_blank"}
-- 2009-2013: Bachelor of Engineering, [Computer Science and Technology](https://www.iiests.ac.in/IIEST/AcaUnitDetails/CST){:target="_blank"}, [Bengal Engineering and Science University, Shibpur](https://www.iiests.ac.in){:target="_blank"}
+- 2009-2013: Bachelor of Engineering, [Computer Science and Technology](https://www.iiests.ac.in/IIEST/AcaUnitDetails/CST){:target="_blank"}, [Bengal Engineering and Science University](https://www.iiests.ac.in){:target="_blank"}
  
 <hr>
 ## Useful links
