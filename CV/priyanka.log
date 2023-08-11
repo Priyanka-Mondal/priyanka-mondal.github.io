@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  10 AUG 2023 13:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.15)  11 AUG 2023 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,7 +489,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 20.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 20.
- (./priyanka.aux)
+
+No file priyanka.aux.
 \openout1 = `priyanka.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -510,7 +511,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
-
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count285
@@ -598,15 +598,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
- (./priyanka.out) (./priyanka.out)
 \@outlinefile=\write3
 \openout3 = `priyanka.out'.
 
-\pagenumberwidth=\skip84
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 2
 1.
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
@@ -658,43 +655,43 @@ Underfull \hbox (badness 10000) detected at line 40
  []
 
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
-4.
+7.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 44.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 47.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 45.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 49.
+(Font)              using `T1/qpl/b/n' instead on input line 52.
 
 
-Underfull \hbox (badness 10000) detected at line 49
+Underfull \hbox (badness 10000) detected at line 52
 \T1/qpl/m/n/8 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 60.
+(Font)              using `T1/qpl/b/n' instead on input line 62.
 
 
-Underfull \hbox (badness 10000) detected at line 60
+Underfull \hbox (badness 10000) detected at line 62
 \T1/qpl/m/n/8 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/qpl/sb/n' undefined
-(Font)              using `T1/qpl/b/n' instead on input line 64.
+(Font)              using `T1/qpl/b/n' instead on input line 66.
 
 
-Underfull \hbox (badness 10000) detected at line 64
+Underfull \hbox (badness 10000) detected at line 66
 \T1/qpl/m/n/8 .
  []
 
@@ -703,35 +700,44 @@ Underfull \hbox (badness 10000) detected at line 64
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 85.
+(hyperref)                removing `math shift' on input line 87.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 85.
+(hyperref)                removing `math shift' on input line 87.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 85.
+(Font)              <14.4> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 85.
+(Font)              <10> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 85.
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--124
+(Font)              <7> on input line 87.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
 
  []
 
-[2] [3] (./priyanka.aux)
-Package rerunfilecheck Info: File `priyanka.out' has not changed.
-(rerunfilecheck)             Checksum: D035A59F3236FCB37A6FA8B216563FBE;1768.
+[3] (./priyanka.aux)
+
+Package rerunfilecheck Warning: File `priyanka.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `priyanka.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D035A59F3236FCB37A6FA8B216563FBE;1768.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 14593 strings out of 479383
- 217170 string characters out of 5869372
- 557093 words of memory out of 5000000
- 31361 multiletter control sequences out of 15000+600000
+ 14574 strings out of 479383
+ 216936 string characters out of 5869372
+ 556414 words of memory out of 5000000
+ 31347 multiletter control sequences out of 15000+600000
  477584 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,12n,86p,453b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,12n,86p,453b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
 texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/t
 exmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2020/texmf-dist
@@ -744,10 +750,10 @@ ts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2020/texmf-dist
 /qplb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplbi
 .pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb><
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on priyanka.pdf (3 pages, 323103 bytes).
+Output written on priyanka.pdf (3 pages, 316898 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 37993 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
+ 37889 words of extra memory for PDF output out of 42996 (max. 10000000)
 
