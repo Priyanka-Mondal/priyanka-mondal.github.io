@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: miscellany/
-author_profile: true
+author_profile: false
 ---
 
 
