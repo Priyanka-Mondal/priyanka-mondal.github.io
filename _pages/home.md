@@ -26,7 +26,9 @@ Feel free to connect with me as I explore the world of computer security.
 
 ## Latest news
 
-#- [Sept 8th, 2023] <b><font color="Tomato"> I am actively looking for a full-time job </font></b>
+--- 
+[Sept 8th, 2023] <b><font color="Tomato"> I am actively looking for a full-time job </font></b>
+---
 - [August 10th, 2023] Our paper got accepted in [Journal of Computer Security (31st Volume)](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}
 - [June 9th, 2023] Gave a talk on Asynchrony and Choreographies in [LSD Seminar](https://lsd.ucsc.edu/lsd-seminar/2023sp/){:target="_blank"} 
 - [April 21st, 2023] I will be serving the [WiCyS](https://www.wicys.org){:target="_blank"}  student chapter at UCSC as the Vice President
@@ -35,6 +37,7 @@ Feel free to connect with me as I explore the world of computer security.
 - [Feb 2nd, 2023] We launched a [Wicys](https://www.wicys.org){:target="_blank"} student chapter at UCSC
 - [Dec 7th, 2022] Passed my [Advancement Exam](https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless){:target="_blank"}, Yay!! 
 - [August 8th, 2022] Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> </font></b>
+- [May 22nd, 2022]  Presented my [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} at [PLCrypy'22](https://andrewcmyers.github.io/plcrypt/){:target="_blank"}
 
 
 [All news>>]()
