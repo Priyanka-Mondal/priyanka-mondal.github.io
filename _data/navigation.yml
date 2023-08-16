@@ -8,5 +8,5 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Miscellany"
-    url: /miscellany/ 
+  #- title: "Miscellany"
+  #  url: /miscellany/ 
