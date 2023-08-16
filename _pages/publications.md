@@ -12,11 +12,11 @@ You can also find my published articles on [Google Scholar](https://scholar.goog
 - [I/O-Efficient Dynamic Searchable Encryption meets Forward &
 Backward Privacy](){:target="_blank"}<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitris Papadopoulos <br>
-Under Submission
+<i>Under Submission</i>
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
-  Journal of Computer Security (31st Volume), 2023
+  <i>Journal of Computer Security (31st Volume)</i>, 2023
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} ( recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> </font> </b> ) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
