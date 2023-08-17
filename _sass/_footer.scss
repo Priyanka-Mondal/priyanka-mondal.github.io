@@ -57,7 +57,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  text-align: right;
+  text-align: left;
 }
 
 .page__footer-follow {
@@ -65,7 +65,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    text-align: right;
+    text-align: left;
   }
 
   li {
@@ -90,8 +90,8 @@
 body,
 .website-counter {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items:left;
   flex-direction: column;
   font-color: blue;
 }
