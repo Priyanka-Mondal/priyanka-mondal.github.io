@@ -13,6 +13,7 @@
   position: absolute;
   bottom: 0em;
   height: auto;
+  text-align: right;
   /* sticky footer fix end */
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
@@ -56,6 +57,7 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  text-align: right;
 }
 
 .page__footer-follow {
@@ -63,6 +65,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    text-align: right;
   }
 
   li {
