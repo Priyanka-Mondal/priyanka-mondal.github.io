@@ -8,13 +8,6 @@
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
-
-.website-counter {
-  display: flex;
-  justify-content: right;
-  align-items: right;
-  flex-direction: column;
-}
    
   @include breakpoint($large) {
     @include span(10 of 12 last);
