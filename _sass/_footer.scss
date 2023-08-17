@@ -90,7 +90,18 @@
   align-items: center;
   flex-direction: column;
 }
-   
+
+.website-counter {
+  background-color: #ff4957;
+  height: 50px;
+  width: 80px;
+  color: white;
+  border-radius: 30px;
+  font-weight: 700;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
   .social-icons {
     a {
       white-space: nowrap;
