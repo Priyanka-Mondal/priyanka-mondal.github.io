@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=priyanka-mondal&color=greenlabel=Repository+Views)
+![](https://komarev.com/ghpvc/?username=priyanka-mondal&label=Repository+Views&color=orange)
