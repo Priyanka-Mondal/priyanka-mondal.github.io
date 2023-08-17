@@ -40,4 +40,6 @@ Feel free to connect with me as I explore the world of computer security.
 
 [All news>>]()
 
-
+<footer>
+  HIII
+</footer>
