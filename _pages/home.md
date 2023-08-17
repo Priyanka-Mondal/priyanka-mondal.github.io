@@ -40,3 +40,10 @@ Feel free to connect with me as I explore the world of computer security.
 
 [All news>>]()
 
+< footer>
+  <p>
+<?php
+    echo "You are the", #number, " visitor on this site!";
+    ?>
+</p>
+</footer>
