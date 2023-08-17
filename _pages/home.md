@@ -41,5 +41,5 @@ Feel free to connect with me as I explore the world of computer security.
 [All news>>]()
 
 <footer>
-  Views: <div class="website-counter"></div>
+  <div class="website-counter" data-task-owner="views:"></div>
 </footer>
