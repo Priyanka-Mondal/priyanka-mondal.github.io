@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
  <script defer src="https://priyanka-mondal.github.io/index.js"></script>
- <link rel="stylesheet" href="https://priyanka-mondal.github.io/styles.css">
+ <!--link rel="stylesheet" href="https://priyanka-mondal.github.io/styles.css"-->
 <b> Hello there, I'm Priyanka !! Welcome to my personal website. </b>  
 
 Currently, I am working towards my PhD at [UCSC](https://www.ucsc.edu/about/){:target="_blank"}. 
