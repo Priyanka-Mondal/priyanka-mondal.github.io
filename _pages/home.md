@@ -5,7 +5,7 @@ excerpt: "Home"
 permalink: /
 author_profile: true
 ---
-
+ <script defer src="https://priyanka-mondal.github.io/index.js"></script>
 <b> Hello there, I'm Priyanka !! Welcome to my personal website. </b>  
 
 Currently, I am working towards my PhD at [UCSC](https://www.ucsc.edu/about/){:target="_blank"}. 
