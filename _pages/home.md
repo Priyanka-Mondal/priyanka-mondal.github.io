@@ -41,5 +41,5 @@ Feel free to connect with me as I explore the world of computer security.
 [All news>>]()
 
 <footer>
-  <div class="website-counter"><span>Views:</span></div>
+  <!--div class="website-counter"><span>Views:</span></div>-->
 </footer>
