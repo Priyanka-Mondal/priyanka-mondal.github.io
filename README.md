@@ -1,4 +1,4 @@
 Source code of Priyanka Mondal's github page
 
 
-![viewsCount](https://img.shields.io/endpoint?url=https://priyanka-mondal.github.io/?rapidapi-key=7e1e78b6acmsh33c386b68fad57ap177ec4jsna269280f5e9eID=priyank_mondal_github_page)
+https://img.shields.io/endpoint?url=https://counter10.p.rapidapi.com/?rapidapi-key=44fcc7f8f7mshacfcb91fc4190bfp189dddjsnaa696e83052d%26%26IDV=testpage
