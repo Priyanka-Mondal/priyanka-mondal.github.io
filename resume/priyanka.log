@@ -601,13 +601,9 @@ LaTeX Info: Redefining \nameref on input line 20.
 \@outlinefile=\write3
 \openout3 = `priyanka.out'.
 
-
-! I can't write on file `priyanka.pdf'.
-(Press Enter to retry, or Control-D to exit; default file extension is `.pdf')
-Please type another file name for output: 
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 2
 1.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
