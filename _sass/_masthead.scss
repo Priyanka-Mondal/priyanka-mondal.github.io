@@ -18,8 +18,8 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-   color: rgba(255, 99, 71, 0.5);
-   background-color : rgba(255, 99, 71, 0.5);
+  color: rgb(255, 255, 255);
+   background-color : rgb(255, 255, 255);
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -31,8 +31,8 @@
 
     a {
       text-decoration: none;
-      color: rgba(255, 99, 71, 0.5);
-      background-color : rgba(255, 99, 71, 0.5);
+      color: rgb(255, 255, 255);
+   background-color : rgb(255, 255, 255);
     }
   }
 }
@@ -43,8 +43,8 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-    color : rgba(255, 99, 71, 0.5);
-    background-color: rgba(255, 99, 71, 0.5);
+   color: rgb(255, 255, 255);
+   background-color : rgb(255, 255, 255);
   }
 }
 
@@ -52,13 +52,13 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  background-color : rgba(255, 99, 71, 0.5);
-  color : rgba(255, 99, 71, 0.5)
+  background-color : rgb(255, 255, 255);
+  color : rgb(255, 255, 255)
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-    color: rgba(255, 99, 71, 0.5);
-    background-color : rgba(255, 99, 71, 0.5);
+     background-color : rgb(255, 255, 255);
+  color : rgb(255, 255, 255)
   }
 }
