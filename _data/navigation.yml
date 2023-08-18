@@ -1,13 +1,7 @@
 # main links links
 main:
- - title: "CV" 
-    url: /cv/ 
-    
- - title: "Publications"
-    url: /publications/ 
-    
+   - title: "CV"
+    url: /cv/
 
-   
-
-  #- title: "Miscellany"
-  #  url: /miscellany/ 
+  - title: "Publications"
+    url: /publications/
