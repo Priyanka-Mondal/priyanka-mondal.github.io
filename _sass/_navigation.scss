@@ -73,19 +73,23 @@
   @include clearfix();
   margin-top: 1em;
   padding-top: 1em;
-
+ color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
   ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
+      color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
   }
 
   li {
     display: block;
     float: left;
     margin-left: -1px;
-
+    color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
@@ -110,7 +114,8 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+         color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -118,7 +123,8 @@
 
     &:first-child {
       margin-left: 0;
-
+ color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
       a {
         border-top-left-radius: $border-radius;
         border-bottom-left-radius: $border-radius;
@@ -129,6 +135,8 @@
 
     &:last-child {
       a {
+          color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
         border-top-right-radius: $border-radius;
         border-bottom-right-radius: $border-radius;
       }
@@ -156,11 +164,15 @@
     }
 
     &:first-child {
+        color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
       border-top-right-radius: 0;
       border-bottom-right-radius: 0;
     }
 
     &:last-child {
+        color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
       margin-left: -1px;
       border-top-left-radius: 0;
       border-bottom-left-radius: 0;
@@ -182,6 +194,8 @@
   margin-top: 2em;
   padding-top: 2em;
   border-top: 1px solid $border-color;
+    color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
 }
 
 
@@ -213,7 +227,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
     color: #fff;
     cursor: pointer;
   }
