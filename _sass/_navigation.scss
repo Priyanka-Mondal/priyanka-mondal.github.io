@@ -32,6 +32,8 @@
     padding: 0;
     list-style: none;
     font-size: $type-size-6;
+     color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -44,10 +46,14 @@
 
   li {
     display: inline;
+     color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
   }
 
   .current {
     font-weight: bold;
+     color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
   }
 }
 
