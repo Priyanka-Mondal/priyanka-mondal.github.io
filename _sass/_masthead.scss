@@ -49,7 +49,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-   background-color : Azure;
+   background-color : rgba(255, 99, 71, 0.5);
+   color : rgba(255, 99, 71, 0.5)
 
   &--lg {
     padding-right: 2em;
