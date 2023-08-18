@@ -83,19 +83,18 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      background-color: $light-gray;  
+      color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
       border: 1px solid $light-gray;
       border-radius: 0;
-       background-color: $light-gray; 
 
       &:hover {
         color: $link-color-hover;
       }
 
       &.current {
-        color: #fff;
-        background: $light-gray;  
+        color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
       }
 
       &.disabled {
@@ -111,6 +110,8 @@
       a {
         border-top-left-radius: $border-radius;
         border-bottom-left-radius: $border-radius;
+         color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
       }
     }
 
@@ -133,7 +134,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -153,7 +155,8 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
       pointer-events: none;
       cursor: not-allowed;
     }
