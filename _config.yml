@@ -174,10 +174,10 @@ kramdown:
 
 # Collections
 collections:
-  cv:
+ publications:
     output: true
     permalink: /:collection/:path/
-  publications:
+  cv:
     output: true
     permalink: /:collection/:path/
   miscellany:
