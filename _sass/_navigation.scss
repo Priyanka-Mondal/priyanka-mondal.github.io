@@ -13,6 +13,8 @@
   margin-bottom: 0;
   padding-left: 2em;
   padding-right: 2em;
+   color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -22,10 +24,14 @@
   @include breakpoint($large) {
     padding-left: 1em;
     padding-right: 1em;
+     color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
   }
 
   @include breakpoint($x-large) {
     max-width: $x-large;
+     color: rgba(255, 99, 71, 0.5);
+   background-color : rgba(255, 99, 71, 0.5);
   }
 
   ol {
