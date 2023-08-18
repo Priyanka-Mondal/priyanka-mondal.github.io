@@ -9,8 +9,7 @@ author_profile: true
  <!--link rel="stylesheet" href="https://priyanka-mondal.github.io/styles.css"-->
 <b> Hello there, I'm Priyanka !! Welcome to my personal website. </b>  
 
-Currently, I am working towards my PhD at [UCSC](https://www.ucsc.edu/about/){:target="_blank"}. 
-I am advised by [Prof. Owen Arden](https://owenarden.github.io/home/){:target="_blank"} and [Prof. Ioannis Demertzis](https://idemertzis.com){:target="_blank"}. 
+Currently, I am working towards my PhD at [University of California, Santa Cruz(UCSC)](https://www.ucsc.edu/about/){:target="_blank"}. I am advised by [Prof. Owen Arden](https://owenarden.github.io/home/){:target="_blank"} and [Prof. Ioannis Demertzis](https://idemertzis.com){:target="_blank"}. 
 My research lies in the intersection of language-based security, security in distributed systems, 
 and applied cryptography. Specifically, I am interested in information flow policies, 
 fault tolerant systems and searchable encyption. At UCSC, I work closely with the people from [Language, Systems, and Data Lab](https://lsd.ucsc.edu){:target="_blank"}, and [Security Research Lab](https://srl-ucsc.github.io/seminar.html){:target="_blank"}. I am an active member of [Women in Cyber Security](https://www.wicys.org){:target="_blank"} 
