@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: miscellany/
+permalink: news/
 author_profile: false
 ---
 
