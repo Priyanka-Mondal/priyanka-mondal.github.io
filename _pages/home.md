@@ -34,7 +34,7 @@ Feel free to connect with me as I explore the world of computer security.
 - [Feb 21st, 2023] Presented my work on [I/O efficient Dynamic Searchable Encryption](https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing){:target="_blank"} at the [CRSS seminar](https://www.ssrc.ucsc.edu/seminars.html){:target="_blank"}
 - [Feb 2nd, 2023] We launched a [Wicys](https://www.wicys.org){:target="_blank"} student chapter at UCSC
 - [Dec 7th, 2022] Passed my [Advancement Exam](https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless){:target="_blank"}, Yay!! 
-- [August 8th, 2022] Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> </font></b>
+- [August 8th, 2022] Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> 🏆 </font></b>
 - [May 22nd, 2022]  Presented my [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} at [PLCrypy'22](https://andrewcmyers.github.io/plcrypt/){:target="_blank"}
 
 
