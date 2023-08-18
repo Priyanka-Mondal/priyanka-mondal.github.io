@@ -42,8 +42,8 @@ Feel free to connect with me as I explore the world of computer security.
 [All news>>]()
 
 <!--footer-->
-<div class="page__footer-follow"> 
+<!--div class="page__footer-follow"> 
 <div class="page__footer-copyright">
   <div class="website-counter"></div> 
-</div>
+</div-->
 <!--/footer-->
