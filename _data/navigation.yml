@@ -1,12 +1,13 @@
 # main links links
 main:
-      
+
+ - title: "Publications"
+    url: /publications/ 
+    
   - title: "CV" 
     url: /cv/ #https://drive.google.com/file/d/1CGacPGnN3TDL2rGkI8_0T3QNog1gqYuY/view?usp=drive_link/ 
     #target: "_blank"
    
-  - title: "Publications"
-    url: /publications/ 
 
   #- title: "Miscellany"
   #  url: /miscellany/ 
