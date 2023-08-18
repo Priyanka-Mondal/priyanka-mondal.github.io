@@ -13,5 +13,5 @@ author_profile: true
     frameBorder="0"
     scrolling="auto"
     height="600px"
-    width="300px"
+    width="100%"
 ></iframe>
