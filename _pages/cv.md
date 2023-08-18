@@ -4,8 +4,8 @@ title: ""
 permalink: cv/
 author_profile: true
 ---
-<a href="https://priyanka-mondal.github.io/CV/priyanka.pdf" download="Priyanka_Mondal_CV.pdf" target="_blank" style="font-weight:bold; font-size: 1.5em;">[Download CV]</a>
-<a href="https://priyanka-mondal.github.io/CV/priyanka.pdf" target="_blank" style="font-weight:bold; font-size: 1.5em;">[View CV]</a>
+<a href="https://priyanka-mondal.github.io/CV/priyanka.pdf" download="Priyanka_Mondal_CV.pdf" target="_blank" style="font-weight:bold; font-size: 1.2em;">[Download CV]</a>
+<a href="https://priyanka-mondal.github.io/CV/priyanka.pdf" target="_blank" style="font-weight:bold; font-size: 1.2em;">[View CV]</a>
 
 
 <iframe
