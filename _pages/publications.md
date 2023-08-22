@@ -22,7 +22,7 @@ Backward Privacy](){:target="_blank"}<br>
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (Recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
 <i>Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)</i><br>
-[[Poster]](){:target="_blank"}[[PDF]](https://drive.google.com/file/d/1RvG4morYwqtZj39K7GKkcbnc91zBL8RJ/view?usp=drive_link){:target="_blank"}
+[[PDF]](https://drive.google.com/file/d/1RvG4morYwqtZj39K7GKkcbnc91zBL8RJ/view?usp=drive_link){:target="_blank"}
 
 
 
