@@ -34,8 +34,9 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Extended abstract)<br>
 **Priyanka Mondal** and Owen Arden <br>
 <i>32nd IEEE Computer Security Foundations (CSF 2019)</i><br>
-[[Poster]](https://drive.google.com/file/d/13HH680yMIJaKQAELSh5YHUhspJsysiWT/view?usp=sharing){:target="_blank"}
+[[Poster]](https://drive.google.com/file/d/1xVm7xlsimldurA3psJ7gOdS7WbtEIKU4/view?usp=sharing){:target="_blank"}
 [[PDF]](){:target="_blank"}
+
  <script defer src="https://priyanka-mondal.github.io/index.js"></script>
 
 
