@@ -31,7 +31,7 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 <i>Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019)</i><br>
 [[Poster]](){:target="_blank"}[[PDF]](https://drive.google.com/file/d/1GRxsjw64xL74-oiJ_dhfyhWAHbnkoBdS/view?usp=drive_link){:target="_blank"}[[BIB]]()
 
-- [Flowstate: A Language for Secure Replicated Computation](){:target="_blank"} (Extended abstract)<br>
+- [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Extended abstract)<br>
 **Priyanka Mondal** and Owen Arden <br>
 <i>32nd IEEE Computer Security Foundations (CSF 2019)</i><br>
 [[Poster]](https://drive.google.com/file/d/13HH680yMIJaKQAELSh5YHUhspJsysiWT/view?usp=sharing){:target="_blank"}
