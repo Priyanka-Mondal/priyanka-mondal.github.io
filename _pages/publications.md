@@ -29,7 +29,7 @@ Backward Privacy](){:target="_blank"}<br>
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"} (Extended abstract)<br>
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
 <i>Proceedings of the 10th ACM Symposium on Cloud Computing<i> (SoCC 2019)<br>
-[Poster](()){:target="_blank"}[PDF](()){:target="_blank"}
+[[Poster]](){:target="_blank"}[[PDF]](){:target="_blank"}
 
  <script defer src="https://priyanka-mondal.github.io/index.js"></script>
 
