@@ -14,4 +14,5 @@ author_profile: false
 - [Dec 7th, 2022] Passed my [Advancement Exam](https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless){:target="_blank"}, Yay!! 
 - [August 8th, 2022] Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> 🏆 </font></b> 
 - [May 22nd, 2022]  Presented my [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} at [PLCrypy'22](https://andrewcmyers.github.io/plcrypt/){:target="_blank"}, at Stanford Research Institute, Menlo Park 
- - [March 20th, 2022] Started working on <i>Searchable Encryption</i>  
+ - [March 20th, 2022] Started working on <i>Searchable Encryption</i>
+ - [Dec 7th, 2021] Presented my work on "Applying consensus and replication with FLAQR" in [The 16th Workshop on Programming Langguages and Analysis for Security (PLAS'21)](https://plas21.software.imdea.org){:target="_blank"}
