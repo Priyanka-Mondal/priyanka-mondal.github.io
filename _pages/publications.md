@@ -12,7 +12,7 @@ author_profile: true
 	    background-color:White;/*#87CEEB;/*#008CBA;*/
 	    color: #89CFF0;
             border-color:White;
-            font-size: 14px;
+            font-size: 15px;
             font-weight: 700;
             padding: 0px;
             border: 0px;
