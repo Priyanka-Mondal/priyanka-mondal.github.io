@@ -204,7 +204,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from 
   - jekyll-target-blank
-  - jekyll/scholar
+  - jekyll-scholar
 # mimic GitHub Pages with --safe
 
 scholar:
