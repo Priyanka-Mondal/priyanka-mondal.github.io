@@ -1,1 +1,105 @@
+---
+---
 
+
+<style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify">
+<h5 >{{ entry.title }}</h5>
+{% if entry.blurb %}
+<h6>{{ entry.blurb}}</h6>
+{% endif %}
+<h6>
+{% if entry.series %}
+{{entry.series}}
+{% else %}
+{% if entry.type == 'techreport' %}
+Technical Report
+{% endif %}
+{% if entry.type == 'phdthesis' %}
+Ph.D. Dissertation
+{% endif %}
+{% endif %}
+{% if entry.awards %}&nbsp;&nbsp;<b><em>{{entry.awards}}</em></b>{% endif %}
+</h6>
+{{entry.author | replace_first: 'Arden, Owen', '<b>Arden, Owen</b>' }}
+</div>
+
+{% assign bibtest = false %}
+{% if entry.file %}
+{% assign bibfile = "/papers/" | append: entry.file %}
+{% for file in site.static_files %}
+  {% if file.path contains bibfile %}
+   {% assign bibtest = true %}
+  {% endif %}
+{% endfor %}
+{% endif %}
+
+{% if bibtest %}
+<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ entry.file }}" target="_blank"><button class="btn btn-primary btm-sm">PDF</button></a>
+{% endif %}
+
+{% if entry.doi %}
+{% if entry.type == 'unpublished' %}
+<a href="{{ entry.doi | prepend: 'https://arxiv.org/abs/' }}" target="_blank"><button class="btn btn-primary btm-sm">ARXIV</button></a>
+{% else %}
+<a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn btn-success btm-sm">DOI</button></a>
+{% endif %}
+{% else %}
+{% if entry.url %}
+<a href="{{ entry.url }}" target="_blank"><button class="btn btn-success btm-sm">URL</button></a>
+{% endif %}
+{% endif %}
+
+{% if entry.type == 'unpublished' or entry.type == 'article' or  entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'techreport' %}
+<button class="btn btn-danger btm-sm"  onclick="toggleBibtex{{entry.key}}()">BIB</button>
+{% endif %}
+
+{% if entry.abstract %}
+<button class="btn btn-warning btm-sm"  onclick="toggleAbstract{{entry.key}}()">ABSTRACT</button>
+{% endif %}
+
+<div id="a{{entry.key}}" style="display: none; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>{{ entry.bibtex | remove:"file = entry.file"}}</pre>
+</div>
+
+<div id="b{{entry.key}}" style="display: none; border-radius:5px; padding:10px; margin-bottom:20px;">
+<p>{{entry.abstract}}</p>
+</div>
+
+<script>
+function toggleBibtex{{entry.key}}(parameter) {
+    var x= document.getElementById('a{{entry.key}}');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstract{{entry.key}}(parameter) {
+    var x= document.getElementById('b{{entry.key}}');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
