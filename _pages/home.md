@@ -46,3 +46,4 @@ Feel free to connect with me as I explore the world of computer security.
   <div class="website-counter"></div> 
 </div-->
 <!--/footer-->
+{% bibliography --query @article[year >= 2017] or @inproceedings[year >= 2017] or @techreport[year >= 2017]%}
