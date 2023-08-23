@@ -113,6 +113,7 @@ series = {SoCC '19}
 function copyBib(name) 
 {
     navigator.clipboard.writeText(name);
+    alert("BIB Copied to clipboard!");
 }
 </script>
 
