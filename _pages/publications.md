@@ -38,7 +38,7 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 [[PDF]](https://drive.google.com/file/d/19kTyo9jv64xKZwERCbZL3j9tREOX27tr/view?usp=sharing){:target="_blank"}
 
 
-{% bibliography %}
+{% bibliography --query @inproceedings %}
  <script defer src="https://priyanka-mondal.github.io/index.js"></script>
 
 
