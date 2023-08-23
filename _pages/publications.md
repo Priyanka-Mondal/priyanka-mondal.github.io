@@ -12,8 +12,8 @@ author_profile: true
 	    background-color:Azure;/*#87CEEB;/*#008CBA;*/
 	    color: #89CFF0;
             border-color:White;
-            font-size: 15px;
-            font-weight: 700;
+            font-size: 17px;
+            font-weight: 600;
             padding: 0px;
             border: 0px;
 	    text-decoration: underline;
