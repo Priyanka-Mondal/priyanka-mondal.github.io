@@ -89,30 +89,11 @@ doi = {10.1145/3357223.3365442}}')">[BIB]</button>
 [[PDF]](https://drive.google.com/file/d/19kTyo9jv64xKZwERCbZL3j9tREOX27tr/view?usp=sharing){:target="_blank"}
 
 
-
-
-<div class=dontPrint id="voteThem">@inproceedings{10.1145/3357223.3365442,
-author = {Tran, Tuan and Mondal, Priyanka and Shadmon, Roy and Mallikarjun, Manthan and Alvaro, Peter and Arden, Owen},
-title = {Vote Them Out: Detecting and Eliminating Byzantine Peers},
-year = {2019},
-isbn = {9781450369732},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {doi.org/10.1145/3357223.3365442},
-doi = {10.1145/3357223.3365442},
-abstract = {},
-booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
-pages = {480},
-numpages = {1},
-location = {Santa Cruz, CA, USA},
-series = {SoCC '19}
-}
-</div>
 <script>     
 function copyBib(name) 
 {
     navigator.clipboard.writeText(name);
-    alert("BIB Copied to clipboard!");
+    alert("Copied to clipboard!");
 }
 </script>
 
