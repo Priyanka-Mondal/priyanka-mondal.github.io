@@ -91,7 +91,7 @@ doi = {10.1145/3357223.3365442}}')">[BIB]</button>
 function copyBib(name) 
 {
     navigator.clipboard.writeText(name);
-    alert("Copied to clipboard!");
+    /*alert("Copied to clipboard!");*/
 }
 </script>
 
