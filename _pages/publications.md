@@ -21,7 +21,7 @@ author_profile: true
 		}    
         button:active {
         	background-color:Cyan;
-            color: White;
+            color: Black;
 		}
         .dontPrint {
        display:none;
