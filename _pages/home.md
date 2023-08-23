@@ -46,4 +46,4 @@ Feel free to connect with me as I explore the world of computer security.
   <div class="website-counter"></div> 
 </div-->
 <!--/footer-->
-{% bibliography --query @inproceedings %}
+
