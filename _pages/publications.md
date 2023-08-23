@@ -20,7 +20,7 @@ author_profile: true
 	</style>
 
 
-You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"} <button onclick="copyText()">BIB</button>
+You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"} 
 {% include base_path %}
 
 
@@ -32,7 +32,7 @@ Backward Privacy]()<br>
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
   <i>Journal of Computer Security, 2023 (31st Volume)</i><br>
-  [[Pre-Press]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}[[BIB]]()
+  [[Pre-Press]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}<button onclick="copyText()">BIB</button>
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (Recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
