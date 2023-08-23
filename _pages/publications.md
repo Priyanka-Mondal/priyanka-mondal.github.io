@@ -11,7 +11,7 @@ author_profile: true
 			width: 37px;
 			height: 20px;
 			background-color:White;/*#87CEEB;/*#008CBA;*/
-			color: Cyan;
+			color: #89CFF0;
             border-color:White;
             font-size: 12px;
             font-weight: 900;
@@ -41,8 +41,7 @@ Backward Privacy]()<br>
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
   <i>Journal of Computer Security, 2023 (31st Volume)</i><br>
-  [[Pre-Press]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}<br />
-	<button onclick="copyContent()">[BIB]</button>
+  [[Pre-Press]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}<button onclick="copyContent()">[BIB]</button>
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (Recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
