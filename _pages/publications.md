@@ -10,7 +10,7 @@ You can also find my published articles on [Google Scholar](https://scholar.goog
 
 
 - [I/O-Efficient Dynamic Searchable Encryption meets Forward &
-Backward Privacy](){:target="_blank"}<br>
+Backward Privacy]()<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitris Papadopoulos <br>
 <i>Under Submission</i>
 
@@ -39,19 +39,8 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 
 
 
-<style>
-.jumbotron{
-    padding:3%;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-top:10px;
-    margin-bottom:30px;
-}
-</style>
 
- <div class="jumbotron">
-### Journal articles
-</div>
+
 
 
 
