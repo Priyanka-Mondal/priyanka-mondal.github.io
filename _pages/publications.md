@@ -9,7 +9,7 @@ author_profile: true
        button {
 	    width: 37px;
 	    height: 20px;
-	    background-color:White;/*#87CEEB;/*#008CBA;*/
+	    background-color:Azure;/*#87CEEB;/*#008CBA;*/
 	    color: #89CFF0;
             border-color:White;
             font-size: 15px;
