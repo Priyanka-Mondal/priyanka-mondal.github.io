@@ -1,25 +1,49 @@
-{% include base_path %}
-
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
-  {% endif %}
+<div>
+{% for member in site.data.pi %}
+<div class="jumbotron">
+   <center>
+   <a href="{{site.url}}{{site.baseurl}}/about"><img src="{{site.url}}{{site.baseurl}}/images/teampic/{{ member.photo }}" width="50%" style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a>
+   <h4>{{ member.name }}</h4>
+   <div style="margin-bottom:5px">
+   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
+   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
+   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
+   {% if member.twitter %} <a href="{{ member.twitter}}" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a> {% endif %}
   </div>
-{% endif %}
+  </center>
+{% endfor %}
+</div>
+
+<div class="jumbotron">
+  <h4> Current PhD students</h4>
+  {% assign phds = site.data.people | where:"degree","Ph.D." | where:"status", "current" | sort:"name" %}
+  {% for student in phds %}
+   <p> <a href="{{ student.url }}">{{ student.name }}</a>
+   {% if student.role contains 'co-advised' %}
+      ({{ student.role }})
+   {% endif %}
+   </p>
+  {% endfor %}
+</div>
+
+<div class="jumbotron">
+  <h4>Current Projects</h4>
+  {% assign active = site.data.projects | where:"status","active" | sort:"title" %}
+  {% for project in active %}
+    <p>
+    <h5><a href="{{project.url}}">{{ project.title }}</a></h5>
+    <h7>{{ project.blurb }}</h7>
+    </p>
+  {% endfor %}
+</div>
+
+<div class="jumbotron">
+  <h4>Previous Projects</h4>
+  {% assign active = site.data.projects | where:"status","completed" | sort:"title" %}
+  {% for project in active %}
+    <p>
+    <h5><a href="{{project.url}}">{{ project.title }}</a></h5>
+    <h7>{{ project.blurb }}</h7>
+    </p>
+  {% endfor %}
+</div>

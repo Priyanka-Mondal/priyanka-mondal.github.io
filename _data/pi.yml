@@ -1,0 +1,36 @@
+- name: Owen Arden
+  photo: Gates2.jpg
+  info: Assistant Professor, UC Santa Cruz
+  email: owen@soe.ucsc.edu
+  github: https://github.com/owenarden
+  researchgate: https://www.researchgate.net/profile/Owen-Arden
+  scholar: https://scholar.google.com/citations?user=CiBRJ_EAAAAJ
+  twitter: https://twitter.com/owenarden
+  cv: cv/cv.pdf
+  number_educ: 8
+  education1: (2017- ) Assistant Professor, UC Santa Cruz
+  education2: (2020-2021) Visiting Scientist, Facebook
+  education3: (2016-2017) Postdoc, Harvard University (with <a href="https://people.seas.harvard.edu/~chong/" target="_blank">Steve Chong</a>)
+  education4: (2017) Ph.D. Computer Science, Cornell University (with <a href="https://www.cs.cornell.edu/andru" target="_blank">Andrew Myers</a>)
+  education5: (2014) M.S. Computer Science, Cornell University
+  education6: (2008-2009) Security Analyst, <a href="https://ise.io">Independent Security Evaluators</a>
+  education7: (2003-2008) Global Network Vulnerability Analyst, NSA
+  education8: (2003) B.S. Computer Engineering, Georgia Tech
+  education1short: (2017- ) Assistant Professor, UCSC
+  education2short: (2020-21) Visiting Scientist, Facebook
+  education3short: (2016-17) Postdoc, Harvard
+  education4short: (2017) Ph.D. CS, Cornell
+  education5short: (2014) M.S. CS, Cornell
+  education6short: (2008-09) Security Analyst, <a href="https://ise.io">ISE</a>
+  education7short: (2003-08) Vulnerability Analyst, NSA
+  education8short: (2003) B.S., Georgia Tech
+  shortbio: Owen Arden is an Assistant Professor of Computer Science and Engineering at UC
+            Santa Cruz. He received his Ph.D. in Computer Science in 2017 from Cornell
+            University.  His research develops languages and protocols that make it easier
+            to build systems with strong security guarantees. Previously he worked as
+            Global Network Vulnerability Analyst for the National Security Agency, and in
+            2007 received a National Intelligence Meritorious Unit Citation.  He was a
+            recipient of the NDSEG fellowship in 2011 and was awarded an NSF CAREER grant
+            in 2018. His research has been recognized at CIDR’13 (Best Paper), 
+            CCS’17 (Best Paper finalist), and CCS’22 (Distinguished Paper).  He is 
+            currently serving as a member of the DARPA ISAT study group.

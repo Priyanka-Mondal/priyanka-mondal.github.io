@@ -1,0 +1,782 @@
+---
+---
+References
+==========
+
+
+@string{proc = ""}
+@string{st = "\textsuperscript{st} "}
+@string{nd = "\textsuperscript{nd} "}
+@string{rd = "\textsuperscript{rd} "}
+@string{th = "\textsuperscript{th} "}
+@string{n1 = "1" # st}
+@string{n2 = "2" # nd}
+@string{n3 = "3" # rd}
+@string{n4 = "4" # th}
+@string{n5 = "5" # th}
+@string{n6 = "6" # th}
+@string{n7 = "7" # th}
+@string{n8 = "8" # th}
+@string{n9 = "9" # th}
+@string{n10 = "10" # th}
+@string{n11 = "11" # th}
+@string{n12 = "12" # th}
+@string{n13 = "13" # th}
+@string{n14 = "14" # th}
+@string{n15 = "15" # th}
+@string{n16 = "16" # th}
+@string{n17 = "17" # th}
+@string{n18 = "18" # th}
+@string{n19 = "19" # th}
+@string{n20 = "20" # th}
+@string{n21 = "21" # st}
+@string{n22 = "22" # nd}
+@string{n23 = "23" # rd}
+@string{n24 = "24" # th}
+@string{n25 = "25" # th}
+@string{n26 = "26" # th}
+@string{n27 = "27" # th}
+@string{n28 = "28" # th}
+@string{n29 = "29" # th}
+@string{n30 = "30" # th}
+@string{n31 = "31" # st}
+@string{n32 = "32" # nd}
+@string{n33 = "33" # rd}
+@string{n34 = "34" # th}
+@string{n35 = "35" # th}
+@string{n36 = "36" # th}
+@string{n37 = "37" # th}
+@string{n38 = "38" # th}
+@string{n39 = "39" # th}
+@string{n40 = "40" # th}
+@string{n41 = "41" # st}
+@string{n42 = "42" # nd}
+@string{n43 = "43" # rd}
+@string{n44 = "44" # th}
+@string{n45 = "45" # th}
+@string{n46 = "46" # th}
+@string{n47 = "47" # th}
+@string{n48 = "48" # th}
+@string{n49 = "49" # th}
+@string{n50 = "50" # th}
+@string{n51 = "51" # st}
+@string{n52 = "52" # nd}
+@string{n53 = "53" # rd}
+@string{n54 = "54" # th}
+@string{n55 = "55" # th}
+
+@string{PACMPL = "Proc.\@ ACM on Programming Languages"}
+
+@string{SSP = proc # "IEEE Symp.~on Security and Privacy"}
+
+@string{POS5 = "5th Int'l Workshop on Persistent Object Systems"}
+@string{ISCA = {Int'l Symp.~on Computer Architecture (ISCA)}}
+@string{ISCA92 = proc # n19 # ISCA}
+
+@string{JCS = "J.~Computer Security"}
+
+@string{PLAS = "ACM SIGPLAN Workshop on Programming Languages and Analysis for Security (PLAS)"}
+@string{PLAS14 = proc # n9 # PLAS}
+
+@string{CCS = "ACM Conf.~on Computer and Communications Security (CCS)"}
+@string{CCS16 = proc # n23 # CCS}
+@string{CCS17 = proc # n24 # CCS}
+@string{CCS18 = proc # n25 # CCS}
+
+@string{CSF = "{IEEE} Computer Security Foundations Symp. (CSF)"}
+@string{CSF15 = proc # n28 # CSF}
+@string{CSF16 = proc # n29 # CSF}
+@string{CSF17 = proc # n30 # CSF}
+@string{CSF18 = proc # n31 # CSF}
+@string{CSF19 = proc # n32 # CSF}
+@string{CSF20 = proc # n33 # CSF}
+@string{CSF21 = proc # n34 # CSF}
+@string{CSF22 = proc # n35 # CSF}
+
+@string{NSDI_ = "{USENIX} Symp.~on Networked Systems Design and Implementation ({NSDI})"}
+@string{NSDI13 = proc # n10 # NSDI_}
+@string{NSDI14 = proc # n11 # NSDI_}
+
+@string{POPL_ = "{ACM} Symp. on Principles of Programming Languages (POPL)"}
+@string{POPL45 = proc # n45 # POPL_} @string{POPL_18 = POPL45}
+
+@string{Security_ = "USENIX Security Symp."}
+@string{Security07 = proc # n16 # Security_}
+
+@string{VLDB = "Int'l Conf.  on Very Large Data Bases (VLDB)"}
+@string{PVLDB = "PVLDB"}
+@string{VLDB_88 = proc # n14 # VLDB}
+@string{VLDB_89 = proc # n15 # VLDB}
+
+@inproceedings{oakland12,
+	title = "Sharing Mobile Code Securely With Information Flow Control",
+	author = "Owen Arden and Michael D. George and Jed Liu and K. Vikram
+		  and Aslan Askarov and Andrew C. Myers",
+	booktitle = SSP,
+	year = 2012,
+	month = may,
+	pages = "191--205",
+        series = {SSP'12},
+        file = {mobile.pdf},
+        doi = {10.1109/SP.2012.22},
+        blurb = {A new architecture for secure mobile code for publishing and sharing code dynamically across trust domains.},
+	abstract = {Mobile code is now a nearly inescapable component of modern
+                    computing, thanks to client-side code that runs within web browsers. The usual
+                    tension between security and functionality is particularly acute in a
+                    mobile-code setting, and current platforms disappoint on both dimensions.
+                    
+                    We introduce a new architecture for secure mobile code, with which developers
+                    can use, publish, and share mobile code securely across trust domains. This
+                    architecture enables new kinds of distributed applications, and makes it easier
+                    to reuse and evolve code from untrusted providers. The architecture gives
+                    mobile code considerable expressive power: it can securely access distributed,
+                    persistent, shared information from multiple trust domains, unlike web
+                    applications bound by the same-origin policy. The core of our approach is
+                    analyzing how ﬂows of information within mobile code affect conﬁdentiality and
+                    integrity. Because mobile code is untrusted, this analysis requires novel
+                    constraints on information ﬂow and authority.
+                    
+                    We show that these constraints offer principled enforcement of strong security
+                    while avoiding the limitations of current mobile-code security mechanisms. We
+                    evaluate our approach by demonstrating a variety of mobilecode applications,
+                    showing that new functionality can be offered along with strong security.} 
+}
+
+
+@inproceedings{pyxis,
+    title = "Automatic Partitioning of Database Applications",
+    author = "Alvin Cheung and Samuel Madden and Owen Arden and Andrew C. Myers",
+    journal = PVLDB,
+    doi = {10.14778/2350229.2350262},
+    volume = 5,
+    number = 11,
+    year = 2012,
+    month = aug,
+    pages = {1471--1482},
+    series = {VLDB'12},
+    url = "http://vldb.org/pvldb/vol5/p1471_alvincheung_vldb2012.pdf",
+    file = {pyxis.pdf},
+    blurb = {Pyxis adaptively migrates computation between clients and a database server by 
+             combining static dependency analysis with dynamic workload profiling.},
+    abstract = {Database-backed applications are nearly ubiquitous in our daily
+                lives. Applications that make many small accesses to the database create two
+                challenges for developers: increased latency and wasted resources from numerous
+                network round trips. A well-known technique to improve transactional database
+                application performance is to convert part of the application into stored
+                procedures that are executed on the database server. Unfortunately, this
+                conversion is often difﬁcult. In this paper we describe Pyxis, a system that
+                takes database-backed applications and automatically partitions their code into
+                two pieces, one of which is executed on the application server and the other on
+                the database server. Pyxis proﬁles the application and server loads, statically
+                analyzes the code’s dependencies, and produces a partitioning that minimizes
+                the number of control transfers as well as the amount of data sent during each
+                transfer. Our experiments using TPC-C and TPC-W show that Pyxis is able to
+                generate partitions with up to 3× reduction in latency and 1.7× improvement in
+                throughput when compared to a traditional non-partitioned implementation and
+                has comparable performance to that of a custom stored procedure
+                implementation.} 
+}
+
+@inproceedings{StatusQuo,
+    title = "{StatusQuo}: Making familiar abstractions perform using program analysis",
+    author = "Alvin Cheung and Samuel Madden and Armando Solar-Lezama and Owen Arden and Andrew C. Myers",
+    booktitle = "Conference on Innovative Data Systems Research (CIDR)",
+    url = "http://cidrdb.org/cidr2013/Papers/CIDR13_Paper117.pdf",
+    year = 2013,
+    month = jan,
+    blurb = {A new 4-safety hyperproperty for secure declassification and endorsement and a type 
+             system for enforcing it.},
+    awards = {Best paper},
+    series = {CIDR'13},
+    file = {statusquo.pdf}
+}
+
+@article{pyxis2,
+    title = "Using Program Analysis to Improve Database Applications",
+    author = "Alvin Cheung and Samuel Madden and Armando Solar-Lezama and Owen Arden and Andrew C. Myers",
+    journal = "IEEE Data Bulletin",
+    pages = "48--59",
+    volume = 37,
+    number = 1,
+    month = mar,
+    year = 2014,
+    url = "http://sites.computer.org/debull/A14mar/p48.pdf"
+}
+
+@inproceedings{flam,  
+	author={Arden, Owen and Liu, Jed and Myers, Andrew C.},  
+	booktitle={2015 IEEE 28th Computer Security Foundations Symposium},   
+	title={Flow-Limited Authorization},   
+	year={2015},  
+	volume={},  
+	number={},  
+	pages={569-583},  
+	abstract={Because information flow control mechanisms often rely on an
+              underlying authorization mechanism, their security guarantees can be subverted
+              by weaknesses in authorization. Conversely, the security of authorization can
+              be subverted by information flows that leak information or that influence how
+              authority is delegated between principals. We argue that interactions between
+              information flow and authorization create security vulnerabilities that have
+              not been fully identified or addressed in prior work. We explore how the
+              security of decentralized information flow control (DIFC) is affected by three
+              aspects of its underlying authorization mechanism: first, delegation of
+              authority between principals, second, revocation of previously delegated
+              authority, third, information flows created by the authorization mechanisms
+              themselves. It is no surprise that revocation poses challenges, but we show
+              that even delegation is problematic because it enables unauthorized
+              downgrading. Our solution is a new security model, the Flow-Limited
+              Authorization Model (FLAM), which offers a new, integrated approach to
+              authorization and information flow control. FLAM ensures robust authorization,
+              a novel security condition for authorization queries that ensures attackers
+              cannot influence authorization decisions or learn confidential trust
+              relationships. We discuss our prototype implementation and its algorithm for
+              proof search.},  
+	doi={10.1109/CSF.2015.42},
+        file = {flam_csf15.pdf},
+    month={July},
+    series={CSF'15},
+}
+
+@inproceedings{flac,  
+	author={Arden, Owen and Myers, Andrew C.},  
+	booktitle={2016 IEEE 29th Computer Security Foundations Symposium (CSF)},   
+	title={A Calculus for Flow-Limited Authorization},
+	year={2016},  
+        blurb = {A core programming model that uses flow-limited authorization to provide 
+		end-to-end information security to dynamic authorization mechanisms and 
+                programs that use them.},
+	abstract={Real-world applications routinely make authorization decisions
+              based on dynamic computation. Reasoning about dynamically computed authority is
+              challenging. Integrity of the system might be compromised if attackers can
+              improperly influence the authorizing computation. Confidentiality can also be
+              compromised by authorization, since authorization decisions are often based on
+              sensitive data such as membership lists and passwords. Previous formal models
+              for authorization do not fully address the security implications of permitting
+              trust relationships to change, which limits their ability to reason about
+              authority that derives from dynamic computation. Our goal is a way to construct
+              dynamic authorization mechanisms that do not violate confidentiality or
+              integrity. We introduce the Flow-Limited Authorization Calculus (FLAC), which
+              is both a simple, expressive model for reasoning about dynamic authorization
+              and also an information flow control language for securely implementing various
+              authorization mechanisms. FLAC combines the insights of two previous models: it
+              extends the Dependency Core Calculus with features made possible by the
+              Flow-Limited Authorization Model. FLAC provides strong end-to-end information
+              security guarantees even for programs that incorporate and implement rich
+              dynamic authorization mechanisms. These guarantees include noninterference and
+              robust declassification, which prevent attackers from influencing information
+              disclosures in unauthorized ways. We prove these security properties formally
+              for all FLAC programs and explore the expressiveness of FLAC with several
+              examples.},  
+	keywords={},  
+	doi={10.1109/CSF.2016.17}, 
+	month={June},
+        series={CSF'16},
+        file={flac_csf16.pdf}
+}
+
+@phdthesis{owen-thesis,
+    author = "Owen Arden",
+    title = "Flow-Limited Authorization",
+    year = 2016,
+    school="Cornell University"
+}
+
+@inproceedings{warranties,
+    title = "Warranties for Faster Strong Consistency",
+    author = "Jed Liu and Tom Magrino and Owen Arden and Michael D. George and Andrew C. Myers",
+    blurb = "Distributed transactions can be sped up by giving clients time-limited invariants on state and computation.",
+    booktitle = NSDI14,
+    pages = "513--517",
+    month = apr,
+    year = 2014,
+    series = {NSDI'14},
+    doi = {10.5555/2616448.2616495},
+    url = {https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/liu_jed},
+    file = {nsdi14.pdf},
+    abstract = {We present a new mechanism, warranties, to enable building
+                distributed systems with linearizable transactions. A warranty is a
+                time-limited assertion about one or more distributed objects. These assertions
+                generalize optimistic concurrency control, improving throughput because clients
+                holding warranties need not communicate to verify the warranty’s assertion.
+                Updates that might cause an active warranty to become false are delayed until
+                the warranty expires, trading write latency for read latency. For workloads
+                biased toward reads, warranties improve scalability and system throughput.
+                Warranties can be expressed using language-level computations, and they
+                integrate harmoniously into the programming model as a form of memoization.
+                Experiments with some nontrivial programs demonstrate that warranties enable
+                high performance despite the simple programming model.} 
+    }
+
+@article{jfabric,
+    title = "{Fabric}: {B}uilding Open Distributed Systems Securely by Construction",
+    author = "Jed Liu and Owen Arden and Michael D. George and Andrew C. Myers",
+    journal = "J. Computer Security",
+    month = may,
+    year = 2017,
+    volume = 25,
+    number = "4--5",
+    pages = "319--321",
+    doi = "10.3233/JCS-0559",
+    series = {JCS'17},
+    file = {jfabric.pdf},
+    blurb = {A secure, decentralized, and distributed programming language and system.},
+    abstract = {Distributed information systems are prevalent in modern
+                computing but difﬁcult to build securely. Because systems commonly span domains
+                of trust, host nodes share data and code of varying degrees of trustworthiness.
+                Modern systems are often open and extensible, making security even harder to
+                reason about. Unfortunately, standard methods for software construction do not
+                help programmers enough with ensuring their software is secure.
+                
+                Fabric is a system and language for building open, distributed, extensible
+                information systems that are secure by construction. Fabric is a decentralized
+                system that allows nodes to securely share both data and code despite mutual
+                distrust. All resources are labeled with conﬁdentiality and integrity policies
+                that are enforced through a combination of compile-time and run-time
+                mechanisms.
+                
+                The Fabric language offers a high-level but powerful model of computation. All
+                resources appear as objects in the language, and the distribution and
+                persistence of code and data are largely transparent to programmers. Fabric
+                supports both data-shipping and query/RPC styles of computation: computation
+                and information can both move between nodes. Optimistic, nested transactions
+                ensure consistency across all objects and nodes. Fabric programs can securely
+                share mobile code across trust domains, enabling more reuse and evolution of
+                code and supporting new kinds of secure applications not possible in other
+                distributed systems. Results from applications built using Fabric suggest that
+                Fabric enforces strong security while offering a clean, concise, powerful
+                programming model with good performance. An open-source prototype is available
+                for download.}
+}
+
+@Inbook{jrif,
+    author="Kozyri, Elisavet and Arden, Owen and Myers, Andrew C.  and Schneider, Fred B.",
+    editor="Guttman, Joshua D.  and Landwehr, Carl E.  and Meseguer, Jos{\'e} and Pavlovic, Dusko",
+    title="JRIF: Reactive Information Flow Control for Java",
+    bookTitle="Foundations of Security, Protocols, and Equational Reasoning: Essays Dedicated to Catherine A. Meadows",
+    year="2019",
+    pages="70--88",
+    blurb = {JRIF programs use Reactive Information Flow specifications based on finite-state 
+             automata that provide expressive policies without the need for explicit downgrading operations.},
+    abstract={A reactive information flow (RIF) automaton for a value v
+              specifies (i) restrictions on uses for v and (ii) the RIF automaton for any
+              value that might be derived from v. RIF automata thus specify how transforming
+              a value alters restrictions for the result. As labels, RIF automata are both
+              expressive and intuitive vehicles for describing allowed information flows.
+              JRIF is a dialect of Java that uses RIF automata for specifying information
+              flow control policies. The implementation of JRIF involved replacing the
+              information flow type system of the Jif language by a RIF-based type system.
+              JRIF demonstrates (i) the practicality and utility of RIF automata, and (ii)
+              the ease with which an existing information flow control system can be modified
+              to support the expressive power of RIF automata.},
+
+    doi="10.1007/978-3-030-19052-1_7",
+    file={jrif.pdf},
+}
+
+
+
+
+@inproceedings{nmifc,
+    author = "Ethan Cecchetti and Andrew C. Myers and Owen Arden",
+    title = "Nonmalleable Information Flow Control",
+    booktitle = CCS17,
+    year = 2017,
+    month = oct,
+    pages = "1875--1891",
+    location = "Dallas, TX",
+    series = {CCS'17},
+    doi = {10.1145/3133956.3134054},
+    file = {nmifc_ccs17.pdf},
+    blurb = {A new 4-safety hyperproperty for secure declassification and endorsement and a 
+             type system for enforcing it.},
+    awards = {Best paper ﬁnalist (11 ﬁnalists out of 151 accepted papers).},
+    abstract = {Noninterference is a popular semantic security condition
+                because it offers strong end-to-end guarantees, it is inherently compositional,
+                and it can be enforced using a simple security type system. Unfortunately, it
+                is too restrictive for real systems. Mechanisms for downgrading information are
+                needed to capture real-world security requirements, but downgrading eliminates
+                the strong compositional security guarantees of noninterference.
+                
+                We introduce nonmalleable information flow, a new formal security condition
+                that generalizes noninterference to permit controlled downgrading of both
+                confidentiality and integrity. While previous work on robust declassification
+                prevents adversaries from exploiting the downgrading of confidentiality, our
+                key insight is transparent endorsement, a mechanism for downgrading integrity
+                while defending against adversarial exploitation. Robust declassification
+                appeared to break the duality of confidentiality and integrity by making
+                confidentiality depend on integrity, but transparent endorsement makes
+                integrity depend on confidentiality, restoring this duality. We show how to
+                extend a security-typed programming language with transparent endorsement and
+                prove that this static type system enforces nonmalleable information flow, a
+                new security property that subsumes robust declassification and transparent
+                endorsement. Finally, we describe an implementation of this type system in the
+                context of Flame, a flow-limited authorization plugin for the Glasgow Haskell
+                Compiler.}
+}
+
+@inproceedings{clio,
+  author    = {Lucas Waye and
+               Pablo Buiras and
+               Owen Arden and
+               Alejandro Russo and
+               Stephen Chong},
+  title     = {Cryptographically Secure Information Flow Control on Key-Value Stores},
+  booktitle = CCS17,
+  pages     = {1893--1907},
+  year      = {2017},
+  url       = {http://doi.acm.org/10.1145/3133956.3134036},
+  doi       = {10.1145/3133956.3134036},
+  series    = {CCS'17},
+  file      = {clio_ccs17.pdf},
+  blurb     = {An information flow control system that transparently
+               incorporates cryptography to enforce confidentiality and integrity policies on
+               untrusted storage.},
+  abstract = {We present Clio, an information flow control (IFC) system that
+              transparently incorporates cryptography to enforce confidentiality and
+              integrity policies on untrusted storage. Clio insulates developers from
+              explicitly manipulating keys and cryptographic primitives by leveraging the
+              policy language of the IFC system to automatically use the appropriate keys and
+              correct cryptographic operations. We prove that Clio is secure with a novel
+              proof technique that is based on a proof style from cryptography together with
+              standard programming languages results. We present a prototype Clio
+              implementation and a case study that demonstrates Clio’s practicality.} 
+}
+
+@inproceedings{dflate,
+  title={Information flow control for distributed trusted execution environments},
+  author={Gollamudi, Anitha and Chong, Stephen and Arden, Owen},
+  year={2019},
+  booktitle = CSF19,
+  month = jun,
+  series = {CSF'19},
+  doi = {10.1109/CSF.2019.00028},
+  file = {dflate.pdf},
+  blurb = {DFLATE offers high-level security abstractions that reflect both the guarantees 
+		and limitations of the TEE security mechanisms.},
+  abstract = {Distributed applications cannot assume that their security
+              policies will be enforced on untrusted hosts. Trusted execution environments
+              (TEEs) combined with cryptographic mechanisms enable execution of known code on
+              an untrusted host and the exchange of conﬁdential and authenticated messages
+              with it. TEEs do not, however, establish the trustworthiness of code executing
+              in a TEE. Thus, developing secure applications using TEEs requires specialized
+              expertise and careful auditing.
+              
+              This paper presents DFLATE, a core security calculus for distributed
+              applications with TEEs. DFLATE offers high-level abstractions that reﬂect both
+              the guarantees and limitations of the underlying security mechanisms they are
+              based on. The accuracy of these abstractions is exhibited by asymmetry between
+              conﬁdentiality and integrity in our formal results: DFLATE enforces a strong
+              form of noninterference for conﬁdentiality, but only a weak form for integrity.
+              This reﬂects the asymmetry of the security guarantees of a TEE: a malicious
+              host cannot access secrets in the TEE or modify its contents, but they can
+              suppress or manipulate the sequence of its inputs and outputs. Therefore DFLATE
+              cannot protect against the suppression of high-integrity messages, but when
+              these messages are delivered, their contents cannot have been inﬂuenced by an
+              attacker.}
+}
+
+@INPROCEEDINGS{flafol,
+	author={ {Hirsch, Andrew K.} and {Azevedo de Amorim, Pedro Henrique} and {Cecchetti, Ethan} and {Tate, Ross} and {Arden, Owen} },
+	booktitle=CSF20,
+	title={First-Order Logic for Flow-Limited Authorization},
+	year={2020},
+	volume={},
+	number={},
+	pages={123-138},
+	doi={10.1109/CSF49147.2020.00017},
+        series={CSF'20},
+        file={flafol.pdf},
+        blurb = {A logic for reasoning about authorization decisions in the presence of information-flow policies.},
+	abstract = {We present the Flow-Limited Authorization First-Order Logic
+                    (FLAFOL), a logic for reasoning about authorization decisions in the presence
+                    of information-ﬂow policies. We formalize the FLAFOL proof system, characterize
+                    its proof-theoretic properties, and develop its security guarantees. In
+                    particular, FLAFOL is the ﬁrst logic to provide a non-interference guarantee
+                    while supporting all connectives of ﬁrst-order logic. Furthermore, this
+                    guarantee is the ﬁrst to combine the notions of noninterference from both
+                    authorization logic and information-ﬂow systems. All the theorems in this paper
+                    are proven in Coq.}
+}
+
+@inproceedings{haofan2021eclipse,
+	author          = {Zheng, Haofan and Tran, Tuan and Arden, Owen},
+	title           = {Total Eclipse of the Enclave: Detecting Eclipse Attacks From Inside TEEs},
+	booktitle       = {2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)},
+	year            = {2021},
+	month           = {may},
+	address         = {New York, NY, USA},
+	doi             = {10.1109/ICBC51069.2021.9461081},
+	series          = {ICBC'21 (short paper)},
+        file = "eclipse.pdf",
+        blurb = {Using difficulty monitoring to reliably detect extended eclipse attacks, even when the 
+                 adversary controls all network connectivity.},
+	abstract = {Enclave applications that rely on blockchains for integrity
+                    and availability are vulnerable to eclipse attacks. In this paper, we present
+                    an approach for reliably detecting extended eclipse attacks, even when the
+                    adversary controls all network connectivity. By monitoring changes to the
+                    difﬁculty parameter in Proof-of-Work (PoW) protocols, our algorithm detects
+                    suppression of new blocks, as well as difﬁculty-lowering attacks that attempt
+                    to force an enclave client onto a malicious fork mined solely by an attacker.
+                    We present analysis that attackers have negligible probability of evading our
+                    block monitoring algorithm, and demonstrate its robustness to most historical
+                    ﬂuctuations in difﬁculty on the Ethereum blockchain, resulting in a very low
+                    false-positive rate.}
+}
+
+@inproceedings{decent,
+	author = {Zheng, Haofan and Arden, Owen},
+	title = {Secure Distributed Applications the Decent Way},
+	year = {2021},
+	doi = {10.1145/3457340.3458304},
+	booktitle = {Proceedings of the 2021 International Symposium on Advanced Security on Software and Systems},
+	pages = {29-42},
+	month = jan,
+	numpages = {14},
+        series = {ASSS'21},
+        file = "decent.pdf",
+        blurb = {A framework for building secure decentralized applications with trusted execution environments 
+                 and remote attestation.},
+	abstract = {Remote attestation (RA) authenticates code running in
+                    trusted execution environments (TEEs), allowing trusted code to be deployed
+                    even on untrusted hosts. However, trust relationships established by one
+                    component in a distributed application may impact the security of other
+                    components, making it difficult to reason about the security of the application
+                    as a whole. Furthermore, traditional RA approaches interact badly with modern
+                    web service design, which tends to employ small interacting microservices,
+                    short session lifetimes, and little or no state.
+                    
+                    This paper presents the Decent Application Platform, a framework for building
+                    secure decentralized applications. Decent applications authenticate and
+                    authorize distributed enclave components using a protocol based on
+                    self-attestation certificates, a reusable credential based on RA and verifiable
+                    by a third party. Components mutually authenticate each other not only based on
+                    their code, but also based on the other components they trust, ensuring that no
+                    transitively-connected components receive unauthorized information. While some
+                    other TEE frameworks support mutual authentication in some form, Decent is the
+                    only system that supports mutual authentication without requiring an additional
+                    trusted third party besides the trusted hardware’s manufacturer. We have
+                    verified the secrecy and authenticity of Decent application data in ProVerif,
+                    and implemented two applications to evaluate Decent’s expressiveness and
+                    performance: DecentRide, a ride-sharing service, and DecentHT, a distributed
+                    hash table. On the YCSB benchmark, we show that DecentHT achieves 7.5x higher
+                    throughput and 3.67x lower latency compared to a non-Decent implementation.}
+}
+
+@inproceedings{anylog,
+    title = "{AnyLog}: a Grand Unification of the Internet of Things",
+    author = {Abadi, Daniel and Arden, Owen and Nawab, Faisal and Shadmon, Moshe},
+    booktitle = "Conference on Innovative Data Systems Research (CIDR)",
+    year = 2020,
+    series = {CIDR'20},
+    file = {anylog.pdf},
+    url = {http://cidrdb.org/cidr2020/papers/p9-abadi-cidr20.pdf},
+    blurb = {A new vision for a completely decentralized, ownerless platform for sharing 
+             structured data.},
+    abstract = {AnyLog is a decentralized platform for data publishing,
+                sharing, and querying IoT (Internet of Things) data that enables an unlimited
+                number of independent participants to publish and access the contents of IoT
+                datasets stored across the participants. AnyLog provides decentralized
+                publishing and querying functionality over structured data in an analogous
+                fashion to how the world wide web (WWW) enables decentralized publishing and
+                accessing of unstructured data. However, AnyLog differs from the traditional
+                WWW in the way that it provides incentives and ﬁnancial reward for performing
+                tasks that are critical to the well-being of the system as a whole, including
+                contribution, integration, storing, and processing of data, as well as
+                protecting the conﬁdentiality, integrity, and availability of that data.
+                Another difference is how Anylog enforces good behavior by the participants
+                through a collection of methods, including blockchain, secure enclaves, and
+                state channels.} 
+}
+
+@inproceedings{raid21,
+	author = {Castellanos, John H. and Ochoa, Martin and Cardenas, Alvaro A. and Arden, Owen and Zhou, Jianying},
+	title = {AttkFinder: Discovering Attack Vectors in PLC Programs Using Information Flow Analysis},
+	year = {2021},
+	doi = {10.1145/3471621.3471864},
+	booktitle = {24th International Symposium on Research in Attacks, Intrusions and Defenses},
+	pages = {235-250},
+	numpages = {16},
+	series = {RAID'21},
+        file = "attkfinder.pdf",
+        blurb = {Using information flow analysis to discover attack vectors in industrial control systems.},
+	abstract = {To protect an Industrial Control System (ICS), defenders
+                    need to identify potential attacks on the system and then design mechanisms to
+                    prevent them. Unfortunately, identifying potential attack conditions is a
+                    time-consuming and error-prone process. In this work, we propose and evaluate a
+                    set of tools to symbolically analyse the software of Programmable Logic
+                    Controllers (PLCs) guided by an information flow analysis that takes into
+                    account PLC network communication (compositions). Our tools systematically
+                    analyse malicious network packets that may force the PLC to send specific
+                    control commands to actuators. We evaluate our approach in a real-world system
+                    controlling the dosing of chemicals for water treatment. Our tools are able to
+                    find 75 attack tactics (56 were novel attacks), and we confirm that 96% of
+                    these tactics cause the intended effect in our testbed.}
+}
+
+@techreport{jflac,
+  title={A Calculus for Flow-Limited Authorization: Expanded Technical Report},
+  author={Arden, Owen and Gollamudi, Anitha and Cecchetti, Ethan and Chong, Stephen and Myers, Andrew C},
+  journal={arXiv preprint arXiv:2104.10379},
+  doi = {10.48550/arXiv.2104.10379},
+  year={2021},
+  file={jflactr.pdf},
+  blurb={A core programming model that uses flow-limited authorization to provide end-to-end 
+	information security to dynamic authorization mechanisms and programs that use them.},
+  awards={Revised, corrected, and expanded version of CSF'16 paper},
+  abstract = {Real-world applications routinely make authorization decisions
+              based on dynamic computation. Reasoning about dynamically computed authority is
+              challenging. Integrity of the system might be compromised if attackers can
+              improperly influence the authorizing computation. Confidentiality can also be
+              compromised by authorization, since authorization decisions are often based on
+              sensitive data such as membership lists and passwords. Previous formal models
+              for authorization do not fully address the security implications of permitting
+              trust relationships to change, which limits their ability to reason about
+              authority that derives from dynamic computation. Our goal is an approach to
+              constructing dynamic authorization mechanisms that do not violate
+              confidentiality or integrity.  The Flow-Limited Authorization Calculus (FLAC)
+              is a simple, expressive model for reasoning about dynamic authorization as well
+              as an information flow control language for securely implementing various
+              authorization mechanisms. FLAC combines the insights of two previous models: it
+              extends the Dependency Core Calculus with features made possible by the
+              Flow-Limited Authorization Model. FLAC provides strong end-to-end information
+              security guarantees even for programs that incorporate and implement rich
+              dynamic authorization mechanisms. These guarantees include noninterference and
+              robust declassification, which prevent attackers from influencing information
+              disclosures in unauthorized ways. We prove these security properties formally
+              for all FLAC programs and explore the expressiveness of FLAC with several
+              examples.}
+
+}
+
+% Software
+@misc{jif-release35,
+    author = "Tom Magrino and Jed Liu and Owen Arden and Chinawat Isradisaikul
+              and Andrew C. Myers",
+    title = "{Jif 3.5}: {J}ava Information Flow",
+    note = "Software release, \url{https://www.cs.cornell.edu/jif}",
+    month = jun,
+    year = 2016,
+    url = "https://www.cs.cornell.edu/jif"
+}
+
+@misc{flame,
+    author = "Owen Arden and Pablo Buiras",
+    title = "{Flame}",
+    note = "Software release, \url{https://users.soe.ucsc.edu/~owen/projects/flame/}",
+    year = {Accessed November 2017}
+}
+
+@misc{fabric-web-home,
+    author = "Jed Liu and Michael D. George and K. Vikram and Xin Qi
+		and Lucas Waye and Owen Arden and Danfeng Zhang and Andrew C. Myers",
+    title = "{Fabric 0.1}",
+    note = "Software release", \url{http://www.cs.cornell.edu/projects/fabric}",
+    month = sep,
+    year = 2010,
+}
+
+@misc{fabric-release02,
+    author = "Jed Liu and Owen Arden and Michael D. George and K. Vikram and Andrew C. Myers",
+    title = "{Fabric 0.2}",
+    note = "Software release, \url{http://www.cs.cornell.edu/projects/fabric}",
+    month = oct,
+    year = 2012,
+    url="http://www.cs.cornell.edu/projects/fabric"
+}
+
+@misc{fabric-release03,
+    author = "Owen Arden and Jed Liu and Tom Magrino and Andrew C. Myers",
+    title = "{Fabric 0.3}",
+    note = "Software release, \url{http://www.cs.cornell.edu/projects/fabric}",
+    month = jun,
+    year = 2016,
+    url="https://www.cs.cornell.edu/projects/fabric"
+}
+
+@inproceedings{icbc22,
+	author          = {Tran, Tuan and Zheng, Haofan and Alvaro, Peter and Arden, Owen},
+	title           = {Payment Channels Under Network Congestion},
+	booktitle       = {2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)},
+        blurb           = {Addressing congestion attacks in payment channel networks.},
+	abstract        = {Sending transactions on leading blockchains such as
+                           Ethereum can be slow and costly. A payment channel is a wellknown scaling
+                           solution that minimizes transactions sent on the chain, and allows users to
+                           transact more efﬁciently. One of the guarantees of payment channels is that
+                           there is no counterparty risk, so an honest party is able to withdraw the
+                           amount of money that is reﬂected by the most recent transaction agreed by both
+                           parties. In this paper, we show that this guarantee can be violated when the
+                           network is under congestion. Regardless of whether or not the honest party is
+                           online, the malicious party can leverage high transaction fees to gain more
+                           money than they’re supposed to. We present a novel construction of payment
+                           channels that helps mitigates these types of attacks.},
+	series          = {ICBC'22 (short paper)},
+        doi             = {10.1109/ICBC54727.2022.9805547},
+        file = "icbc22.pdf",
+	year            = {2022},
+	month           = {may},
+	address         = {New York, NY, USA},
+}
+
+@INPROCEEDINGS{flaqr,
+  author = {Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
+  booktitle=CSF22,
+  title={Applying consensus and replication securely with FLAQR},
+  blurb={A formal language for building application-level consensus and replication protocols 
+         that are secure by construction.},
+  awards = {Distinguished paper award},
+  series={CSF'22},
+  abstract={Availability is crucial to the security of distributed systems, but
+            guaranteeing availability is hard, especially when participants in the system
+            may act maliciously. Quorum replication protocols provide both integrity and
+            availability: data and computation is replicated at multiple independent hosts,
+            and a quorum of these hosts must agree on the output of all operations applied
+            to the data. Unfortunately, these protocols have high overhead and can be
+            difﬁcult to calibrate for a speciﬁc application’s needs. Ideally, developers
+            could use high-level abstractions for consensus and replication to write
+            fault-tolerant code by that is secure by construction.
+%            
+            This paper presents Flow-Limited Authorization for Quorum Replication (FLAQR),
+            a core calculus for building distributed applications with heterogeneous quorum
+            replication protocols while enforcing end-to-end information security. Our type
+            system ensures that well-typed FLAQR programs cannot fail (experience an
+            unrecoverable error) in ways that violate their typelevel speciﬁcations. We
+            present noninterference theorems that characterize FLAQR’s conﬁdentiality,
+            integrity, and availability in the presence of consensus, replication, and
+            failures, as well as a liveness theorem for the class of majority quorum
+            protocols under a bounded number of faults.},
+  year={2022},
+  month={aug},
+  doi = {10.1109/CSF54842.2022.9919637},
+  file = "flaqr.pdf",
+  volume={},
+  number={},
+}
+
+@inproceedings{phoenix,
+	author          = {Tran, Tuan and Nawab, Faisal and Alvaro, Peter and Arden, Owen},
+	title           = {Unstick Yourself: Recoverable Byzantine Fault Tolerant Services},
+	booktitle       = {2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)},
+        blurb           = {Improving the recoverability of Byzantine fault tolerant protocols.},
+	abstract        = {Byzantine fault tolerant (BFT) state machine
+                           replication (SMR) protocols that can tolerate up to f failures in a
+                           configuration of n = 3f + 1 replicas cannot make any liveness guarantee once
+                           the number of faults surpasses f, even if some of these faults are benign crash
+                           faults. We argue that this weakness makes BFT protocols impractical in
+                           real-world deployments where faults accumulate over time. In this paper, we
+                           present a new reconfiguration mechanism, Phoenix, that builds on the
+                           pre-existing fault detection and reconfiguration mechanisms of BFT protocols to
+                           remove faulty replicas proactively using a trusted (but limited) configuration
+                           manager. We show that Phoenix can recover from f B Byzantine faults and f_C
+                           crash faults, where f_C ≤ f_B, if the system deploys n = 3f_B + f_C + 1
+                           replicas. If a synchronous network connection is guaranteed between replicas
+                           and the configuration manager during reconfiguration, a synchronous variant of
+                           Phoenix needs only n = 3f_B +1 replicas to achieve the same recoverability. To
+                           validate our approach, we implement Phoenix as an extension of the BFT-SMaRT
+                           library.},
+	series          = {ICBC'23},
+        %doi             = {10.1109/ICBC54727.2022.9805547},
+        file = "Phoenix.pdf",
+	year            = {2023},
+	month           = {may},
+	address         = {New York, NY, USA},
+}

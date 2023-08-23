@@ -1,0 +1,31 @@
+- name: Haofan Zheng
+  degree: Ph.D. 
+  url: "https://haofanzheng.com/"
+  status: current
+  role: advisor
+- name: Priyanka Mondal
+  degree: Ph.D.
+  status: current
+  url: "https://users.soe.ucsc.edu/~pmondal/index.html"
+  role: advisor
+- name: Roy Shadmon
+  degree: Ph.D.
+  status: current
+  url: "https://royshadmon.github.io/"
+  role: advisor
+- name: Tuan Tran
+  degree: Ph.D.
+  status: current
+  url: "https://users.soe.ucsc.edu/~atran18/"
+  role: "co-advised with <a href='https://people.ucsc.edu/~palvaro/'>Peter Alvaro</a>"
+- name: Ana McTaggart
+  degree: M.S.
+  status: former
+  url: "http://apmctaggart.net/"
+  role: advisor
+  job: "<a href='https://redhat.com'>RedHat</a>"
+- name: Vaishnavi Sundararajan
+  degree: postdoc
+  status: current
+  url: "http://vaishs.github.io/"
+  role: advisor

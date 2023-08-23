@@ -1,0 +1,32 @@
+- title: Phoenix
+  blurb: Resilient consensus protocols using re-configuration.
+  status: active
+- title: Flow-limited authorization
+  blurb: An expressive new security model that unifies authorization and information flow control.
+  status: active
+- title: Proximal Consensus
+  blurb: Responsive, fault-tolerant data pipelines at the edge.
+  status: active
+- title: Decent
+  blurb: Secure decentralized applications with Trusted Execution Environments.
+  status: active
+- title: FlowFrame
+  blurb: Practical static information flow control for Scala Spark applications.
+  status: active
+  url: https://github.com/owenarden/flowframe
+- title: Fabric
+  blurb: A language and runtime for enforcing information flow control in federated applications.
+  status: completed
+  url: https://www.cs.cornell.edu/projects/fabric/
+- title: Flame
+  blurb: Flow-limited authorization for Haskell
+  status: completed
+  url: /home/projects/flame
+- title: Jif
+  blurb: Information flow control for Java
+  status: completed
+  url: https://www.cs.cornell.edu/jif/
+- title: Polyglot
+  blurb: An extensible Java compiler framework
+  status: completed
+  url: https://www.cs.cornell.edu/projects/polyglot/

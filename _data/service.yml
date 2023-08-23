@@ -1,0 +1,107 @@
+program_commitees:
+  - name: Conference on Computer and Communications Security
+    shortname: CCS
+    type: pc
+    years: 
+    - year: 2022
+      role: member
+      url:  "https://www.sigsac.org/ccs/CCS2022/"
+    - year: 2019
+      role: member
+      url:  "https://www.sigsac.org/ccs/CCS2019/"
+  
+  - name: Computer Security Foundations Symposium
+    shortname: CSF
+    type: pc
+    years: 
+    - year: 2022
+      role: member
+      url:  "https://www.ieee-security.org/TC/CSF2022/"
+    - year: 2021
+      role: member
+      url:  "https://www.ieee-security.org/TC/CSF2021/"
+    - year: 2018
+      role: member
+      url:  "https://www.cs.ox.ac.uk/conferences/csf2018/"
+  - name: Workshop on Foundations of Computer Security
+    shortname: FCS
+    type: pc
+    years: 
+    - year: 2021
+      role: co-chair
+      url:  "https://www.ieee-security.org/TC/CSF2022/"
+    - year: 2020
+      role: co-chair
+      url:  "https://www.ieee-security.org/TC/CSF2021/"
+    - year: 2018
+      role: member
+      url:  "https://www.cs.ox.ac.uk/conferences/csf2018/"
+    - year: 2017
+      role: member
+      url:  "https://www.cs.ox.ac.uk/conferences/csf2018/"
+  - name: Workshop on Programming Languages and Security
+    shortname: PLAS
+    type: pc
+    years: 
+    - year: 2018
+      role: member
+      url: "http://plas2018.dcc.ufmg.br/"
+    - year: 2020
+      role: member
+      url:  "https://pages.cispa.de/plas2020/"
+  - name: Workshop on Programming Languages and Operating Systems
+    shortname: PLOS
+    type: pc
+    years: 
+    - year: 2019
+      role: member
+      url: "https://plos-workshop.org/2019/"
+  - name: Symposium on Foundations and Applications of Blockchain
+    shortname: FAB
+    type: pc
+    years: 
+    - year: 2020
+      role: member
+      url: "https://scfab.github.io/2020/index.html"
+  - name: Hardware Security Workshop @ CROSS Symposium
+    years: 
+    - year: 2019
+      role: chair
+      url: "https://scfab.github.io/2020/index.html"
+  - name: USENIX Annual Technical Conference
+    shortname: ATC
+    years: 
+    - year: 2018
+      role: external member
+      url: "https://www.usenix.org/conference/atc18"
+  - name: Programming Language Design and Implementation
+    shortname: PLDI
+    years: 
+    - year: 2016
+      role: external member
+      url: "https://pldi16.sigplan.org/"
+
+external_service:
+  - name: Information Science and Technology Study Group
+    shortname: ISAT
+    type: chair
+    years: 
+    - year: 2020
+      role: member
+      url: "https://scfab.github.io/2020/index.html"
+
+internal_service:
+
+former_affiliations:
+  - name: The Initiative for CryptoCurrencies and Contracts
+    shortname: IC3
+    url: "http://www.initc3.org/"
+  - name: Institute for Defense Analysis Center for Computing Sciences 
+    shortname: IDA/CCS
+    url: "https://www.ida.org/ida-ffrdcs/center-for-communications-and-computing/center-for-computing-sciences"
+  - name: Independent Security Evaluators
+    shortname: ISE
+    url: "https://www.ise.io/"
+  - name: National Security Agency
+    shortname: NSA
+    url: "https://www.nsa.gov/"

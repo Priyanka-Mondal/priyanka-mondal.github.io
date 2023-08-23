@@ -1,156 +1,45 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Site settings
+title: Owen Arden
+email: owen@soe.ucsc.edu
+description: Owen Arden's Academic Home Page
+baseurl: "/home" # the subpath of your site, e.g. /blog/
+url: "https://owenarden.github.io" # the base hostname & protocol for your site
 
-# Site Settings
-locale                   : "en-US"
-title                    : "Priyanka Mondal"
-title_separator          : "-"
-name                     : &name "Priyanka Mondal"
-description              : &description "I am a PhD Candidate at the University of California, Santa Cruz."
-url                      : https://priyanka-mondal.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Priyanka-Mondal/priyanka-mondal.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+# Google analytics ID: Remove or use your own!
+# google_analytics: UA-167467135-1
+# google_analytics_4: G-02KDGRRB2T
+# google_tag_manager: GTM-TZ9Z7HZ
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+# Footer info
+affiliation: >
+    Prof. Owen Arden<br/>
+    Assistant Professor<br/>
+    <a href="https://engineering.ucsc.edu/departments/computer-science-and-engineering" target="_blank">Computer Science and Engineering</a><br/>
+    UC Santa Cruz
 
-# Social Sharing
-twitter:
-  username               : 
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+location: >
+  <a href="https://engineering.ucsc.edu/about/locations/baskin-engineering-building" target="_blank">Engineering 2</a><br/>
+  UC Santa Cruz<br/>
+  MS: SOE3<br/>
+  1156 High Street<br/>
+  Santa Cruz, CA 95062
 
+contact: >
+    <a href="mailto:owen@soe.ucsc.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Owen via email</a> <br/>
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: publications
+#  - name: talks
+#  - name: research
+#  - name: software
+# - name: team
+  - name: teaching
 
-
-# Site Author
-author:
-  name             : "Priyanka Mondal"
-  avatar           : "priyankajpg.jpg"
-  bio              : Ph.D. Candidate
-  employer         : ""
-  email        : ""
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en"
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "Priyanka-Mondal"
-  google_plus      :
-  keybase          : 
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "priyanka-mondal-621a1548"
-  orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-
-
-# Reading Files
 include:
   - .htaccess
   - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 
 # Conversion
 markdown: kramdown
@@ -158,7 +47,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -170,54 +58,20 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-
-# Collections
-collections:
-  resume:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-
-# Defaults
- 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-gems: ['jekyll/scholar']
 plugins: ['jekyll/scholar']
-# Plugins
-#plugins:
- # - jekyll-paginate
-  #- jekyll-sitemap
-  #- jekyll-gist
-  #- jekyll-feed
-  #- jekyll-redirect-from 
-  #- jekyll-target-blank
-  #- jekyll-scholar
-# mimic GitHub Pages with --safe
 
 scholar:
 
-  last_name: Mondal
-  first_name: [Priyanka]
+  last_name: Arden
+  first_name: [Owen]
 
   style: shb
   locale: en
 
   source: /cv/
-  bibliography: ref.bib
+  bibliography: arden.bib
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
@@ -234,46 +88,10 @@ scholar:
   bibliography_list_attributes:
     reversed: "reversed"
 
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - update_boostrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile
