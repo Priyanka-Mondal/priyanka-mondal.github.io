@@ -16,7 +16,8 @@ author_profile: true
             font-size: 12px;
             font-weight: 900;
             padding: 0px;
-            border: 0px
+            border: 0px;
+	 text-decoration: underline;
 		}    
         button:active {
         	background-color:Cyan;
