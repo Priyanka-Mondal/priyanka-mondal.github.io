@@ -12,6 +12,9 @@ author_profile: true
 			background-color:#87CEEB;/*#008CBA;*/
 			color: black;
 			border-radius: 5px;
+           		border-color:White;
+                        font-size: 11px;
+            		font-style: sans-serif;
 		}    
         button:active {
         	background-color:Blue;
