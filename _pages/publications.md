@@ -74,6 +74,23 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
   pages={163-178},
   doi={10.1109/CSF54842.2022.9919637}}
 </div>
+<div class=dontPrint id="voteThem">@inproceedings{10.1145/3357223.3365442,
+author = {Tran, Tuan and Mondal, Priyanka and Shadmon, Roy and Mallikarjun, Manthan and Alvaro, Peter and Arden, Owen},
+title = {Vote Them Out: Detecting and Eliminating Byzantine Peers},
+year = {2019},
+isbn = {9781450369732},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3357223.3365442},
+doi = {10.1145/3357223.3365442},
+abstract = {},
+booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
+pages = {480},
+numpages = {1},
+location = {Santa Cruz, CA, USA},
+series = {SoCC '19}
+}
+</div>
 <script>     
  let text = document.getElementById('flaqrBib').innerHTML;
 	 const copyContent = async () => {
