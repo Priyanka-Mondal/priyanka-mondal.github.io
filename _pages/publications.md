@@ -41,7 +41,8 @@ Backward Privacy]()<br>
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
   <i>Journal of Computer Security, 2023 (31st Volume)</i><br>
-  [[Pre-Press]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}<button onclick="copyText()">BIB</button>
+  [[Pre-Press]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}<br />
+	<button onclick="copyContent()">[BIB]</button>
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (Recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
@@ -63,15 +64,16 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 
 
 
-<script>
-		function copyText() {
-	
-			/* Copy text into clipboard */
-			navigator.clipboard.writeText
-				("Geeksforgeeks is best HHHH");
-		}
-	</script>
-
-
-
+<div class=dontPrint id="myText">folks</div>
+<script>     
+ let text = document.getElementById('myText').innerHTML;
+	 const copyContent = async () => {
+   	 try {
+    	  await navigator.clipboard.writeText(text);
+    	  console.log('Content copied to clipboard');
+  	  } catch (err) {
+      console.error('Failed to copy: ', err);
+    }
+  }
+</script>
 
