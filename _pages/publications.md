@@ -74,14 +74,13 @@ year = {2019},
 isbn = {9781450369732},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3357223.3365442},
-doi = {10.1145/3357223.3365442},
 abstract = {},
 booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
 pages = {480},
 numpages = {1},
 location = {Santa Cruz, CA, USA},
-series = {SoCC '19}}')">[BIB]</button>
+series = {SoCC 2019},
+doi = {10.1145/3357223.3365442}}')">[BIB]</button>
 
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Extended abstract)<br>
 **Priyanka Mondal** and Owen Arden <br>
@@ -99,7 +98,7 @@ year = {2019},
 isbn = {9781450369732},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3357223.3365442},
+url = {doi.org/10.1145/3357223.3365442},
 doi = {10.1145/3357223.3365442},
 abstract = {},
 booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
