@@ -7,15 +7,11 @@ author_profile: true
 
 <style>
 		button {
-			width: 70px;
-			height: 40px;
-			margin-top: 120px;
-			margin-left: 50px;
-			background-color: #008CBA;
+			width: 35px;
+			height: 20px;
+			background-color:#87CEEB;/*#008CBA;*/
 			color: black;
-			border-radius: 10px;
-			box-shadow: grey;
-			position: absolute;
+			border-radius: 5px;
 		}    
         button:active {
         	background-color:Blue;
