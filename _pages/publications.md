@@ -5,7 +5,26 @@ permalink: publications/
 author_profile: true
 ---
 
-You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"}
+<style>
+		button {
+			width: 70px;
+			height: 40px;
+			margin-top: 120px;
+			margin-left: 50px;
+			background-color: #008CBA;
+			color: black;
+			border-radius: 10px;
+			box-shadow: grey;
+			position: absolute;
+		}    
+        button:active {
+        	background-color:Blue;
+		}
+	
+	</style>
+
+
+You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"} <button onclick="copyText()">BIB</button>
 {% include base_path %}
 
 
@@ -39,7 +58,14 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 
 
 
-
+<script>
+		function copyText() {
+	
+			/* Copy text into clipboard */
+			navigator.clipboard.writeText
+				("Geeksforgeeks is best HHHH");
+		}
+	</script>
 
 
 
