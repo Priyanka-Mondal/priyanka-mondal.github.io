@@ -64,7 +64,7 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 
 
 
-<div class=dontPrint id="flaqr">@INPROCEEDINGS{9919637,
+<div class=dontPrint id="flaqrBib">@INPROCEEDINGS{9919637,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={2022 IEEE 35th Computer Security Foundations Symposium (CSF)}, 
   title={Applying consensus and replication securely with FLAQR}, 
@@ -75,7 +75,7 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
   doi={10.1109/CSF54842.2022.9919637}}
 </div>
 <script>     
- let text = document.getElementById('myText').innerHTML;
+ let text = document.getElementById('flaqrBib').innerHTML;
 	 const copyContent = async () => {
    	 try {
     	  await navigator.clipboard.writeText(text);
