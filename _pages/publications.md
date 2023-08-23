@@ -13,8 +13,8 @@ author_profile: true
 			background-color:White;/*#87CEEB;/*#008CBA;*/
 			color: #89CFF0;
             border-color:White;
-            font-size: 12px;
-            font-weight: 900;
+            font-size: 14px;
+            font-weight: 700;
             padding: 0px;
             border: 0px;
 	 text-decoration: underline;
@@ -64,7 +64,16 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 
 
 
-<div class=dontPrint id="myText">folks</div>
+<div class=dontPrint id="flaqr">@INPROCEEDINGS{9919637,
+  author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
+  booktitle={2022 IEEE 35th Computer Security Foundations Symposium (CSF)}, 
+  title={Applying consensus and replication securely with FLAQR}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={163-178},
+  doi={10.1109/CSF54842.2022.9919637}}
+</div>
 <script>     
  let text = document.getElementById('myText').innerHTML;
 	 const copyContent = async () => {
