@@ -67,7 +67,21 @@ Backward Privacy]()<br>
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"} (Extended abstract)<br>
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
 <i>Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019)</i><br>
-[[Poster]](){:target="_blank"}[[PDF]](https://drive.google.com/file/d/1GRxsjw64xL74-oiJ_dhfyhWAHbnkoBdS/view?usp=drive_link){:target="_blank"}[[BIB]]()
+[[Poster]](){:target="_blank"}[[PDF]](https://drive.google.com/file/d/1GRxsjw64xL74-oiJ_dhfyhWAHbnkoBdS/view?usp=drive_link){:target="_blank"}<button onclick="copyBib('@inproceedings{10.1145/3357223.3365442,
+author = {Tran, Tuan and Mondal, Priyanka and Shadmon, Roy and Mallikarjun, Manthan and Alvaro, Peter and Arden, Owen},
+title = {Vote Them Out: Detecting and Eliminating Byzantine Peers},
+year = {2019},
+isbn = {9781450369732},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3357223.3365442},
+doi = {10.1145/3357223.3365442},
+abstract = {},
+booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
+pages = {480},
+numpages = {1},
+location = {Santa Cruz, CA, USA},
+series = {SoCC '19}}')">[BIB]</button>
 
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Extended abstract)<br>
 **Priyanka Mondal** and Owen Arden <br>
