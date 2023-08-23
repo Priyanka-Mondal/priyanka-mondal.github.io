@@ -6,20 +6,26 @@ author_profile: true
 ---
 
 <style>
-		button {
-			width: 35px;
+			
+ button {
+			width: 37px;
 			height: 20px;
-			background-color:#87CEEB;/*#008CBA;*/
-			color: black;
-			border-radius: 5px;
-           		border-color:White;
-                        font-size: 11px;
-            		font-style: sans-serif;
+			background-color:White;/*#87CEEB;/*#008CBA;*/
+			color: Cyan;
+            border-color:White;
+            font-size: 12px;
+            font-weight: 900;
+            padding: 0px;
+            border: 0px
 		}    
         button:active {
-        	background-color:Blue;
+        	background-color:Cyan;
+            color: White;
 		}
-	
+        .dontPrint {
+       display:none;
+    }
+
 	</style>
 
 
