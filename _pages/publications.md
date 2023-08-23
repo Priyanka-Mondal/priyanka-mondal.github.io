@@ -51,7 +51,6 @@ Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, 
 
  <div class="jumbotron">
 ### Journal articles
-<!--{% bibliography --query @article %}-->
 </div>
 
 
