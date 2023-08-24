@@ -10,9 +10,9 @@ author_profile: true
 	    width: 37px;
 	    height: 20px;
 	    background-color:Azure;/*#87CEEB;/*#008CBA;*/
-	    color: #318CE7;/*#89CFF0;*/
+	    color: #00BFFF;/*#318CE7;/*#89CFF0;*/
             border-color:White;
-            font-size: 17px;
+            font-size: 16px;
             font-weight: 600;
             padding: 0px;
             border: 0px;
