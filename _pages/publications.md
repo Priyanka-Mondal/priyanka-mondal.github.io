@@ -93,7 +93,7 @@ function copyBib(name)
     navigator.clipboard.writeText(name).then(() => {
         // Alert the user that the action took place.
         // Nobody likes hidden stuff being done under the hood!
-        alert("Copied to clipboard");
+        console.log("Copied to clipboard");
     });
     /*alert("Copied to clipboard!");*/
     /*alert("Copied the text: " + name);*/
