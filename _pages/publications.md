@@ -13,7 +13,7 @@ author_profile: true
 	    color: #00BFFF;/*#318CE7;/*#89CFF0;*/
             border-color:White;
             font-size: 16px;
-            font-weight: 600;
+            font-weight: 500;
             padding: 0px;
             border: 0px;
 	    text-decoration: underline;
