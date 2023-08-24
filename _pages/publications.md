@@ -10,7 +10,7 @@ author_profile: true
 	    width: 37px;
 	    height: 20px;
 	    background-color:Azure;/*#87CEEB;/*#008CBA;*/
-	    color: #00BFFF;/*#318CE7;/*#89CFF0;*/
+	    color: #4B9CD3;/*#00BFFF;/*#318CE7;/*#89CFF0;*/
             border-color:White;
             font-size: 16px;
             font-weight: 500;
