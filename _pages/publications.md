@@ -92,7 +92,7 @@ function copyBib(name)
 {
     navigator.clipboard.writeText(name);
     /*alert("Copied to clipboard!");*/
-    alert("Copied the text: " + name);
+    /*alert("Copied the text: " + name);*/
 }
 </script>
 
