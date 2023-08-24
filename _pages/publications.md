@@ -90,11 +90,7 @@ doi = {10.1145/3357223.3365442}}')">[Copy Bib]</button>
 <script>     
 function copyBib(name) 
 {
-    navigator.clipboard.writeText(name);//.then(() => {
-        //console.log("Copied to clipboard");
-   // });
-    /*alert("Copied to clipboard!");*/
-    /*alert("Copied the text: " + name);*/
+    navigator.clipboard.writeText(name);
 }
 </script>
 
