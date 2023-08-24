@@ -7,7 +7,7 @@ author_profile: true
 
 <style>		
        button {
-	    width: 50px;
+	    width: 90px;
 	    height: 20px;
 	    background-color:Azure;/*#87CEEB;/*#008CBA;*/
 	    color: #4B9CD3;/*#00BFFF;/*#318CE7;/*#89CFF0;*/
@@ -19,7 +19,7 @@ author_profile: true
 	    text-decoration: underline;
 	}    
         button:active {
-        	background-color:Cyan;
+        	background-color: Cyan;
                 color: Black;
 	}
         .dontPrint {
