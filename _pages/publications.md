@@ -27,7 +27,7 @@ author_profile: true
         }
 </style>
 
-You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"} 
+<!--You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"} -->
 {% include base_path %}
 
 - [I/O-Efficient Dynamic Searchable Encryption meets Forward &
