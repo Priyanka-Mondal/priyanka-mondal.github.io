@@ -7,7 +7,7 @@ author_profile: true
 
 <style>		
        button {
-	    width: 90px;
+	    width: 70px;
 	    height: 20px;
 	    background-color:Azure;/*#87CEEB;/*#008CBA;*/
 	    color: #4B9CD3;/*#00BFFF;/*#318CE7;/*#89CFF0;*/
