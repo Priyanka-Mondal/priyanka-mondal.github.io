@@ -51,7 +51,7 @@ Backward Privacy]()<br>
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (Recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
 <i>Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)</i><br>
-[[PDF]](https://drive.google.com/file/d/1RvG4morYwqtZj39K7GKkcbnc91zBL8RJ/view?usp=drive_link){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
+[[PDF]](https://priyanka-mondal.github.io/FLAQR_official.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={2022 IEEE 35th Computer Security Foundations Symposium (CSF)}, 
   title={Applying consensus and replication securely with FLAQR}, 
@@ -83,8 +83,8 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Extended abstract)<br>
 **Priyanka Mondal** and Owen Arden <br>
 <i>32nd IEEE Computer Security Foundations (CSF 2019)</i><br>
-[[Poster]](https://drive.google.com/file/d/1xVm7xlsimldurA3psJ7gOdS7WbtEIKU4/view?usp=sharing){:target="_blank"}
-[[PDF]](https://drive.google.com/file/d/19kTyo9jv64xKZwERCbZL3j9tREOX27tr/view?usp=sharing){:target="_blank"}
+[[Poster]](https://priyanka-mondal.github.io/Flowstate_Poster.pdf){:target="_blank"}
+[[PDF]](https://priyanka-mondal.github.io/CSF_2019_paper_6.pdf){:target="_blank"}
 
 
 <script>     
