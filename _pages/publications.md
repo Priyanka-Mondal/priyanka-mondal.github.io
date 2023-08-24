@@ -46,7 +46,7 @@ Backward Privacy]()<br>
   volume={},
   number={},
   pages={163-178},
-  doi={10.1109/CSF54842.2022.9919637}}')">[copy Bib]</button>
+  doi={10.1109/CSF54842.2022.9919637}}')">[copy BIB]</button>
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (Recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
@@ -59,7 +59,7 @@ Backward Privacy]()<br>
   volume={},
   number={},
   pages={163-178},
-  doi={10.1109/CSF54842.2022.9919637}}')">[copy Bib]</button>
+  doi={10.1109/CSF54842.2022.9919637}}')">[copy BIB]</button>
 
 
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"} (Extended abstract)<br>
@@ -78,7 +78,7 @@ pages = {480},
 numpages = {1},
 location = {Santa Cruz, CA, USA},
 series = {SoCC 2019},
-doi = {10.1145/3357223.3365442}}')">[Copy Bib]</button>
+doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Extended abstract)<br>
 **Priyanka Mondal** and Owen Arden <br>
