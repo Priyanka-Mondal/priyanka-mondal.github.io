@@ -40,10 +40,10 @@ Feel free to connect with me as I explore the world of computer security.
 
 [All news>>](https://priyanka-mondal.github.io/news/){:target="_blank"}
 
-{% assign sortedCurrentEngagements = site.data.news | sort: 'presentation.date' | where:'isCurrent', 'true' %}
+{% assign sortedCurrentEngagements = site.data.somenews %}
 
 {% for engagement in sortedCurrentEngagements -%}
-|[{{news.eventName}}]({{news.eventUrl}}){:target="_blank"}|{{news.location}}|[{{news.presentation.name}}]({{news.presentation.url}})|{{news.presentation.date}}|{{news.presentation.comments }}|
+|[{{somenews.aame}}]|{{somenews.job}}|
 {% endfor %}
 
 
