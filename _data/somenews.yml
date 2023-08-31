@@ -1,32 +1,12 @@
-- martin:
-    name: Martin D'vloper
-    date : 2019-08-22
-    job: Developer
-    skills:
-      - python
-      - perl
-      - pascal
-- tabitha:
-    name: Tabitha Bitumen
-    date : 2018-08-22
-    job: Developer
-    skills:
-      - lisp
-      - fortran
-      - erlang
-- taad:
-    name: Tabitha Bit
-    date : 2020-08-23
-    job: Developer
-    skills:
-      - lisp
-      - fortran
-      - erlang
-- priya:
-    name: Tab Bitumen
-    date : 2016-08-23
-    job: Developer
-    skills:
-      - lisp
-      - fortran
-      - erlang
+martin:
+    - name: Martin
+      date : 2019-08-22
+      job: Developer
+      
+    - name: Bob
+      date : 2018-09-09
+      job: Dancer
+
+    - name: Julie
+      date: 2020-09-10
+      job: Chef
