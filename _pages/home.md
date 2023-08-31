@@ -71,7 +71,7 @@ Feel free to connect with me as I explore the world of computer security.
     <p>{{news.date}}</p>
   </div>
   <div class="columnTitle">
-    <p>{{name.title}}</p>
+    <p>{{news.title}}</p>
   </div>
 </div>
 {% endif %}
