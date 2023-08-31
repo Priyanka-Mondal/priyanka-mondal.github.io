@@ -12,7 +12,7 @@ main:
       date: 2023-04-21
       render: yes
 
-    - title: Gave a talk on.
+    - title: Gave a talk on [Flow-limited authorization: background and extension]() at the [SRL seminar]() .
       date: 2023-03-15
       render: yes
 
