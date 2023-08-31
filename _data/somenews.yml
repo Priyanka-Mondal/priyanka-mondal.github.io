@@ -20,7 +20,7 @@ main:
       date: 2023-02-21
       render: true
 
-    - title: We launched a [Wicys](https://www.wicys.org){:target="_blank"} student chapter at UCSC
+    - title: We launched a [WiCys](https://www.wicys.org){:target="_blank"} student chapter at UCSC
       date: 2023-02-02
       render: false
 
