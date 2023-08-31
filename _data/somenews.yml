@@ -8,7 +8,7 @@ main:
       date: 2023-06-09
       render: true
                                                         
-    - title: Gave a talk on "FLow limited Authorization - background and extension" at the SRL seminar
+    - title: Gave a talk on [Flow-Limited Authorization - background & extension](https://docs.google.com/presentation/d/1epIaJiqbhezyXvnGHIKzhwG2LjHI2nd890l80ZUFb1s/edit?usp=sharing){:target="_blank"} at the [SRL seminar](https://srl-ucsc.github.io/seminar.html){:target="_blank"}
       date: 2023-05-15
       render: true
       
