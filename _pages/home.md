@@ -40,7 +40,7 @@ Feel free to connect with me as I explore the world of computer security.
 
 
 
-{% assign allnews = site.data.somenews.main | where:'render', 'true' %}
+{% assign allnews = site.data.somenews.main | where:'site.data.somenews.render', 'true' %}
 
 {% for news in allnews -%}
 |{{news.date}}|{{news.title}}|
