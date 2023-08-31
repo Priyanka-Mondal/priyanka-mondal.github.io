@@ -30,4 +30,4 @@ main:
 
     - title: Presented my [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} in [PLCrypt'22](https://andrewcmyers.github.io/plcrypt/){:target="_blank"}, at Stanford Research Institute, Menlo Park [[Video]](https://www.youtube.com/watch?app=desktop&v=LnR-lw0znuY){:target="_blank"}
       date: 2022-05-22
-      render: "false"
+      render: false
