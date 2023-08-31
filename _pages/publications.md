@@ -38,7 +38,7 @@ Backward Privacy]()<br>
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
   <i>Journal of Computer Security, 2023 (31st Volume)</i><br>
-  [[Pre-Press]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
+  [[Pre-Print]](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={2022 IEEE 35th Computer Security Foundations Symposium (CSF)}, 
   title={Applying consensus and replication securely with FLAQR}, 
