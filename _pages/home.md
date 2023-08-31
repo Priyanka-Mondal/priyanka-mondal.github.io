@@ -40,16 +40,12 @@ Feel free to connect with me as I explore the world of computer security.
 
 [All news>>](https://priyanka-mondal.github.io/news/){:target="_blank"}
 
-{% assign my_array = "zebra, octopus, giraffe, Sally Snake" | split: ", " %}
+{% assign sortedCurrentEngagements = site.data.engagements | sort: 'presentation.date' | where:'isCurrent', 'true' %}
 
-{{ my_array | sort }}
+{% for engagement in sortedCurrentEngagements -%}
+|[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank"}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
+{% endfor %}
 
-<ul>
-    {% assign sorted = site.news | sort: 'date' | reverse %}
-    {% for item in sorted %}
-    <li>{{ item.title }}</li>
-    {% endfor %}
-</ul>
 
 <!--footer-->
 <!--div class="page__footer-follow"> 
