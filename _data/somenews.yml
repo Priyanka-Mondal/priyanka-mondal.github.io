@@ -35,3 +35,11 @@ main:
     - title: Presented my [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} in [PLCrypt'22](https://andrewcmyers.github.io/plcrypt/){:target="_blank"}, at Stanford Research Institute, Menlo Park [[Video]](https://www.youtube.com/watch?app=desktop&v=LnR-lw0znuY){:target="_blank"}
       date: 2022-05-22
       render: false
+
+    - title: Started working on "Searchable Encryption"
+      date: 2022-03-20
+      render: false
+
+    - title : Presented my work on "Applying consensus and replication with FLAQR" in [The 16th Workshop on Programming Langguages and Analysis for Security (PLAS'21)](https://plas21.software.imdea.org){:target="_blank"}
+      date: 2021-12-07
+      render: false
