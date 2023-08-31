@@ -12,6 +12,10 @@ main:
       date: 2023-04-21
       render: yes
 
+    - title: Gave a talk on [Flow-Limited Authorization: background & extension](https://docs.google.com/presentation/d/1epIaJiqbhezyXvnGHIKzhwG2LjHI2nd890l80ZUFb1s/edit?usp=sharing){:target="_blank"} at the [SRL seminar](https://srl-ucsc.github.io/seminar.html){:target="_blank"}
+      date: 2023-03-15
+      render: yes
+
     - title: Presented my work on [I/O efficient Dynamic Searchable Encryption](https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing){:target="_blank"} at the [CRSS seminar](https://www.ssrc.ucsc.edu/seminars.html){:target="_blank"}
       date: 2023-02-21
       render: yes
