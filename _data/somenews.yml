@@ -1,12 +1,8 @@
+# main links links
 main:
-    - name: Martin
-      date : 2019-08-22
-      job: Developer
+    - title: "Publications"
+      url: /publications/
       
-    - name: Bob
-      date : 2018-09-09
-      job: Dancer
-
-    - name: Julie
-      date: 2020-09-10
-      job: Chef
+    - title: "R&eacute;sum&eacute;"
+      url: /resume/
+      
