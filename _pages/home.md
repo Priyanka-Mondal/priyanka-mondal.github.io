@@ -29,7 +29,7 @@ Feel free to connect with me as I explore the world of computer security.
 
 {% assign allnews = site.data.somenews.main %}
 {% for news in allnews -%}
-  {% if "news.render" == "true" %}
+  {% if news.render contains 'true' %}
     |{{news.date}}|{{news.title}}|
   {% endif %}
 {% endfor %}
