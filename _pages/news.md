@@ -11,4 +11,4 @@ author_profile: false
 |{{news.date}}|{{news.title}}|
 {% endfor %}
 
-[<< Back](https://priyanka-mondal.github.io/)
+[ << Back](https://priyanka-mondal.github.io/)
