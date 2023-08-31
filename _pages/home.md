@@ -52,11 +52,8 @@ Through my work, I strive to create a safer digital environment for all.
 Feel free to connect with me as I explore the world of computer security.
 
 <hr>
-<hr>
 
 ## Latest news
-
-
 
 {% assign allnews = site.data.somenews.main | where:'render', 'true' %}
 {% for news in allnews -%}
