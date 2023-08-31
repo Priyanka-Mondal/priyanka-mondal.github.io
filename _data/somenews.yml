@@ -7,8 +7,8 @@ main:
     - title: Gave a talk on [Asynchrony and Choreographies](https://priyanka-mondal.github.io/Asynchrony_and_Choreographies.pdf){:target="_blank"} in [LSD Seminar](https://lsd.ucsc.edu/lsd-seminar/2023sp/){:target="_blank"}
       date: 2023-06-09
       render: true
-
-    - title: Gave a talk on "FLow limited Authorization: background and extension" at the SRL seminar
+                                                        
+    - title: Gave a talk on "FLow limited Authorization - background and extension" at the SRL seminar
       date: 2023-05-15
       render: true
       
