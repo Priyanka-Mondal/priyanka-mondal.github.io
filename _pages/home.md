@@ -55,7 +55,14 @@ Feel free to connect with me as I explore the world of computer security.
 ## Latest news
 
 
-
+<div class="row">
+  <div class="columnDate">
+    <p>Date</p>
+  </div>
+  <div class="columnTitle">
+    <p>News</p>
+  </div>
+</div>
 {% assign allnews = site.data.somenews.main %}
 {% for news in allnews -%}
 {% if news.render == true -%}
