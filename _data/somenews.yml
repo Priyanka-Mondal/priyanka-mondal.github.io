@@ -1,5 +1,6 @@
 - martin:
     name: Martin D'vloper
+    date : 2019-08-22
     job: Developer
     skills:
       - python
@@ -7,6 +8,15 @@
       - pascal
 - tabitha:
     name: Tabitha Bitumen
+    date : 2018-08-22
+    job: Developer
+    skills:
+      - lisp
+      - fortran
+      - erlang
+- taad:
+    name: Tabitha Bitumen
+    date : 2020-08-23
     job: Developer
     skills:
       - lisp
