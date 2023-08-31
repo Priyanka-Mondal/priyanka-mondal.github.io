@@ -15,8 +15,16 @@
       - fortran
       - erlang
 - taad:
-    name: Tabitha Bitumen
+    name: Tabitha Bit
     date : 2020-08-23
+    job: Developer
+    skills:
+      - lisp
+      - fortran
+      - erlang
+- priya:
+    name: Tab Bitumen
+    date : 2016-08-23
     job: Developer
     skills:
       - lisp
