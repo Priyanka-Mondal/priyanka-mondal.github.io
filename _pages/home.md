@@ -70,7 +70,7 @@ Feel free to connect with me as I explore the world of computer security.
 {% if news.render == true -%}
 <div class="row">
   <div class="columnDate">
-    <p> {{ news.date }} </p>p
+    <p> {{ news.date }} </p>
   </div>
   <div class="columnTitle">
     <p> {{ news.title }} </p>
