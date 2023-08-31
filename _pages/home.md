@@ -17,7 +17,7 @@ author_profile: true
   width: 100px;
   padding: 35px;
   height: 100px; /* Should be removed. Only for demonstration */
-  color: Azure;
+  color: Blue;
 }
 .columnTitle {
   float: left;
