@@ -40,6 +40,13 @@ Feel free to connect with me as I explore the world of computer security.
 
 [All news>>](https://priyanka-mondal.github.io/news/){:target="_blank"}
 
+<ul>
+    {% assign sorted = site.news | sort: 'date' | reverse %}
+    {% for item in sorted %}
+    <li>{{ item.title }}</li>
+    {% endfor %}
+</ul>
+
 <!--footer-->
 <!--div class="page__footer-follow"> 
 <div class="page__footer-copyright">
