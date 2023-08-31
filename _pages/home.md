@@ -14,13 +14,13 @@ author_profile: true
 /* Create two equal columns that floats next to each other */
 .columnDate {
   float: left;
-  width: 20px;
+  width: 50px;
   padding: 5px;
   height: 10px; /* Should be removed. Only for demonstration */
 }
 .columnTitle {
   float: left;
-  width: 50px;
+  width: 100px;
   padding: 5px;
   height: 10px; /* Should be removed. Only for demonstration */
 }
