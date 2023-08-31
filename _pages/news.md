@@ -6,9 +6,7 @@ author_profile: false
 ---
 
 
-<center>
   <h2>News</h2>
-</center>
 {% assign allnews = site.data.somenews.main %}
 
 {% for news in allnews -%}
