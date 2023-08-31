@@ -14,20 +14,20 @@ main:
 
     - title: Presented my work on [I/O efficient Dynamic Searchable Encryption](https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing){:target="_blank"} at the [CRSS seminar](https://www.ssrc.ucsc.edu/seminars.html){:target="_blank"}
       date: 2023-02-21
-      render: true
+      render: "true"
 
     - title: We launched a [Wicys](https://www.wicys.org){:target="_blank"} student chapter at UCSC
       date: 2023-02-02
-      render: true
+      render: "true"
 
     - title: Passed my [Advancement Exam](https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless){:target="_blank"}, Yay!!
       date: 2022-12-21
-      render: true
+      render: "true"
 
     - title: Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> 🏆 </font></b>
       date: 2022-08-08
-      render: true
+      render: "true"
 
     - title: Presented my [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} in [PLCrypt'22](https://andrewcmyers.github.io/plcrypt/){:target="_blank"}, at Stanford Research Institute, Menlo Park [[Video]](https://www.youtube.com/watch?app=desktop&v=LnR-lw0znuY){:target="_blank"}
       date: 2022-05-22
-      render: no
+      render: "false"
