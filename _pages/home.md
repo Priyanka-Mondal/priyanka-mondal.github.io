@@ -14,15 +14,17 @@ author_profile: true
 /* Create two equal columns that floats next to each other */
 .columnDate {
   float: left;
-  width: 300px;
-  padding: 45px;
+  width: 100px;
+  padding: 35px;
   height: 100px; /* Should be removed. Only for demonstration */
+  color: Azure;
 }
 .columnTitle {
   float: left;
-  width: 500px;
-  padding: 45px;
+  width: 700px;
+  padding: 35px;
   height: 100px; /* Should be removed. Only for demonstration */
+  color: Blue
 }
 
 /* Clear floats after the columns */
