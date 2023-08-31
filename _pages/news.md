@@ -5,6 +5,7 @@ permalink: news/
 author_profile: false
 ---
 
+## News
 {% assign allnews = site.data.somenews.main %}
 
 {% for news in allnews -%}
