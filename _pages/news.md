@@ -10,3 +10,5 @@ author_profile: false
 {% for news in allnews -%}
 |{{news.date}}|{{news.title}}|
 {% endfor %}
+
+[<< Back](https://priyanka-mondal.github.io/)
