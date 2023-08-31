@@ -28,7 +28,6 @@ Feel free to connect with me as I explore the world of computer security.
 ## Latest news
 
 {% assign allnews = site.data.somenews.main %}
-|{{Date}}|{{News}}|
 {% for news in allnews -%}
   {% if news.render == "true" %}
     |{{news.date}}|{{news.title}}|
