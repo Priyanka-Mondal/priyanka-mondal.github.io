@@ -14,15 +14,15 @@ author_profile: true
 /* Create two equal columns that floats next to each other */
 .columnDate {
   float: left;
-  width: 50px;
-  padding: 5px;
-  height: 10px; /* Should be removed. Only for demonstration */
+  width: 300px;
+  padding: 45px;
+  height: 100px; /* Should be removed. Only for demonstration */
 }
 .columnTitle {
   float: left;
-  width: 100px;
-  padding: 5px;
-  height: 10px; /* Should be removed. Only for demonstration */
+  width: 500px;
+  padding: 45px;
+  height: 100px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -68,10 +68,10 @@ Feel free to connect with me as I explore the world of computer security.
 {% if news.render == true -%}
 <div class="row">
   <div class="columnDate">
-    {{news.date}}
+    "{{news.date}}"
   </div>
   <div class="columnTitle">
-    {{news.title}}
+    "{{news.title}}"
   </div>
 </div>
 {% endif %}
