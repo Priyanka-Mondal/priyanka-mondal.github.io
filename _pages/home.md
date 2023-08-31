@@ -28,8 +28,8 @@ Feel free to connect with me as I explore the world of computer security.
 ## Latest news
 
 {% assign allnews = site.data.somenews.main %}
-{% for news in site.data.somenews.main %}
-    |{{news.date}}|{{news.title}}|
+{% for news in allnews -%}
+|{{news.date}}|{{news.title}}|
 {% endfor %}
 
 [All news>>](https://priyanka-mondal.github.io/news/)
