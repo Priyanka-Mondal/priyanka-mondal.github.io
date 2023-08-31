@@ -53,7 +53,7 @@ Feel free to connect with me as I explore the world of computer security.
 
 <hr>
 
-## Latest news
+## News
 
 {% assign allnews = site.data.somenews.main | where:'render', 'true' %}
 {% for news in allnews -%}
