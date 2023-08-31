@@ -68,10 +68,10 @@ Feel free to connect with me as I explore the world of computer security.
 {% if news.render == true -%}
 <div class="row">
   <div class="columnDate">
-    "{{news.date}}"
+    <p> {{ news.date }} </p>p
   </div>
   <div class="columnTitle">
-    "{{news.title}}"
+    <p> {{ news.title }} </p>
   </div>
 </div>
 {% endif %}
