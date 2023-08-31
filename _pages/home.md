@@ -38,7 +38,7 @@ Feel free to connect with me as I explore the world of computer security.
 - [May 22nd, 2022]  Presented my [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} in [PLCrypt'22](https://andrewcmyers.github.io/plcrypt/){:target="_blank"}, at Stanford Research Institute, Menlo Park [[Video]](https://www.youtube.com/watch?app=desktop&v=LnR-lw0znuY){:target="_blank"}
 
 
-[All news>>](https://priyanka-mondal.github.io/news/){:target="_blank"}
+
 
 {% assign sortedCurrentEngagements = site.data.somenews | sort: 'date' %}
 
@@ -46,6 +46,7 @@ Feel free to connect with me as I explore the world of computer security.
 |[{{somenews.name}}]|{{somenews.job}}|
 {% endfor %}
 
+[All news>>](https://priyanka-mondal.github.io/news/){:target="_blank"}
 
 <!--footer-->
 <!--div class="page__footer-follow"> 
