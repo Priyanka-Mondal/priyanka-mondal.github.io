@@ -4,7 +4,7 @@ main:
       date: 2023-08-23
       render: true
       
-    - title: Gave a talk on [Asynchrony and Choreographies](https://priyanka-mondal.github.io/Asynchrony_and_Choreographies.pdf){:target="_blank"} in [LSD Seminar](https://lsd.ucsc.edu/lsd-seminar/2023sp/){:target="_blank"} 
+    - title: Gave a talk on [Asynchrony and Choreographies](https://priyanka-mondal.github.io/Asynchrony_and_Choreographies.pdf){:target="_blank"} in [LSD Seminar](https://lsd.ucsc.edu/lsd-seminar/2023sp/){:target="_blank"}
       date: 2023-06-09
       render: true
       
@@ -20,7 +20,7 @@ main:
       date: 2023-02-02
       render: true
 
-    - title: Passed my [Advancement Exam](https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless){:target="_blank"}, Yay!! 
+    - title: Passed my [Advancement Exam](https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless){:target="_blank"}, Yay!!
       date: 2022-12-21
       render: true
 
