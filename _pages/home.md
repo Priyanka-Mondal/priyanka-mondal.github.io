@@ -43,7 +43,7 @@ Feel free to connect with me as I explore the world of computer security.
 {% assign allnews = site.data.somenews.main %}
 
 {% for news in allnews -%}
-  {% if new.render == "true" %}
+  {% if news.render == "true" %}
     |{{news.date}}|{{news.title}}|
   {% endif %}
 {% endfor %}
