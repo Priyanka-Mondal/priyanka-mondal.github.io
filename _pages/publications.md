@@ -81,7 +81,7 @@ location = {Santa Cruz, CA, USA},
 series = {SoCC 2019},
 doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 
-- [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Extended abstract)<br>
+- [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Poster)<br>
 **Priyanka Mondal** and Owen Arden <br>
 <i>32nd IEEE Computer Security Foundations (CSF 2019)</i><br>
 [[Poster]](https://priyanka-mondal.github.io/Flowstate_Poster.pdf){:target="_blank"}
