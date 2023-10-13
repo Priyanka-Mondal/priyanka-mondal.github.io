@@ -1,5 +1,10 @@
 # main links links
 main:
+
+    - title: Gave a talk on "FLAQR" at [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"}
+      date: 2023-09-12
+      render: true
+      
     - title: Our [paper](https://content.iospress.com/articles/journal-of-computer-security/jcs230048) got accepted in [Journal of Computer Security (31st Volume)](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}
       date: 2023-08-23
       render: true
