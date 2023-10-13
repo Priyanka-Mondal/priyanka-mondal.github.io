@@ -1,6 +1,6 @@
 # main links links
 main:
-    - title: Our [paper]() got accepted in [Journal of Computer Security (31st Volume)](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}
+    - title: Our [paper](https://content.iospress.com/articles/journal-of-computer-security/jcs230048) got accepted in [Journal of Computer Security (31st Volume)](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}
       date: 2023-08-23
       render: true
       
