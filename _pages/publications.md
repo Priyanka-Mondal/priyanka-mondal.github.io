@@ -36,7 +36,7 @@ Backward Privacy]()<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitris Papadopoulos <br>
 <i>Under Submission</i>
 
-- [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048?resultNumber=0&totalResults=1&start=0&q=author%3A%28"Mondal%2C+Priyanka"%29&resultsPageSize=10&rows=10){:target="_blank"}<br>
+- [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
   <i>Journal of Computer Security, 2023 (31st Volume)</i><br>
   [[PDF]](https://priyanka-mondal.github.io/FLAQRJCS_official.pdf){:target="_blank"}{:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
