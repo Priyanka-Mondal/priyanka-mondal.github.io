@@ -1,6 +1,10 @@
 # main links links
 main:
 
+    - title: We organized [Academia to Industry Panel]{}{:target="_blank"} for [Women in Science & Engineering]{https://wiseucsc.wixsite.com/wise}{:target="_blank"}
+      date: 2023-11-17
+      render: true
+      
     - title: Gave a talk on "FLAQR" at [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"}
       date: 2023-09-12
       render: true
