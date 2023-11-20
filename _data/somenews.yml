@@ -1,7 +1,7 @@
 # main links links
 main:
 
-    - title: We organized [Academia to Industry Panel]{https://priyanka-mondal.github.io/Wise.jpg}{:target="_blank"} for [Women in Science & Engineering]{https://wiseucsc.wixsite.com/wise}{:target="_blank"} at UCSC
+    - title: We organized [Academia to Industry Panel](https://priyanka-mondal.github.io/Wise.jpg){:target="_blank"} for [Women in Science & Engineering](https://wiseucsc.wixsite.com/wise){:target="_blank"} @ UCSC
       date: 2023-11-17
       render: true
       
