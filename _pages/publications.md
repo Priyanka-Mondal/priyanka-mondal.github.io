@@ -52,7 +52,7 @@ Backward Privacy]()<br>
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (Recipient of the <b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
 <i>Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022)</i><br>
-[[PDF]](https://priyanka-mondal.github.io/FLAQR_official.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
+[[PDF]](https://priyanka-mondal.github.io/FLAQR_official.pdf){:target="_blank"}[[Tech-Report]](https://arxiv.org/abs/2205.04384){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={2022 IEEE 35th Computer Security Foundations Symposium (CSF)}, 
   title={Applying consensus and replication securely with FLAQR}, 
