@@ -6,5 +6,6 @@ gem "rack"
 gem "sassc"
 gem "kramdown-parser-gfm"
 gem 'jekyll-scholar'
+gem 'jekyll-redirect-from'
 
 gem "webrick"
