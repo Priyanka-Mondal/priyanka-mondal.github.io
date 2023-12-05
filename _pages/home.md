@@ -13,6 +13,7 @@ author_profile: true
 
 /* Create two equal columns that floats next to each other */
 .columnDate {
+  font-size: 45px
   float: left;
   width: 100px;
   padding: 35px;
@@ -20,6 +21,7 @@ author_profile: true
   color: Blue;
 }
 .columnTitle {
+  font-size: 45px
   float: left;
   width: 700px;
   padding: 35px;
@@ -31,6 +33,7 @@ author_profile: true
 .row:after {
   content: "";
   display: table;
+  font-size: 45px
   clear: both;
 }
 </style>
