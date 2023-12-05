@@ -1,6 +1,6 @@
 
 ---
-layout: default
+layout: archive
 title: "somenews"
 permalink: somenews/
 author_profile: false
