@@ -60,9 +60,7 @@ Feel free to connect with me as I explore the world of computer security.
 
 {% assign allnews = site.data.somenews.main | where:'render', 'true' %}
 {% for news in allnews -%}
-<div class="table">
- |{{ news.date }}|{{ news.title }}|
-</div>
+ ||{{ news.date }}|{{ news.title }}||
 {% endfor %}
 
 [All news>>](https://priyanka-mondal.github.io/news/)
