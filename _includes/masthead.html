@@ -9,7 +9,7 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" style="font-weight:bold" target="_blank">{{ link.title }}</a></li>
               {% else %}
               {% assign domain = base_path %}
                <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
