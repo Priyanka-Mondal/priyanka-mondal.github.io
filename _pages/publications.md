@@ -87,6 +87,13 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 [[Poster]](https://priyanka-mondal.github.io/Flowstate_Poster.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/CSF_2019_paper_6.pdf){:target="_blank"}
 
+- [Extended Atomicity Checking with Blame Assignment for
+Android Applications]()<br>
+**Priyanka Mondal** <br>
+<i>Thesis, Master of Engineering, Indian Institute of Science</i><br>
+[[Code]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
+[[PDF]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
+
 
 <script>     
 function copyBib(name) 
