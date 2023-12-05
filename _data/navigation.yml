@@ -3,7 +3,8 @@ main:
     - title: "Research"
       url: /publications/
       
-    - title: "R&eacute;sum&eacute;"
+    - title: "CV"
       url: https://priyanka-mondal.github.io/CV/priyanka.pdf
+      target: "_blank"
       
     
