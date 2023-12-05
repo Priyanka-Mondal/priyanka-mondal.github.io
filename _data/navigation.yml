@@ -4,6 +4,6 @@ main:
       url: /publications/
       
     - title: "CV"
-      redirect_to: https://priyanka-mondal.github.io/CV/priyanka.pdf
+      url: https://priyanka-mondal.github.io/CV/priyanka.pdf
       
     
