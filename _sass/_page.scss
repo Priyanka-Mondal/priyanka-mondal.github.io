@@ -49,14 +49,13 @@
 }
 
 .page__content {
-  font-size: 10em;
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
-    font-size: 10em;
+    font-size: 1em;
   }
 
   /* paragraph indents */
