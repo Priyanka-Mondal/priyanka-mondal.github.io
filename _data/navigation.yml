@@ -4,7 +4,6 @@ main:
       url: /publications/
       
     - title: "CV"
-      url: https://priyanka-mondal.github.io/CV/priyanka.pdf
-      target: _blank
+      url: https://priyanka-mondal.github.io/CV/priyanka.pdf{target="_blank"}
       
     
