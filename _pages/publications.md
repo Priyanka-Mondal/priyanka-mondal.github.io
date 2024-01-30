@@ -103,7 +103,7 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 - [Extended Atomicity Checking with Blame Assignment for
 Android Applications](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}<br>
 **Priyanka Mondal** <br>
-<i>Thesis, Master of Engineering, Indian Institute of Science</i><br>
+<font color="Burgundy"><i>Thesis, Master of Engineering, Indian Institute of Science</i></font><br>
 [[Code]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 
