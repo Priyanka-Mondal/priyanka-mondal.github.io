@@ -38,7 +38,7 @@ Backward Privacy]()<br>
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
-  <font color="Burgundy"> <i>Journal of Computer Security, 2023 (31st Volume)</i> </font> <br>
+  <i> <font color="Burgundy"> Journal of Computer Security, 2023 (31st Volume) </font> </i> <br>
   [[PDF]](https://priyanka-mondal.github.io/FLAQRJCS.pdf){:target="_blank"}{:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={31st Volume of Journal of Computer Security, Issue 5}, 
