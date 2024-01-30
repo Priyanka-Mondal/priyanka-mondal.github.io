@@ -78,7 +78,7 @@ Backward Privacy]()<br>
 
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"} (Extended abstract & Poster)<br>
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
-<font color="Red"> <i>Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019)</i> </font> <br>
+<i> <font color="Red"> Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019) </font> </i> <br>
 [[Poster]]()[[PDF]](https://priyanka-mondal.github.io/voteThemOut.pdf){:target="_blank"}<button onclick="copyBib('@inproceedings{10.1145/3357223.3365442,
 author = {Tran, Tuan and Mondal, Priyanka and Shadmon, Roy and Mallikarjun, Manthan and Alvaro, Peter and Arden, Owen},
 title = {Vote Them Out: Detecting and Eliminating Byzantine Peers},
@@ -96,14 +96,14 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Poster)<br>
 **Priyanka Mondal** and Owen Arden <br>
-<font color="SlateBlue"> <i>32nd IEEE Computer Security Foundations (CSF 2019)</i> </font> <br>
+<i> <font color="SlateBlue"> 32nd IEEE Computer Security Foundations (CSF 2019) </font> </i> <br>
 [[Poster]](https://priyanka-mondal.github.io/Flowstate_Poster.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/CSF_2019_paper_6.pdf){:target="_blank"}
 
 - [Extended Atomicity Checking with Blame Assignment for
 Android Applications](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}<br>
 **Priyanka Mondal** <br>
-<font color="Burgundy"> <i>Thesis, Master of Engineering, Indian Institute of Science</i> </font> <br>
+<i> <font color="Burgundy"> Thesis, Master of Engineering, Indian Institute of Science </font> </i> <br>
 [[Code]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 
