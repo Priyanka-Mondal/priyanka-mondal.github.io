@@ -96,7 +96,7 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Poster)<br>
 **Priyanka Mondal** and Owen Arden <br>
-<i>32nd IEEE Computer Security Foundations (CSF 2019)</i><br>
+<font color="Burgundy"><i>32nd IEEE Computer Security Foundations (CSF 2019)</i></font><br>
 [[Poster]](https://priyanka-mondal.github.io/Flowstate_Poster.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/CSF_2019_paper_6.pdf){:target="_blank"}
 
