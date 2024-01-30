@@ -78,7 +78,7 @@ Backward Privacy]()<br>
 
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"} (Extended abstract & Poster)<br>
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
-<i>Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019)</i><br>
+<font color="Burgundy"><i>Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019)</i></font><br>
 [[Poster]]()[[PDF]](https://priyanka-mondal.github.io/voteThemOut.pdf){:target="_blank"}<button onclick="copyBib('@inproceedings{10.1145/3357223.3365442,
 author = {Tran, Tuan and Mondal, Priyanka and Shadmon, Roy and Mallikarjun, Manthan and Alvaro, Peter and Arden, Owen},
 title = {Vote Them Out: Detecting and Eliminating Byzantine Peers},
