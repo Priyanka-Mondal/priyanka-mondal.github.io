@@ -27,7 +27,7 @@ author_profile: true
         }
 </style>
 
-## Publications
+## Peer-reviewed publications
 <!--You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"} -->
 {% include base_path %}
 
@@ -99,6 +99,8 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 <i> <font color="Burgundy"> 32nd IEEE Computer Security Foundations (CSF 2019) </font> </i> <br>
 [[Poster]](https://priyanka-mondal.github.io/Flowstate_Poster.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/CSF_2019_paper_6.pdf){:target="_blank"}
+
+## Other publications
 
 - [Extended Atomicity Checking with Blame Assignment for
 Android Applications](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}<br>
