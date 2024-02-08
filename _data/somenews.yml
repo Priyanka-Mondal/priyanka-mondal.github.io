@@ -1,6 +1,10 @@
 # main links links
 main:
 
+    
+    - title: Our [paper](https://www.usenix.org/conference/usenixsecurity24) got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24){:target="_blank"}
+      date: 2024-02-01
+      render: true
 
     - title: We organized [Academia to Industry Panel](https://priyanka-mondal.github.io/Wise.jpg){:target="_blank"} for [Women in Science & Engineering](https://wiseucsc.wixsite.com/wise){:target="_blank"} @ UCSC
       date: 2023-11-17
