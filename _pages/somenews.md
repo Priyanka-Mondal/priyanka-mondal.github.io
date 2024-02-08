@@ -6,8 +6,8 @@ permalink: somenews/
 author_profile: false
 date
 ---
-  - [2024-02-01] Our [paper]() got accepted in [Usenix Security](https://www.usenix.org/conference/usenixsecurity24){:target="_blank"}
-  - [2023-08-23] Our [paper]() got accepted in [Journal of Computer Security (31st Volume)](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}
+- [2024-02-01] Our [paper]() got accepted in [Usenix Security](https://www.usenix.org/conference/usenixsecurity24){:target="_blank"}
+- [2023-08-23] Our [paper]() got accepted in [Journal of Computer Security (31st Volume)](https://content.iospress.com/journals/journal-of-computer-security/Pre-press/Pre-press){:target="_blank"}
 - [2023-06-09] Gave a talk on Asynchrony and Choreographies in [LSD Seminar](https://lsd.ucsc.edu/lsd-seminar/2023sp/){:target="_blank"} 
 - [2023-04-01] I will be serving the [WiCyS](https://www.wicys.org){:target="_blank"}  student chapter at UCSC as the Vice President 
 - [2023-03-15] Gave a talk on [Flow-Limited Authorization: background & extension](https://docs.google.com/presentation/d/1epIaJiqbhezyXvnGHIKzhwG2LjHI2nd890l80ZUFb1s/edit?usp=sharing){:target="_blank"} at the [SRL seminar](https://srl-ucsc.github.io/seminar.html){:target="_blank"}
