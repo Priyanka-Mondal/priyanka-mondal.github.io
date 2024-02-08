@@ -58,10 +58,7 @@ Feel free to connect with me as I explore the world of computer security.
 
 ## News
 
-{% assign allnews = site.data.somenews.main | where:'render', 'true' %}
-{% for news in allnews -%}
-- {{ news.date }} - {{ news.title }}
-{% endfor %}
+
 
 [All news>>](https://priyanka-mondal.github.io/news/)
 
