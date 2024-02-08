@@ -1,7 +1,7 @@
 # main links links
 main:
 
-    - title: Our [paper]() got accepted in [USENIX Security`24](https://www.usenix.org/conference/usenixsecurity24){:target="_blank"}
+    - title: Our [paper](https://www.usenix.org/conference/usenixsecurity24) got accepted in [USENIX Security, 2024](https://www.usenix.org/conference/usenixsecurity24){:target="_blank"}
       date: 2024-02-01
       render: true
 
