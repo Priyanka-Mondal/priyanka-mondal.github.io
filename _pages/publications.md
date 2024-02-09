@@ -36,7 +36,6 @@ author_profile: true
 <i> <font color="Burgundy"> Proceedings of the 33rd USENIX Security Symposium 2024 </font> </i> <br>
 [[PDF]](https://priyanka-mondal.github.io/FLAQRJCS.pdf){:target="_blank"}
 
-
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
 <i> <font color="Burgundy"> Journal of Computer Security, 2023 (31st Volume) </font> </i> <br>
