@@ -35,21 +35,13 @@ author_profile: true
 Backward Privacy]()<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitris Papadopoulos <br>
 <i> <font color="Burgundy"> Proceedings of the 33rd USENIX Security Symposium 2024 </font> </i> <br>
-[[PDF]](){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
-  author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
-  booktitle={31st Volume of Journal of Computer Security, Issue 5}, 
-  title={Flow-Limited Authorization for consensus, replication, and secret sharing}, 
-  year={2023},
-  volume={5},
-  number={},
-  pages={615-645},
-  doi={10.3233/JCS-230048}}')">[copy BIB]</button>
+[[PDF]](){:target="_blank"}
 
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
-  <i> <font color="Burgundy"> Journal of Computer Security, 2023 (31st Volume) </font> </i> <br>
-  [[PDF]](https://priyanka-mondal.github.io/FLAQRJCS.pdf){:target="_blank"}{:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
+<i> <font color="Burgundy"> Journal of Computer Security, 2023 (31st Volume) </font> </i> <br>
+  [[PDF]](https://priyanka-mondal.github.io/FLAQRJCS.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={31st Volume of Journal of Computer Security, Issue 5}, 
   title={Flow-Limited Authorization for consensus, replication, and secret sharing}, 
