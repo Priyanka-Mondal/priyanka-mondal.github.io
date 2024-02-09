@@ -42,7 +42,7 @@ main:
       date: 2022-12-21
       render: false
 
-    - title: Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} won the <b><font color="SlateBlue"> <i> Distinguished paper award </i> 🏆 </font></b>
+    - title: Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} received the <b><font color="SlateBlue"> <i> Distinguished paper award </i> 🏆 </font></b>
       date: 2022-08-08
       render: true
 
