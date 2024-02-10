@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "jekyll"
+gem "jekyll", "~> 4.2"
 gem "thin",  '~>1.8'
 gem "rack"
 gem "sassc"
