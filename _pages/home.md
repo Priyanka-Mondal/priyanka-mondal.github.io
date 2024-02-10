@@ -53,7 +53,7 @@ during this time, I had the opportunity to work as a summer intern at [Nomura Re
 
 Through my work, I strive to create a safer digital environment for all. 
 Feel free to connect with me as I explore the world of computer security.
-<hr>
+<!-- more -->
 
 ## News
 {% assign allnews = site.data.somenews.main | where:'render', 'true' %}
