@@ -1,7 +1,10 @@
 # main links links
 main:
 
-
+    - title: Participated in [UCSC Grad Slam](https://graddiv.ucsc.edu/calendar/grad-slam/index.html) (3 minute Thesis competition)
+      date: 2024-02-06
+      render: true
+    
     - title: We organized [Academia to Industry Panel](https://priyanka-mondal.github.io/Wise.jpg){:target="_blank"} for [Women in Science & Engineering](https://wiseucsc.wixsite.com/wise){:target="_blank"} @ UCSC
       date: 2023-11-17
       render: true
