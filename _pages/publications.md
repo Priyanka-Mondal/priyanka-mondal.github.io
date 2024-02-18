@@ -41,7 +41,7 @@ author_profile: true
 
 - [I/O-Efficient Dynamic Searchable Encryption meets Forward & Backward Privacy]()<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitrios Papadopoulos <br>
-<i> <font color="SlateBlue"> Proceedings of the 33rd USENIX Security Symposium 2024 </font> </i> <br>
+<i> <font color="SlateBlue" size="1.3"> Proceedings of the 33rd USENIX Security Symposium 2024 </font> </i> <br>
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
@@ -58,7 +58,7 @@ author_profile: true
 
 - [Applying consensus and replication securely with FLAQR](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} (<b> <font color="SlateBlue"> <i> Distinguished Paper Award </i> 🏆</font></b>) <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
-<i> <font color="SlateBlue"> Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022) </font> </i> <br>
+<i> <font color="SlateBlue" size="1.3"> Proceedings of the 35th IEEE Computer Security Foundations (CSF 2022) </font> </i> <br>
 [[PDF]](https://priyanka-mondal.github.io/FLAQR_official.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={2022 IEEE 35th Computer Security Foundations Symposium (CSF)}, 
@@ -71,7 +71,7 @@ author_profile: true
 
 - [Applying consensus and replication securely with FLAQR](https://plas21.software.imdea.org){:target="_blank"} <br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
-<i> <font color="SlateBlue"> The 16th Workshop on Programming Languages and Analysis for Security (PLAS 2021) </font> </i> <br>
+<i> <font color="SlateBlue" size="1.3"> The 16th Workshop on Programming Languages and Analysis for Security (PLAS 2021) </font> </i> <br>
 [[PDF]](https://arxiv.org/abs/2205.04384){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={2022 IEEE 35th Computer Security Foundations Symposium (CSF)}, 
@@ -85,7 +85,7 @@ author_profile: true
 
 - [Vote them out: Detecting and eliminating byzantine peers](https://dl.acm.org/doi/abs/10.1145/3357223.3365442){:target="_blank"} (Extended abstract & Poster)<br>
 Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden <br>
-<i> <font color="SlateBlue"> Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019) </font> </i> <br>
+<i> <font color="SlateBlue" size="1.3"> Proceedings of the 10th ACM Symposium on Cloud Computing (SoCC 2019) </font> </i> <br>
 [[Poster]]()[[PDF]](https://priyanka-mondal.github.io/voteThemOut.pdf){:target="_blank"}<button onclick="copyBib('@inproceedings{10.1145/3357223.3365442,
 author = {Tran, Tuan and Mondal, Priyanka and Shadmon, Roy and Mallikarjun, Manthan and Alvaro, Peter and Arden, Owen},
 title = {Vote Them Out: Detecting and Eliminating Byzantine Peers},
@@ -103,7 +103,7 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 
 - [Flowstate: A Language for Secure Replicated Computation](https://web.stevens.edu/csf2019/program.html){:target="_blank"} (Poster)<br>
 **Priyanka Mondal** and Owen Arden <br>
-<i> <font color="SlateBlue"> 32nd IEEE Computer Security Foundations (CSF 2019) </font> </i> <br>
+<i> <font color="SlateBlue" size="1.3"> 32nd IEEE Computer Security Foundations (CSF 2019) </font> </i> <br>
 [[Poster]](https://priyanka-mondal.github.io/Flowstate_Poster.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/CSF_2019_paper_6.pdf){:target="_blank"}
 
@@ -112,7 +112,7 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 - [Extended Atomicity Checking with Blame Assignment for
 Android Applications](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}<br>
 **Priyanka Mondal** <br>
-<i> <font color="SlateBlue"> Thesis, Master of Engineering, Indian Institute of Science </font> </i> <br>
+<i> <font color="SlateBlue" size="1.3"> Thesis, Master of Engineering, Indian Institute of Science </font> </i> <br>
 [[Code]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 
