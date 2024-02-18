@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Priyanka Mondal"
-title_separator          : "📄"
+title_separator          : "💻"
 name                     : &name "Priyanka Mondal"
 description              : &description "I am a PhD Candidate at the University of California, Santa Cruz."
 url                      : https://priyanka-mondal.github.io
