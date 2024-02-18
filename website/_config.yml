@@ -84,39 +84,12 @@ author:
   avatar           : "priyankajpg.jpg"
   bio              : Ph.D. Candidate
   employer         : ""
-  email        : ""
-  pubmed           :
+  email            : ""
   googlescholar    : "https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en"
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "Priyanka-Mondal"
-  google_plus      :
-  keybase          : 
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "priyanka-mondal-621a1548"
-  orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
-
-
+###Till here
 # Reading Files
 include:
   - .htaccess
