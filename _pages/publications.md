@@ -8,10 +8,10 @@ author_profile: true
 <style>
   a {
     color: Blue;
-    text-decoration: none  !important;;
+    text-decoration: none  !important;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: underline  !important;;
     }
 }
        button {
