@@ -9,6 +9,10 @@ main:
       date: 2024-02-01
       render: true
 
+    - title: Gave a talk on "Locality aware Searchable encryption with forward and backward privacy" at the  [SRL Seminar](){:target="_blank"}
+      date: 2024-02-01
+      render: false
+
     - title: We were invited at the [CrowdStrike Open House](https://priyanka-mondal.github.io/crowdstrike.jpg){:target="_blank"} as WiCyS members
       date: 2023-12-14
       render: false
