@@ -5,7 +5,15 @@ permalink: publications/
 author_profile: true
 ---
 
-<style>		
+<style>
+  a {
+    color: Blue;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+}
        button {
 	    width: 80px;
 	    height: 20px;
