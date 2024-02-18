@@ -7,35 +7,17 @@ author_profile: true
 ---
 
 <style>
-* {
-  box-sizing: border-box;
-}
+<style>
 
-/* Create two equal columns that floats next to each other */
-.columnDate {
-  font-size: 45px
-  float: left;
-  width: 100px;
-  padding: 35px;
-  height: 100px; /* Should be removed. Only for demonstration */
-  color: Blue;
-}
-.columnTitle {
-  font-size: 45px
-  float: left;
-  width: 700px;
-  padding: 35px;
-  height: 100px; /* Should be removed. Only for demonstration */
-  color: Blue
-}
+  a {
+    color: Blue;
+    text-decoration: none;
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  font-size: 45px
-  clear: both;
+    &:hover {
+      text-decoration: underline;
+    }
 }
+</style>
 </style>
 
  <!--link rel="stylesheet" href="https://priyanka-mondal.github.io/styles.css"-->
