@@ -11,7 +11,7 @@ author_profile: true
     text-decoration: none  !important;
 
     &:hover {
-      text-decoration: underline  !important;;
+      text-decoration: underline  !important;
     }
 }
        button {
