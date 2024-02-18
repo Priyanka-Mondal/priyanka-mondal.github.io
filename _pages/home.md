@@ -10,7 +10,7 @@ author_profile: true
 
   a {
     color: Blue;
-    text-decoration: none;
+    text-decoration: none !important;
     &:hover {
       text-decoration: underline;
     }
