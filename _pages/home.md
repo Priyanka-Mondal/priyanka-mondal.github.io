@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 <style>
-<style>
 
   a {
     color: Blue;
@@ -17,7 +16,6 @@ author_profile: true
       text-decoration: underline;
     }
 }
-</style>
 </style>
 
  <!--link rel="stylesheet" href="https://priyanka-mondal.github.io/styles.css"-->
