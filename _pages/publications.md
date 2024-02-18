@@ -8,7 +8,7 @@ author_profile: true
 <style>
   a {
     color: Blue;
-    text-decoration: none;
+    text-decoration: none  !important;;
 
     &:hover {
       text-decoration: underline;
@@ -18,7 +18,7 @@ author_profile: true
 	    width: 80px;
 	    height: 20px;
 	    background-color:Azure;/*#87CEEB;/*#008CBA;*/
-	    color: #4B9CD3;/*#00BFFF;/*#318CE7;/*#89CFF0;*/
+	    color: Blue;/*#4B9CD3;/*#00BFFF;/*#318CE7;/*#89CFF0;*/
             border-color:White;
             font-size: 16px;
             font-weight: 400;
@@ -112,7 +112,7 @@ doi = {10.1145/3357223.3365442}}')">[copy BIB]</button>
 - [Extended Atomicity Checking with Blame Assignment for
 Android Applications](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}<br>
 **Priyanka Mondal** <br>
-<i> <font color="Burgundy"> Thesis, Master of Engineering, Indian Institute of Science </font> </i> <br>
+<i> <font color="SlateBlue"> Thesis, Master of Engineering, Indian Institute of Science </font> </i> <br>
 [[Code]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 [[PDF]](https://priyanka-mondal.github.io/PriyankaMEThesis.pdf){:target="_blank"}
 
