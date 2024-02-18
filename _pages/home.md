@@ -11,7 +11,6 @@ author_profile: true
   a {
     color: Blue;
     text-decoration: none;
-
     &:hover {
       text-decoration: underline;
     }
