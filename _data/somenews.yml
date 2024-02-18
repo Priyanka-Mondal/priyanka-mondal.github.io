@@ -5,7 +5,7 @@ main:
       date: 2024-02-06
       render: true
 
-     - title: Our [paper](){:target="_blank"} on Searchable encryption got accepted in [USENIX security 2024](){:target="_blank"}
+    - title: Our [paper](){:target="_blank"} on Searchable encryption got accepted in [USENIX security 2024](){:target="_blank"}
       date: 2024-02-01
       render: true
 
