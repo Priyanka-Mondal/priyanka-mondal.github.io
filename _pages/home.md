@@ -12,7 +12,7 @@ author_profile: true
     color: Blue;
     text-decoration: none !important;
     &:hover {
-      text-decoration: underline;
+      text-decoration: underline  !important;
     }
 }
 </style>
