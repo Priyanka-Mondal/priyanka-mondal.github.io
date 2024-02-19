@@ -1,1 +1,8 @@
+# main links links
+main:
 
+    - title: Flowstate: A Language for Fault Tolerant Decentralized Computation (Lighting talk)
+      date: 2019-06-25
+      venue: Stevens Institute, New Jersey
+      conference: 32nd IEEE Computer Security Foundations Symposium
+      render: true
