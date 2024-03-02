@@ -6,7 +6,7 @@ main:
       venue: Chennai Mathematical Institute, India
       conference: Seminar
       render: true
-      type: con
+      type: seminar
 
     - title: Applying consensus and replication securely with FLAQR
       conf: CSF'22
