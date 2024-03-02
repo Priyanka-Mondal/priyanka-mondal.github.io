@@ -1,8 +1,37 @@
 # main links links
 main:
 
-    - title: Flowstate - A Language for Fault Tolerant Decentralized Computation (Lighting talk)
-      conference: CSF'19
+    - title: Flow Limited Authorization for Quorum Replication
+      conf: CS Seminar
+      venue: Chennai Mathematical Institute, India
+      conference: Seminar
+      render: true
+      type: con
+
+    - title: Applying consensus and replication securely with FLAQR
+      conf: CSF'22
+      venue: Technion, Haifa, Israel
+      conference: 35th IEEE Computer Security Foundations Symposium
+      render: true
+      type: con
+
+    - title: Applying consensus and replication securely with FLAQR
+      conf: PLCrypt'22
+      venue: Stanford Research Institute, Menlo Park, California
+      conference: PLCrypt
+      render: true
+      type: con
+    
+    - title: Applying consensus and replication securely with FLAQR
+      conf: PLAS'21
+      venue: Virtual
+      conference: 16th Workshop on Programming Languages and Analysis for Security
+      render: true
+      type: con
+
+    - title: Flowstate, A Language for Fault Tolerant Decentralized Computation (Lighting talk)
+      conf: CSF'19
       venue: Stevens Institute, New Jersey
       conference: 32nd IEEE Computer Security Foundations Symposium
       render: true
+      type: con
