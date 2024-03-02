@@ -8,5 +8,5 @@ gem "kramdown-parser-gfm"
 gem 'jekyll-scholar'
 gem 'jekyll-redirect-from'
 gem "webrick"
-gem "jekyll-paginate-v2", ">= 3.0"
+gem "jekyll-paginate-v2"
 gem 'jekyll-spaceship'
