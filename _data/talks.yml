@@ -22,6 +22,20 @@ main:
       render: true
       type: seminar
 
+     - title:  Flow-Limited Authorization - background & extension 
+      conf: SRL Seminar, Spring'23
+      venue: UCSC
+      conference: Seminar
+      render: true
+      type: seminar
+
+    - title:   I/O efficient Dynamic Searchable Encryption 
+      conf: CRSS Seminar, Spring'23
+      venue: UCSC
+      conference: Seminar
+      render: true
+      type: seminar
+
     - title: Applying consensus and replication securely with FLAQR
       conf: CSF'22
       venue: Technion, Haifa, Israel
