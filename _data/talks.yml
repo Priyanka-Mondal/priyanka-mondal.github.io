@@ -9,7 +9,7 @@ main:
       type: seminar
 
     - title: Flow Limited Authorization for Quorum Replication
-      conf: CS Seminar'23
+      conf: CS Seminar, Summer'23
       venue: Chennai Mathematical Institute, India
       conference: Seminar
       render: true
