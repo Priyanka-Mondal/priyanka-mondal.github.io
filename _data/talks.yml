@@ -36,6 +36,13 @@ main:
       render: true
       type: seminar
 
+    - title:   Making Distributed Systems Trustless
+      conf: Advancement, Fall'22
+      venue: UCSC
+      conference: Seminar
+      render: true
+      type: seminar
+
     - title: Applying consensus and replication securely with FLAQR
       conf: CSF'22
       venue: Technion, Haifa, Israel
