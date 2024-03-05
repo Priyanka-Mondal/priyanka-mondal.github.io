@@ -22,7 +22,7 @@ main:
       render: true
       type: seminar
 
-    - title:  Flow-Limited Authorization - background and extension 
+    - title: Flow-Limited Authorization - background and extension 
       conf: SRL Seminar, Spring'23
       venue: UCSC
       conference: Seminar
@@ -43,7 +43,7 @@ main:
       render: true
       type: seminar
 
-    - title:   Making Distributed Systems Trustless
+    - title: Making Distributed Systems Trustless
       conf: Advancement, Fall'22
       venue: UCSC
       conference: Seminar
