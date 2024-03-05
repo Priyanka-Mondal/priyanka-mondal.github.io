@@ -29,7 +29,7 @@ main:
       render: true
       type: seminar
 
-    - title:   I/O efficient Dynamic Searchable Encryption 
+    - title: I/O efficient Dynamic Searchable Encryption 
       conf: CRSS Seminar, Winter'23
       venue: UCSC
       conference: Seminar
