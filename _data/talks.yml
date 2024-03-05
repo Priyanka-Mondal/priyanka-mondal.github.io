@@ -36,6 +36,13 @@ main:
       render: true
       type: seminar
 
+    - title: Locality aware Searchable encryption with forward and backward privacy
+      conf: 290X, Fall'22
+      venue: UCSC
+      conference: Seminar
+      render: true
+      type: seminar
+
     - title:   Making Distributed Systems Trustless
       conf: Advancement, Fall'22
       venue: UCSC
