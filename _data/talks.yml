@@ -1,9 +1,23 @@
 # main links links
 main:
 
+    - title: Locality aware Searchable encryption with forward and backward privacy
+      conf: SRL Seminar, Winter'24
+      venue: UCSC
+      conference: Seminar
+      render: true
+      type: seminar
+
     - title: Flow Limited Authorization for Quorum Replication
-      conf: CS Seminar,2023
+      conf: CS Seminar'23
       venue: Chennai Mathematical Institute, India
+      conference: Seminar
+      render: true
+      type: seminar
+
+    - title: Asynchrony and Choreographies
+      conf: LSD Seminar, Spring'24
+      venue: UCSC
       conference: Seminar
       render: true
       type: seminar
