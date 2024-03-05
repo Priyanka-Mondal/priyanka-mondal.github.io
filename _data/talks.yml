@@ -22,7 +22,7 @@ main:
       render: true
       type: seminar
 
-     - title:  Flow-Limited Authorization - background & extension 
+     - title:  Flow-Limited Authorization - background and extension 
       conf: SRL Seminar, Spring'23
       venue: UCSC
       conference: Seminar
