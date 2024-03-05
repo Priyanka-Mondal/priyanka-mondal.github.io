@@ -30,7 +30,7 @@ main:
       type: seminar
 
     - title:   I/O efficient Dynamic Searchable Encryption 
-      conf: CRSS Seminar, Spring'23
+      conf: CRSS Seminar, Winter'23
       venue: UCSC
       conference: Seminar
       render: true
