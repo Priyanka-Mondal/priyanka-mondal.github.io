@@ -16,7 +16,7 @@ main:
       type: seminar
 
     - title: Asynchrony and Choreographies
-      conf: LSD Seminar, Spring'24
+      conf: LSD Seminar, Spring'23
       venue: UCSC
       conference: Seminar
       render: true
