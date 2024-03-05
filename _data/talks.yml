@@ -36,8 +36,8 @@ main:
       render: true
       type: seminar
 
-    - title: Locality aware Searchable encryption with forward and backward privacy
-      conf: 290X, Fall'22
+    - title: I/O efficient Dynamic Searchable Encryption 
+      conf: 290X, Fall'22 (Guest speaker)
       venue: UCSC
       conference: Seminar
       render: true
