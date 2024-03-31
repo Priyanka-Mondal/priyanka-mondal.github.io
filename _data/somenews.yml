@@ -1,7 +1,7 @@
 # main links links
 main:
 
-    - title: <font color="SlateBlue"> Actively looking for full-time jobs </font>
+    - title: <font color="Red"> Actively looking for full-time jobs </font>
       date: 2024-03-22
       render: true
 
