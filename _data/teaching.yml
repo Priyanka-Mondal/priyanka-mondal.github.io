@@ -1,11 +1,11 @@
 # main links links
 main:
 
-    - course: Locality aware Searchable encryption with forward and backward privacy
-      name: SRL Seminar, Winter'24
-      quarter: UCSC
-      designation: Seminar
+    - course: Programmin Languages 
+      name: CSE210A (Graduate Course) 
+      quarter: Winter 2024
+      designation: Teaching Assistant
       render: true
-      description: seminar
+      description: Coq Proof Assistant
 
     
