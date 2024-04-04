@@ -6,16 +6,10 @@ author_profile: true
 ---
 
 <h2>Conference Talks</h2>
-{% assign alltalks = site.data.talks.main | where:'render', 'true' | where:'type', 'con'%}
+{% assign alltalks = site.data.teaching.main | where:'render', 'true' | where:'type', 'con'%}
 
 {% for talk in alltalks -%}
-- {{ talk.conf }} - {{ talk.title }} - {{talk.venue}}
+- {{ talk.course }} - {{ talk.name }} - {{talk.quarter}} - {{talk.designation}}
+    {{talk.description}}
 {% endfor %}
 
-
-<h2>Seminar Talks</h2>
-{% assign alltalks = site.data.talks.main | where:'render', 'true' | where:'type', 'seminar'%}
-
-{% for talk in alltalks -%}
-- {{ talk.conf }} - {{ talk.title }} - {{talk.venue}}
-{% endfor %}
