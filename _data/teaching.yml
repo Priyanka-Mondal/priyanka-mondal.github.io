@@ -1,79 +1,11 @@
 # main links links
 main:
 
-    - title: Locality aware Searchable encryption with forward and backward privacy
-      conf: SRL Seminar, Winter'24
-      venue: UCSC
-      conference: Seminar
+    - course: Locality aware Searchable encryption with forward and backward privacy
+      name: SRL Seminar, Winter'24
+      quarter: UCSC
+      designation: Seminar
       render: true
-      type: seminar
+      description: seminar
 
-    - title: Flow Limited Authorization for Quorum Replication
-      conf: CS Seminar, Summer'23
-      venue: Chennai Mathematical Institute, India
-      conference: Seminar
-      render: true
-      type: seminar
-
-    - title: Asynchrony and Choreographies
-      conf: LSD Seminar, Spring'23
-      venue: UCSC
-      conference: Seminar
-      render: true
-      type: seminar
-
-    - title: Flow-Limited Authorization - background and extension 
-      conf: SRL Seminar, Spring'23
-      venue: UCSC
-      conference: Seminar
-      render: true
-      type: seminar
-
-    - title: I/O efficient Dynamic Searchable Encryption 
-      conf: CRSS Seminar, Winter'23
-      venue: UCSC
-      conference: Seminar
-      render: true
-      type: seminar
-
-    - title: I/O efficient Dynamic Searchable Encryption 
-      conf: 290X, Fall'22 (Guest speaker)
-      venue: UCSC
-      conference: Seminar
-      render: true
-      type: seminar
-
-    - title: Making Distributed Systems Trustless
-      conf: Advancement, Fall'22
-      venue: UCSC
-      conference: Seminar
-      render: true
-      type: seminar
-
-    - title: Applying consensus and replication securely with FLAQR
-      conf: CSF'22
-      venue: Technion, Haifa, Israel
-      conference: 35th IEEE Computer Security Foundations Symposium
-      render: true
-      type: con
-
-    - title: Applying consensus and replication securely with FLAQR
-      conf: PLCrypt'22
-      venue: Stanford Research Institute, Menlo Park, California
-      conference: PLCrypt
-      render: true
-      type: con
     
-    - title: Applying consensus and replication securely with FLAQR
-      conf: PLAS'21
-      venue: Virtual
-      conference: 16th Workshop on Programming Languages and Analysis for Security
-      render: true
-      type: con
-
-    - title: Flowstate, A Language for Fault Tolerant Decentralized Computation (Lighting talk)
-      conf: CSF'19
-      venue: Stevens Institute, New Jersey
-      conference: 32nd IEEE Computer Security Foundations Symposium
-      render: true
-      type: con
