@@ -3,7 +3,7 @@ main:
 
     - title: <font color="Red"> Actively looking for a full-time job </font>
       date: 2024-03-22
-      render: true
+      render: false
 
     - title: Participated in [UCSC Grad Slam](https://graddiv.ucsc.edu/calendar/grad-slam/index.html) (3 minute Thesis competition)
       date: 2024-02-06
