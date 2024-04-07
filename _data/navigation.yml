@@ -8,6 +8,12 @@ main:
 
     - title: "Teaching"
       url: /teaching/
+
+     - title: "Awards"
+      url: /teaching/
+
+     - title: "Services"
+      url: /teaching/
       
     - title: "Resume"
       url: https://priyanka-mondal.github.io/CV/Short_Resume.pdf
