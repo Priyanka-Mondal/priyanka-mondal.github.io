@@ -1,11 +1,97 @@
 # main links links
 main:
 
-    - course: Programmin Languages 
-      name: CSE210A (Graduate Course) 
-      quarter: Winter 2024
+    - course: Programming Languages 
+      name: CSE210 (Graduate Course) 
+      quarter: Spring 2024
       designation: Teaching Assistant
       render: true
-      description: Coq Proof Assistant
+      prof: Owen Arden
+      description: Formal Verification using Coq Proof Assistant
 
+    - course: Foundations of Programming Languages
+      name: CSE114 (Undergraduate Course) 
+      quarter: Winter 2024
+      designation: Head Teaching Assistant
+      render: true
+      prof: Cormac Flanagan
+      description: Lambda Calculus, Type-system, Haskell programming
     
+    - course: Foundations of Programming Languages
+      name: CSE114 (Undergraduate Course) 
+      quarter: Fall 2023
+      designation: Teaching Assistant
+      render: true
+      prof: Owen Arden
+      description: Lambda Calculus, Type-system, Haskell programming
+    
+    - course: Programming Languages 
+      name: CSE210 (Graduate Course) 
+      quarter: Spring 2023
+      designation: Teaching Assistant
+      render: true
+      prof: Owen Arden
+      description: Formal Verification using Coq Proof Assistant
+
+    - course: Analysis of Algorithms
+      name: CSE102 (Undergraduate Course) 
+      quarter: Winter 2023
+      designation: Teaching Assistant
+      render: true
+      prof: Allen Van Gelder
+      description: Analysis of BFS, DFS, greedy, dynamic programming approaches
+
+
+    - course: Introduction to Algorithms and data structures
+      name: CSE101 (Undergraduate Course) 
+      quarter: Fall 2022
+      designation: Teaching Assistant
+      render: true
+      prof: Ioannis Demertzis
+      description: Linked lists, Trees,Heaps,  Graphs, C++
+
+
+    - course: Advanced Programming
+      name: CSE111 (Undergraduate Course) 
+      quarter: Spring 2022
+      designation: Teaching Assistant
+      render: true
+      prof: Wesley Mackey
+      description: Multi-threaded programming, client/server applications in C++
+
+
+    - course: Programming Languages
+      name: CSE210 (Graduate Course) 
+      quarter: Spring 2021
+      designation: Head Teaching Assistant
+      render: true
+      prof: Cormac Flanagan
+      description: Mentored students for their course projects
+
+    - course: Advanced Programming
+      name: CSE111 (Undergraduate Course) 
+      quarter: Summer 2019
+      designation: Teaching Assistant
+      render: true
+      prof: Wesley Mackey
+      description: Multi-threaded programming, client/server applications in C++
+
+    - course: Compiler Design
+      name: CSE104 (Undergraduate Course) 
+      quarter: Fall 2018
+      designation: Teaching Assistant
+      render: true
+      prof: Wesley Mackey
+      description: Lexer, Parser, Linker, Abstract syntax tree
+
+
+
+
+
+
+
+
+
+
+
+
