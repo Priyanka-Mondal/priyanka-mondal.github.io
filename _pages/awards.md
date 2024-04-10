@@ -4,11 +4,13 @@ title: ""
 permalink: awards/
 author_profile: true
 ---
+
+## Awards
+- Distingushed Paper Award, 35th IEEE Computer Security Foundations
  
 ## Grants and Fellowships 
 - Travel Grant 42nd Security & Privacy, 2023 (San Francisco CA, USA)
 - Travel Grant for Confidential Computing 2023 (San Francisco CA, USA)
-- Distingushed Paper Award, 35th IEEE Computer Security Foundations
 - Travel Grant for CSF 2022 (Haifa, Israel)
 - Travel Grant for POPL 2019 (Lisbon, Portugal)
 - Travel Grant for PLDI 2019 (Pheonix AZ, USA)
