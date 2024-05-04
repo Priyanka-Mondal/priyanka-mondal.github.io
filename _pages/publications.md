@@ -38,7 +38,7 @@ author_profile: true
 <!--You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=xHRP7lkAAAAJ&hl=en){:target="_blank"} -->
 {% include base_path %}
 
-- [I/O-Efficient Dynamic Searchable Encryption meets Forward & Backward Privacy]()<br>
+- [I/O-Efficient Dynamic Searchable Encryption meets Forward & Backward Privacy](https://www.usenix.org/conference/usenixsecurity24/presentation/mondal){:target="_blank"}<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitrios Papadopoulos <br>
 <i> <font color="SlateBlue"> Proceedings of the 33rd USENIX Security Symposium 2024 (USENIX'24) </font> </i> <br>
   [[PDF]](https://priyanka-mondal.github.io/IO-DSE.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
