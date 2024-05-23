@@ -29,8 +29,8 @@ I acquired a masters degree from the esteemed [IISc, Bangalore](https://iisc.ac.
 I am also a proud alumna of [IIEST, Shibpur](https://www.iiests.ac.in){:target="_blank"}, where I did my undergraduate studies; 
 during this time, I had the opportunity to work as a summer intern at [Nomura Research Institute, Kolkata](https://www.nrifintech.com){:target="_blank"}.
 
-Through my work, I strive to make distributed systems secure, fault-tolerant, available and efficient. 
-Feel free to connect with me as I explore the world of Distributed systems.
+Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient. 
+Feel free to connect with me as I explore the world of Distributed Systems.
 
 <!-- more -->
 
