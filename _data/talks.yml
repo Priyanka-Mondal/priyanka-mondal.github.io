@@ -71,7 +71,7 @@ main:
       render: true
       type: con
 
-    - title: Flowstate, A Language for Fault Tolerant Decentralized Computation (Lighting talk)
+    - title: Flowstate, A Language for Fault Tolerant Decentralized Computation (Lightning talk)
       conf: CSF'19
       venue: Stevens Institute, New Jersey
       conference: 32nd IEEE Computer Security Foundations Symposium
