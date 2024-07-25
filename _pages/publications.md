@@ -77,7 +77,7 @@ author_profile: true
   pages={163-178},
   doi={10.1109/CSF54842.2022.9919637}}')">[copy BIB]</button>
 
-- [Applying consensus and replication securely with FLAQR](https://plas21.software.imdea.org){:target="_blank"} (Precirsor of CSF'22 paper)<br>
+- [Applying consensus and replication securely with FLAQR](https://plas21.software.imdea.org){:target="_blank"} (Precursor of CSF'22 paper)<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
 <i> <font color="SlateBlue"> The 16th Workshop on Programming Languages and Analysis for Security (PLAS'21) </font> </i> <br>
 [[PDF]](https://arxiv.org/abs/2205.04384){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{9919637,
