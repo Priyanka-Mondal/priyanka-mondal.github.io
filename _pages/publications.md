@@ -41,7 +41,7 @@ author_profile: true
 - [I/O-Efficient Dynamic Searchable Encryption meets Forward & Backward Privacy](https://www.usenix.org/conference/usenixsecurity24/presentation/mondal){:target="_blank"}<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitrios Papadopoulos <br>
 <i> <font color="SlateBlue"> Proceedings of the 33rd USENIX Security Symposium 2024 (USENIX'24) </font> </i> <br>
-  [[PDF]](https://priyanka-mondal.github.io/IO-DSE.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
+  [[PDF]](https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
   author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
   booktitle={31st Volume of Journal of Computer Security, Issue 5}, 
   title={Flow-Limited Authorization for consensus, replication, and secret sharing}, 
