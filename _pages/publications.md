@@ -50,6 +50,11 @@ author_profile: true
   number={},
   pages={615-645},
   doi={10.3233/JCS-230048}}')">[copy BIB]</button>
+  <a href="https://priyanka-mondal.github.io/FLAQR_official.pdf" download>
+  <button style="background-color: #4CAF50; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">
+    Download BibTeX
+  </button>
+  </a>
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
