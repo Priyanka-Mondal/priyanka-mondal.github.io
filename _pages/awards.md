@@ -70,11 +70,11 @@ author_profile: true
 
 <!-- Main Container -->
 <div class="awards-container">
-  <h2>Awards</h2>
+  <h2>Awards AHAH</h2>
   <ul>
     {% for award in site.data.awards.awards %}
     <li>
-      <p><strong>{{ award.title }}</strong>, {{ award.event }}{% if award.year %}, {{ award.year }}{% endif %}</p>
+      <p><strong>{{ award.title }}</strong>,, {{ award.event }}{% if award.year %}, {{ award.year }}{% endif %}</p>
     </li>
     {% endfor %}
   </ul>
