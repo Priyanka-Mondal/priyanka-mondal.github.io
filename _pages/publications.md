@@ -51,7 +51,7 @@ author_profile: true
   pages={615-645},
   doi={10.3233/JCS-230048}}')">[copy BIB]</button>
   <a href="https://priyanka-mondal.github.io/iodse.bib" download>
-  <button style="width: 120px;">[Download BIB]</button></a>
+  <button style="width: 110px;">[Download BIB]</button></a>
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
