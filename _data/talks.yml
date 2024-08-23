@@ -3,7 +3,7 @@ main:
 
     - title: Locality aware Searchable encryption with forward and backward privacy
       conf: SRL Seminar, Winter'24
-      venue: UCSC
+      venue: UC Santa Cruz
       conference: Seminar
       render: true
       type: seminar
@@ -17,38 +17,45 @@ main:
 
     - title: Asynchrony and Choreographies
       conf: LSD Seminar, Spring'23
-      venue: UCSC
+      venue: UC Santa Cruz
       conference: Seminar
       render: true
       type: seminar
 
     - title: Flow-Limited Authorization - background and extension 
       conf: SRL Seminar, Spring'23
-      venue: UCSC
+      venue: UC Santa Cruz
       conference: Seminar
       render: true
       type: seminar
 
     - title: I/O efficient Dynamic Searchable Encryption 
       conf: CRSS Seminar, Winter'23
-      venue: UCSC
+      venue: UC Santa Cruz
       conference: Seminar
       render: true
       type: seminar
 
     - title: I/O efficient Dynamic Searchable Encryption 
       conf: 290X, Fall'22 (Guest speaker)
-      venue: UCSC
+      venue: UC Santa Cruz
       conference: Seminar
       render: true
       type: seminar
 
     - title: Making Distributed Systems Trustless
       conf: Advancement, Fall'22
-      venue: UCSC
+      venue: UC Santa Cruz
       conference: Seminar
       render: true
       type: seminar
+
+    - title: I/O efficient Dynamic Searchable Encryption meets Forward and Backward Privacy
+      conf: USENIX'24
+      venue: Philadelphia, Pennsylvania
+      conference: 33rd USENIX Security Symposium
+      render: true
+      type: con
 
     - title: Applying consensus and replication securely with FLAQR
       conf: CSF'22

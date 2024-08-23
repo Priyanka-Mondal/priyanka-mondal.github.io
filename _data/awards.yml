@@ -1,0 +1,52 @@
+awards:
+  - title: "Distinguished Paper Award"
+    event: "35th IEEE Computer Security Foundations"
+    year: 2022
+
+grants:
+  - title: "Travel Grant"
+    event: "42nd Security & Privacy"
+    location: "San Francisco CA, USA"
+    year: 2023
+  - title: "Travel Grant for Confidential Computing"
+    event: "Confidential Computing"
+    location: "San Francisco CA, USA"
+    year: 2023
+  - title: "Travel Grant for CSF"
+    event: "CSF 2022"
+    location: "Haifa, Israel"
+    year: 2022
+  - title: "Travel Grant for POPL"
+    event: "POPL 2019"
+    location: "Lisbon, Portugal"
+    year: 2019
+  - title: "Travel Grant for PLDI"
+    event: "PLDI 2019"
+    location: "Phoenix AZ, USA"
+    year: 2019
+  - title: "Travel Grant for CSF"
+    event: "CSF 2019"
+    location: "New Jersey, USA"
+    year: 2019
+  - title: "Travel Grant IARPA Hector Meeting"
+    event: "IARPA Hector Meeting 2019"
+    location: "Baltimore DC, USA"
+    year: 2019
+  - title: "Student Grant"
+    event: "SoCC 2019"
+    location: "Santa Cruz, USA"
+    year: 2019
+  - title: "Student Grant"
+    event: "OPLSS Summer School 2019"
+    location: "Eugene OR, USA"
+    year: 2019
+  - title: "Regent's Fellowship"
+    event: "University of California"
+    year: 2018
+  - title: "All India GATE Scholarship"
+    event: "Master's studies"
+    duration: "June 2013 - June 2015"
+  - title: "All India Undergrad Scholarship"
+    year: 2009
+    duration: "2009-2012"
+
