@@ -70,7 +70,7 @@ author_profile: true
 
 <!-- Main Container -->
 <div class="awards-container">
-  <h2>Awards</h2>
+  <h2>Awards Ahn</h2>
   <ul>
     {% for award in site.data.awards.awards %}
     <li>
