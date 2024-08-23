@@ -52,7 +52,7 @@ author_profile: true
   doi={10.3233/JCS-230048}}')">[copy BIB]</button>
   <a href="https://priyanka-mondal.github.io/FLAQR_official.pdf" download>
   <button style="width: 180px;">
-    Download BIB
+    [Download BIB]
   </button>
   </a>
 
