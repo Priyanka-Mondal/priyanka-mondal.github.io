@@ -1,6 +1,10 @@
 # main links links
 main:
 
+    - title: Presented my work on [I/O efficient Dynamic Searchable Encryption](https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf) at USENIX Security, 2024
+      date: 2024-08-15
+      render: true
+
     - title: <font color="Red"> Actively looking for a full-time job </font>
       date: 2024-03-22
       render: false

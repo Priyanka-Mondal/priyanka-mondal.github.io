@@ -43,6 +43,11 @@ author_profile: true
     border-left: 5px solid #8e44ad; /* Colored border on the left */
     border-radius: 5px; /* Rounded corners for a softer look */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
+  }
+  .teaching-container li:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
   }
 
   /* Style for course details */

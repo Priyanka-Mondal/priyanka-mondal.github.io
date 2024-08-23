@@ -32,8 +32,8 @@
 <meta property="og:title" content="Priyanka Mondal">
 
 
-  <link rel="canonical" href="http://localhost:4000/talks/">
-  <meta property="og:url" content="http://localhost:4000/talks/">
+  <link rel="canonical" href="http://localhost:4000/home/">
+  <meta property="og:url" content="http://localhost:4000/home/">
 
 
 
@@ -265,156 +265,163 @@
     
       <h1 class="page__title"></h1>
     
-    <!-- Custom Styles for Page -->
+    <!-- Custom Styles for Home Page -->
 <style>
   /* Style for the page container */
-  .talks-container {
-    max-width: 1500px; /* Wider width for more space */
+  .home-container {
+    max-width: 1500px; /* Wide width for spacious layout */
     margin: 0 auto; /* Center the container */
-    padding: 20px; /* Add some padding */
-    background-color: #f9f9f9; /* Light grey background for contrast */
-    border-radius: 10px; /* Rounded corners for a softer look */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    padding: 40px; /* Add padding for spacing */
+    background-color: #f4f4f4; /* Light grey background for contrast */
+    border-radius: 15px; /* Rounded corners for a modern look */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   }
 
   /* Style for the headings */
-  .talks-container h2 {
-    font-size: 32px; /* Larger font size for emphasis */
+  .home-container h2 {
+    font-size: 36px; /* Larger font size for emphasis */
     font-weight: bold; /* Bold font for the heading */
-    color: #1e3a8a; /* Dark blue color for the heading */
     text-align: center; /* Center-align the heading */
     margin-bottom: 30px; /* Space below the heading */
     background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient text color */
     -webkit-background-clip: text; /* Clip the background to text */
     color: transparent; /* Transparent text to show gradient */
+    /*text-transform: uppercase; /* Uppercase text for distinction */
+    letter-spacing: 2px; /* Spacing between letters for a more open look */
   }
 
-  /* Style for the talk list */
-  .talks-container ul {
-    list-style-type: none; /* Remove default list styling */
-    padding: 0; /* Remove padding */
+  /* Style for the content paragraphs */
+  .home-container p {
+    font-size: 18px; /* Font size for better readability */
+    line-height: 1.8; /* Line height for better readability */
+    color: #333333; /* Darker color for readability */
+    margin-bottom: 20px; /* Space below paragraphs */
   }
 
-  .talks-container li {
-    font-size: 18px; /* Font size for talk list */
-    margin-bottom: 20px; /* Space below each list item */
-    padding: 15px; /* Add padding for space */
-    background-color: #ffffff; /* White background for contrast */
-    border-left: 5px solid #8e44ad; /* Colored border on the left */
-    border-radius: 5px; /* Rounded corners for a softer look */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
-    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
-  }
-  .talks-container li:hover {
-    transform: translateY(-5px); /* Slight lift effect on hover */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
+  /* Style for links */
+  .home-container a {
+    color: #1e90ff; /* Blue color to match the gradient */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Bold links for emphasis */
   }
 
-  /* Style for talk details */
-  .talks-container li p {
-    margin: 5px 0; /* Margin for spacing between lines */
-    line-height: 1.6; /* Increase line height for readability */
-  }
-
-  /* Style for venue text */
-  .talks-container .venue {
-    font-style: italic; /* Italicize for differentiation */
-    color: #666666; /* Grey color for a softer look */
-    display: block; /* Display block to force new line */
-    margin-top: 5px; /* Add some space above the venue */
+  .home-container a:hover {
+    text-decoration: underline; /* Underline links on hover for clarity */
   }
 
   /* Responsive design for mobile */
   @media (max-width: 600px) {
-    .talks-container {
+    .home-container {
       max-width: 95%; /* Adjust container width for mobile */
     }
 
-    .talks-container h2 {
+    .home-container h2 {
       font-size: 28px; /* Smaller font size for mobile */
     }
 
-    .talks-container li {
-      font-size: 16px; /* Smaller font size for list items */
+    .home-container p {
+      font-size: 16px; /* Smaller font size for content */
     }
+  }
+
+  .news-container h3 {
+    font-size: 30px; /* Font size for news heading */
+    font-weight: bold; /* Bold font for news heading */
+    margin-bottom: 20px; /* Space below the news heading */
+    color: #1e3a8a; /* Darker blue color for news heading */
+    text-align: center; /* Center-align the news heading */
+  }
+
+  .news-container ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+  }
+
+  .news-container li {
+    font-size: 18px; /* Font size for news items */
+    margin-bottom: 15px; /* Space below each news item */
+    padding: 10px; /* Add padding for space */
+    background-color: #f9f9f9; /* Light grey background for news items */
+    border-left: 4px solid #8e44ad; /* Colored border on the left */
+    border-radius: 5px; /* Rounded corners for a softer look */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
+  }
+
+  .news-container li:hover {
+    transform: translateY(-3px); /* Slight lift effect on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
   }
 </style>
 
 <!-- Main Container -->
-<div class="talks-container">
-  <h2>Conference Talks</h2>
-  
+<div class="home-container">
+  <h2>Hello there! Welcome to my personal website.</h2>
 
-  <ul>
-    
-    <li>
-      <strong>USENIX'24</strong> - I/O efficient Dynamic Searchable Encryption meets Forward and Backward Privacy<br />
-      <span class="venue">Philadelphia, Pennsylvania</span>
-    </li>
-    
-    <li>
-      <strong>CSF'22</strong> - Applying consensus and replication securely with FLAQR<br />
-      <span class="venue">Technion, Haifa, Israel</span>
-    </li>
-    
-    <li>
-      <strong>PLCrypt'22</strong> - Applying consensus and replication securely with FLAQR<br />
-      <span class="venue">Stanford Research Institute, Menlo Park, California</span>
-    </li>
-    
-    <li>
-      <strong>PLAS'21</strong> - Applying consensus and replication securely with FLAQR<br />
-      <span class="venue">Virtual</span>
-    </li>
-    
-    <li>
-      <strong>CSF'19</strong> - Flowstate, A Language for Fault Tolerant Decentralized Computation (Lightning talk)<br />
-      <span class="venue">Stevens Institute, New Jersey</span>
-    </li>
-    
-  </ul>
+  <p>
+    Currently, I am working towards my PhD at 
+    <a href="https://www.ucsc.edu/about/" target="_blank">University of California, Santa Cruz (UCSC)</a>.
+    I am advised by 
+    <a href="https://owenarden.github.io/home/" target="_blank">Prof. Owen Arden</a> and 
+    <a href="https://idemertzis.com" target="_blank">Prof. Ioannis Demertzis</a>.
+    My research lies in the intersection of security in distributed systems, language-based security,
+    and applied cryptography. I also have experience with Encrypted search, Compiler Design, Program Analysis, Blockchain Technologies, and Formal Verification techniques in 
+    <a href="https://coq.inria.fr/" target="_blank">Coq</a>. 
+    I work closely with the people from 
+    <a href="https://lsd.ucsc.edu" target="_blank">Language, Systems, and Data Lab (LSD)</a>, and 
+    <a href="https://srl-ucsc.github.io/seminar.html" target="_blank">Security Research Lab (SRL)</a>. 
+    At UCSC, I am a member of 
+    <a href="https://www.wicys.org" target="_blank">Women in Cyber Security</a> and 
+    <a href="https://wiseucsc.wixsite.com/wise" target="_blank">Women in Science and Engineering</a>,
+    advocating for diversity and excellence in science and technology. Before joining UCSC, I worked as a software engineer for the Networking &amp; Cloud team at 
+    <a href="https://www.citrix.com" target="_blank">Citrix R&amp;D, Bangalore</a>, for two years. Prior to that, I acquired a master's degree from the esteemed 
+    <a href="https://iisc.ac.in" target="_blank">IISc, Bangalore</a>, where I worked with 
+    <a href="https://www.linkedin.com/in/aditya-kanade-572113139/" target="_blank">Prof. Aditya Kanade</a> in the 
+    <a href="https://www.iisc-seal.net" target="_blank">Software Engineering and Analysis Lab</a>, developing an automated bug detection 
+    <a href="https://drive.google.com/file/d/0B0yDXlBaWkDwamZoRnZDYTZlNTg/view?usp=drive_link&amp;resourcekey=0-arHXT1Dx5MEKqy6SfSSdKA" target="_blank">tool</a> for Android applications.
+    I am also a proud alumna of 
+    <a href="https://www.iiests.ac.in" target="_blank">IIEST, Shibpur</a>, where I did my undergraduate studies; during this time, I had the opportunity to work as a summer intern at 
+    <a href="https://www.nrifintech.com" target="_blank">Nomura Research Institute, Kolkata</a>.
+  </p>
 
-  <h2>Seminar Talks</h2>
-  
+  <p>
+    Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.
+    Feel free to connect with me as I explore the world of Distributed Systems.
+  </p>
 
-  <ul>
-    
-    <li>
-      <strong>SRL Seminar, Winter'24</strong> - Locality aware Searchable encryption with forward and backward privacy<br />
-      <span class="venue">UC Santa Cruz</span>
-    </li>
-    
-    <li>
-      <strong>CS Seminar, Summer'23</strong> - Flow Limited Authorization for Quorum Replication<br />
-      <span class="venue">Chennai Mathematical Institute, India</span>
-    </li>
-    
-    <li>
-      <strong>LSD Seminar, Spring'23</strong> - Asynchrony and Choreographies<br />
-      <span class="venue">UC Santa Cruz</span>
-    </li>
-    
-    <li>
-      <strong>SRL Seminar, Spring'23</strong> - Flow-Limited Authorization - background and extension<br />
-      <span class="venue">UC Santa Cruz</span>
-    </li>
-    
-    <li>
-      <strong>CRSS Seminar, Winter'23</strong> - I/O efficient Dynamic Searchable Encryption<br />
-      <span class="venue">UC Santa Cruz</span>
-    </li>
-    
-    <li>
-      <strong>290X, Fall'22 (Guest speaker)</strong> - I/O efficient Dynamic Searchable Encryption<br />
-      <span class="venue">UC Santa Cruz</span>
-    </li>
-    
-    <li>
-      <strong>Advancement, Fall'22</strong> - Making Distributed Systems Trustless<br />
-      <span class="venue">UC Santa Cruz</span>
-    </li>
-    
-  </ul>
+  <!-- News Section -->
+<div class="news-container">
+    <h3>Recent News</h3>
+    <ul>
+      
+      
+        <li>2024-08-15 - Presented my work on [I/O efficient Dynamic Searchable Encryption](https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf) at USENIX Security, 2024</li>
+      
+        <li>2024-02-06 - Participated in [UCSC Grad Slam](https://graddiv.ucsc.edu/calendar/grad-slam/index.html) (3 minute Thesis competition)</li>
+      
+        <li>2024-02-01 - Our [paper](){:target="_blank"} on Searchable encryption got accepted in [USENIX security 2024](){:target="_blank"}</li>
+      
+        <li>2023-11-17 - We organized [Academia to Industry Panel](https://priyanka-mondal.github.io/Wise.jpg){:target="_blank"} for [Women in Science &amp; Engineering](https://wiseucsc.wixsite.com/wise){:target="_blank"} @ UCSC</li>
+      
+        <li>2023-09-12 - Gave a talk on "FLAQR" at [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"}</li>
+      
+        <li>2023-08-23 - Our [paper](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"} got accepted in [Journal of Computer Security (31st Volume)](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}</li>
+      
+        <li>2023-06-09 - Gave a talk on [Asynchrony and Choreographies](https://priyanka-mondal.github.io/Asynchrony_and_Choreographies.pdf){:target="_blank"} in [LSD Seminar](https://lsd.ucsc.edu/lsd-seminar/2023sp/){:target="_blank"}</li>
+      
+        <li>2023-04-21 - I will be serving the [WiCyS](https://www.wicys.org){:target="_blank"}  student chapter at UCSC as the Vice President</li>
+      
+        <li>2023-03-15 - Gave a talk on [Flow-Limited Authorization - background &amp; extension](https://docs.google.com/presentation/d/1epIaJiqbhezyXvnGHIKzhwG2LjHI2nd890l80ZUFb1s/edit?usp=sharing){:target="_blank"} at the [SRL seminar](https://srl-ucsc.github.io/seminar.html){:target="_blank"}</li>
+      
+        <li>2023-02-21 - Presented my work on [I/O efficient Dynamic Searchable Encryption](https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing){:target="_blank"} at the [CRSS seminar](https://www.ssrc.ucsc.edu/seminars.html){:target="_blank"}</li>
+      
+        <li>2022-08-08 - Our [CSF'22 paper](https://ieeexplore.ieee.org/document/9919637){:target="_blank"} received the <b><font color="SlateBlue"> <i> Distinguished paper award </i> 🏆 </font></b></li>
+      
+    </ul>
+    <p style="text-align: center; margin-top: 20px;">
+      <a href="https://priyanka-mondal.github.io/news/">View All News &gt;&gt;</a>
+    </p>
+  </div>
 </div>
 
 

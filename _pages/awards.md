@@ -70,11 +70,7 @@ author_profile: true
 
 <!-- Main Container -->
 <div class="awards-container">
-<<<<<<< HEAD
-  <h2>Awards AHAH</h2>
-=======
   <h2>Awards Ahn</h2>
->>>>>>> 8d8ec358573aa1795cbedbb819ceb35d3e807f2f
   <ul>
     {% for award in site.data.awards.awards %}
     <li>
@@ -91,7 +87,6 @@ author_profile: true
         <strong>{{ grant.title }}</strong> for {{ grant.event }}
         {% if grant.location %} ({{ grant.location }}){% endif %}
         {% if grant.year %}, {{ grant.year }}{% endif %}
-        {% if grant.duration %} - {{ grant.duration }}{% endif %}
       </p>
     </li>
     {% endfor %}
