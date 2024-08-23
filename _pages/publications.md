@@ -41,15 +41,17 @@ author_profile: true
 - [I/O-Efficient Dynamic Searchable Encryption meets Forward & Backward Privacy](https://www.usenix.org/conference/usenixsecurity24/presentation/mondal){:target="_blank"}<br>
 **Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitrios Papadopoulos <br>
 <i> <font color="SlateBlue"> Proceedings of the 33rd USENIX Security Symposium 2024 (USENIX'24) </font> </i> <br>
-  [[PDF]](https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf){:target="_blank"}<button onclick="copyBib('@INPROCEEDINGS{pmondaljcs23,
-  author={Mondal, Priyanka and Algehed, Maximilian and Arden, Owen},
-  booktitle={31st Volume of Journal of Computer Security, Issue 5}, 
-  title={Flow-Limited Authorization for consensus, replication, and secret sharing}, 
-  year={2023},
-  volume={5},
-  number={},
-  pages={615-645},
-  doi={10.3233/JCS-230048}}')">[copy BIB]</button>
+  [[PDF]](https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf){:target="_blank"}<button onclick="copyBib('@inproceedings {298174,
+      author = {Priyanka Mondal and Javad Ghareh Chamani and Ioannis Demertzis and Dimitrios Papadopoulos},
+      title = {{I/O-Efficient} Dynamic Searchable Encryption meets Forward \& Backward Privacy},
+      booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
+      year = {2024},
+      isbn = {978-1-939133-44-1},
+      address = {Philadelphia, PA},
+      pages = {2527--2544},
+      url = {https://www.usenix.org/conference/usenixsecurity24/presentation/mondal},
+      publisher = {USENIX Association},
+      month = aug}')">[copy BIB]</button>
 
 - [Flow-Limited Authorization for consensus, replication, and secret sharing](https://content.iospress.com/articles/journal-of-computer-security/jcs230048){:target="_blank"}<br>
 **Priyanka Mondal**, Maximilian Algehed, and Owen Arden <br>
