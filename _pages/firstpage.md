@@ -142,7 +142,7 @@ author_profile: true
     <a href="https://www.linkedin.com/in/aditya-kanade-572113139/" target="_blank">Prof. Aditya Kanade</a> in the 
     <a href="https://www.iisc-seal.net" target="_blank">Software Engineering and Analysis Lab</a>, developing an automated bug detection 
     <a href="https://drive.google.com/file/d/0B0yDXlBaWkDwamZoRnZDYTZlNTg/view?usp=drive_link&resourcekey=0-arHXT1Dx5MEKqy6SfSSdKA" target="_blank">tool</a> for Android applications.
-    I am also a proud alumna ofF 
+    I am also a proud alumna of
     <a href="https://www.iiests.ac.in" target="_blank">IIEST, Shibpur</a>, where I did my undergraduate studies; during this time, I had the opportunity to work as a summer intern at 
     <a href="https://www.nrifintech.com" target="_blank">Nomura Research Institute, Kolkata</a>.
   </p>
@@ -158,6 +158,16 @@ author_profile: true
    </ul>
   </div>
 </div>
+<div class="news-container">
+   <h3>Recent News</h3>
+   <ul>
+    {% assign allnews = site.data.somenews.main | where:'render', 'true' %}
+    {% for news in allnews -%}
+      <li>{{ news.date }} - {{ news.title }}</li>
+    {% endfor %}
+   </ul>
+</div>
+
 
   <!-- News Section -->
 
