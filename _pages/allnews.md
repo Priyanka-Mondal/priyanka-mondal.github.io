@@ -36,7 +36,7 @@ author_profile: true
     padding: 0; /* Remove padding */
   }
 
-  .news-list li {
+  .news-container li {
     font-size: 18px; /* Font size for news items */
     margin-bottom: 15px; /* Space below each news item */
     padding: 15px; /* Padding for space */
@@ -47,7 +47,7 @@ author_profile: true
     transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
   }
 
-  .news-list li:hover {
+  .news-container li:hover {
     transform: translateY(-3px); /* Slight lift effect on hover */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
   }
