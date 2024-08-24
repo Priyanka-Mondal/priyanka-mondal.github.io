@@ -1,0 +1,96 @@
+main:
+
+  - title: "Presented my work on Dynamic Searchable Encryption at USENIX Security, 2024"
+    link: "https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf"
+    date: 2024-08-15
+    render: true
+
+  - title: "<font color='Red'>Actively looking for a full-time job</font>"
+    date: 2024-03-22
+    render: false
+
+  - title: "Participated in UCSC Grad Slam (3-minute Thesis competition)"
+    link: "https://graddiv.ucsc.edu/calendar/grad-slam/index.html"
+    date: 2024-02-06
+    render: true
+
+  - title: "Our paper on Searchable encryption got accepted in USENIX security 2024"
+    link: ""  # Link is not provided in the original YAML, so left empty or add it here.
+    date: 2024-02-01
+    render: true
+
+  - title: "Gave a talk on 'Locality aware Searchable encryption with forward and backward privacy' at the SRL Seminar"
+    link: ""  # Link is not provided, so keep it empty or add a link.
+    date: 2024-02-01
+    render: false
+
+  - title: "We were invited at the CrowdStrike Open House as WiCyS members"
+    link: "https://priyanka-mondal.github.io/crowdstrike.jpg"
+    date: 2023-12-14
+    render: false
+
+  - title: "We organized WiCyS Coffee Hour to discuss our ongoing Cyber-security research at UCSC"
+    link: "https://priyanka-mondal.github.io/WiCySCH1.jpg"
+    date: 2023-12-14
+    render: false
+
+  - title: "We organized Academia to Industry Panel for Women in Science & Engineering"
+    link: "https://priyanka-mondal.github.io/Wise.jpg"
+    date: 2023-11-17
+    render: true
+
+  - title: "Gave a talk on 'FLAQR' at Chennai Mathematical Institute"
+    link: "https://www.cmi.ac.in"
+    date: 2023-09-12
+    render: true
+
+  - title: "Our paper got accepted in Journal of Computer Security (31st Volume)"
+    link: "https://content.iospress.com/articles/journal-of-computer-security/jcs230048"
+    date: 2023-08-23
+    render: true
+  
+  - title: "Gave a talk on 'Asynchrony and Choreographies' in LSD Seminar"
+    link: "https://priyanka-mondal.github.io/Asynchrony_and_Choreographies.pdf"
+    date: 2023-06-09
+    render: true
+
+  - title: "I will be serving the WiCyS student chapter at UCSC as the Vice President"
+    link: "https://www.wicys.org"
+    date: 2023-04-21
+    render: true
+
+
+  - title: "Presented my work on I/O efficient DSE at the CRSS seminar"
+    link: "https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing"
+    date: 2023-02-21
+    render: true
+
+  - title: "We launched a WiCyS student chapter at UCSC"
+    link: "https://www.wicys.org"
+    date: 2023-02-02
+    render: false
+
+  - title: "Passed my Advancement Exam, Yay!!"
+    link: "https://calendar.ucsc.edu/event/advancement_p_mondal_ce_-_making_distributed_systems_trustless"
+    date: 2022-12-21
+    render: false
+
+  - title: "Our CSF'22 paper received the Distinguished paper award"
+    link: "https://ieeexplore.ieee.org/document/9919637"
+    date: 2022-08-08
+    render: true
+
+  - title: "Presented my CSF'22 paper in PLCrypt'22, at Stanford Research Institute, Menlo Park"
+    link: "https://andrewcmyers.github.io/plcrypt/"
+    date: 2022-05-22
+    render: true
+
+  - title: "Started working on 'Searchable Encryption'"
+    link: "" # No specific link provided
+    date: 2022-03-20
+    render: false
+
+  - title: "Presented my work on 'Applying consensus and replication with FLAQR' in The 16th Workshop on Programming Languages and Analysis for Security (PLAS'21)"
+    link: "https://plas21.software.imdea.org"
+    date: 2021-12-07
+    render: false

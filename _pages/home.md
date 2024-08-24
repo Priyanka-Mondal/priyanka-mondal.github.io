@@ -5,9 +5,77 @@ permalink: /
 author_profile: true
 ---
 
-<!-- Custom Styles for Home Page -->
+<!-- Custom Styles for Page -->
 <style>
   /* Style for the page container */
+  .awards-container {
+    max-width: 1500px; /* Wide width for spacious layout */
+    margin: 0 auto; /* Center the container */
+    padding: 30px; /* Add padding for spacing */
+    background-color: #f4f4f4; /* Light grey background for contrast */
+    border-radius: 15px; /* Rounded corners for a modern look */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Slightly deeper shadow for emphasis */
+  }
+
+  /* Style for the headings */
+  .awards-container h2 {
+    font-size: 36px; /* Larger font size for emphasis */
+    font-weight: bold; /* Bold font for the heading */
+    text-align: center; /* Center-align the heading */
+    margin-bottom: 30px; /* Space below the heading */
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient text color */
+    -webkit-background-clip: text; /* Clip the background to text */
+    color: transparent; /* Transparent text to show gradient */
+    text-transform: uppercase; /* Uppercase text for distinction */
+    letter-spacing: 2px; /* Spacing between letters for a more open look */
+  }
+
+  /* Style for the list items */
+  .awards-container ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+  }
+
+  .awards-container li {
+    font-size: 20px; /* Slightly larger font size for readability */
+    margin-bottom: 20px; /* Space below each list item */
+    padding: 20px; /* Add padding for space */
+    background-color: #ffffff; /* White background for contrast */
+    border-left: 6px solid #8e44ad; /* Thicker colored border on the left */
+    border-radius: 10px; /* Rounded corners for a softer look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
+  }
+
+  .awards-container li:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
+  }
+  .award-container a {
+    font-size: 17px;
+    color: #1e90ff; /* Link color to match the gradient */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Bold links for emphasis */
+  }
+
+  .award-container a:hover {
+    text-decoration: underline; /* Underline links on hover for clarity */
+  }
+
+  /* Responsive design for mobile */
+  @media (max-width: 600px) {
+    .awards-container {
+      max-width: 95%; /* Adjust container width for mobile */
+    }
+
+    .awards-container h2 {
+      font-size: 28px; /* Smaller font size for mobile */
+    }
+
+    .awards-container li {
+      font-size: 18px; /* Smaller font size for list items */
+    }
+  }
   .home-container {
     max-width: 1500px; /* Wide width for spacious layout */
     margin: 0 auto; /* Center the container */
@@ -26,7 +94,7 @@ author_profile: true
     background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient text color */
     -webkit-background-clip: text; /* Clip the background to text */
     color: transparent; /* Transparent text to show gradient */
-    text-transform: uppercase; /* Uppercase text for distinction */
+    /*text-transform: uppercase; /* Uppercase text for distinction */
     letter-spacing: 2px; /* Spacing between letters for a more open look */
   }
 
@@ -44,56 +112,8 @@ author_profile: true
     text-decoration: none; /* Remove underline from links */
     font-weight: bold; /* Bold links for emphasis */
   }
-
   .home-container a:hover {
     text-decoration: underline; /* Underline links on hover for clarity */
-  }
-
-  /* Style for news section */
-  .news-container {
-    margin-top: 40px; /* Space above the news section */
-    padding: 20px; /* Padding around the news section */
-    background-color: #ffffff; /* White background for contrast */
-    border-radius: 10px; /* Rounded corners for a modern look */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  }
-
-  .news-container h3 {
-    font-size: 30px; /* Font size for news heading */
-    font-weight: bold; /* Bold font for news heading */
-    margin-bottom: 20px; /* Space below the news heading */
-    color: #1e3a8a; /* Darker blue color for news heading */
-    text-align: center; /* Center-align the news heading */
-  }
-
-  .news-container ul {
-    list-style-type: none; /* Remove default list styling */
-    padding: 0; /* Remove padding */
-  }
-
-  .news-container li {
-    font-size: 18px; /* Font size for news items */
-    margin-bottom: 15px; /* Space below each news item */
-    padding: 10px; /* Add padding for space */
-    background-color: #f9f9f9; /* Light grey background for news items */
-    border-left: 6px solid #8e44ad; /* Colored border on the left */
-    border-radius: 5px; /* Rounded corners for a softer look */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
-    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
-  }
-
-  .news-container li:hover {
-    transform: translateY(-3px); /* Slight lift effect on hover */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
-  }
-
-  .news-container li a {
-    color: #333333; /* Darker color for readability */
-    text-decoration: none; /* Remove underline from links */
-  }
-
-  .news-container li a:hover {
-    text-decoration: underline; /* Underline links on hover */
   }
 
   /* Responsive design for mobile */
@@ -109,20 +129,14 @@ author_profile: true
     .home-container p {
       font-size: 16px; /* Smaller font size for content */
     }
-
-    .news-container h3 {
-      font-size: 24px; /* Smaller font size for news heading on mobile */
-    }
-
-    .news-container li {
-      font-size: 16px; /* Smaller font size for news items on mobile */
-    }
   }
 </style>
 
 <!-- Main Container -->
+
 <div class="home-container">
-  <h2>Hello there!! Welcome to my website.</h2>
+
+  <h2>Hello there! Welcome to my website.</h2>
 
   <p>
     Currently, I am working towards my PhD at 
@@ -145,7 +159,7 @@ author_profile: true
     <a href="https://www.linkedin.com/in/aditya-kanade-572113139/" target="_blank">Prof. Aditya Kanade</a> in the 
     <a href="https://www.iisc-seal.net" target="_blank">Software Engineering and Analysis Lab</a>, developing an automated bug detection 
     <a href="https://drive.google.com/file/d/0B0yDXlBaWkDwamZoRnZDYTZlNTg/view?usp=drive_link&resourcekey=0-arHXT1Dx5MEKqy6SfSSdKA" target="_blank">tool</a> for Android applications.
-    I am also a proud alumna of 
+    I am also a proud alumna of
     <a href="https://www.iiests.ac.in" target="_blank">IIEST, Shibpur</a>, where I did my undergraduate studies; during this time, I had the opportunity to work as a summer intern at 
     <a href="https://www.nrifintech.com" target="_blank">Nomura Research Institute, Kolkata</a>.
   </p>
@@ -154,4 +168,23 @@ author_profile: true
     Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.
     Feel free to connect with me as I explore the world of Distributed Systems.
   </p>
+</div>
+
+<div class="awards-container">
+   
+   <h2>Recent News</h2>
+   <ul>
+    {% assign allnews = site.data.allnews.main | where:'render', 'true' %}
+    {% for news in allnews %}
+      <li>
+        {{ news.date }} - 
+        {% if news.link %}
+          <a href="{{ news.link }}" target="_blank">{{ news.title }}</a>
+        {% else %}
+          {{ news.title }}
+        {% endif %}
+      </li>
+    {% endfor %}
+    <li><a href="https://priyanka-mondal.github.io/news/">[All NEWS]</a></li>
+   </ul>
 </div>
