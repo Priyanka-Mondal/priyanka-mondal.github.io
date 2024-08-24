@@ -152,8 +152,12 @@ author_profile: true
   </p>
   <div class="news-container">
    <h3>Recent News</h3>
-     I am
-</div>
+   <ul>
+     <li>Published a new paper on "Secure Computation in Distributed Systems".</li>
+     <li>Presented at the XYZ Conference on Cryptography.</li>
+     <li>Joined the editorial board of the Journal of Secure Systems.</li>
+   </ul>
+  </div>
 </div>
 
   <!-- News Section -->
