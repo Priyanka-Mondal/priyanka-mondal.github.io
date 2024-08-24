@@ -149,7 +149,7 @@ author_profile: true
 
   <p>
     Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.
-    Feel free to connect with me as I explore the world of Distributed Systems.
+    Feel free to connect with me as I explore the world of Distributed Systems. Haha
   </p>
   <div class="news-container">
    <h3>Recent News</h3>
