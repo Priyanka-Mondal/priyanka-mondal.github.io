@@ -91,7 +91,7 @@ author_profile: true
 <!-- Main Container -->
 <div class="news-container">
   <h2>News</h2>
-  <ul class="news-list">
+  <ul>
     {% assign allnews = site.data.allnews.main %}
     {% for news in allnews %}
       <li>
