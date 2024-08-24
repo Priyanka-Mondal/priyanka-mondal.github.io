@@ -110,7 +110,7 @@ author_profile: true
       </span><br>
       <span style="font-size: 16px; color: #333333;">**Priyanka Mondal**, Javad Ghareh Chamani, Ioannis Demertzis, and Dimitrios Papadopoulos</span><br>
       <i><font color="SlateBlue">Proceedings of the 33rd USENIX Security Symposium 2024 (<b>USENIX'24</b>)</font></i><br>
-      <a href="https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf" target="_blank" download>
+      <a href="https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf" target="_blank">
         <button>PDF</button>
       </a>
       <a href="https://priyanka-mondal.github.io/BIBS/iodse.bib" download>
@@ -132,7 +132,7 @@ author_profile: true
       </span><br>
       <span style="font-size: 16px; color: #333333;">**Priyanka Mondal**, Maximilian Algehed, and Owen Arden</span><br>
       <i><font color="SlateBlue">Journal of Computer Security, 31st Volume (<b>JCS'23</b>)</font></i><br>
-      <a href="https://priyanka-mondal.github.io/PDFS/FLAQRJCS.pdf" target="_blank" download>
+      <a href="https://priyanka-mondal.github.io/PDFS/FLAQRJCS.pdf" target="_blank">
         <button>PDF</button>
       </a>
       <a href="https://priyanka-mondal.github.io/BIBS/FLAQRJCS.bib" download>
@@ -147,7 +147,7 @@ author_profile: true
     </span> (<b><font color="SlateBlue"><i>Distinguished Paper Award</i>🏆</font></b>)<br>
     <span style="font-size: 16px; color: #333333;">**Priyanka Mondal**, Maximilian Algehed, and Owen Arden</span><br>
     <i><font color="SlateBlue">Proceedings of the 35th IEEE Computer Security Foundations (<b>CSF'22</b>)</font></i><br>
-    <a href="https://priyanka-mondal.github.io/PDFS/FLAQR_official.pdf" target="_blank" download>
+    <a href="https://priyanka-mondal.github.io/PDFS/FLAQR_official.pdf" target="_blank">
       <button>PDF</button>
     </a>
     <a href="https://priyanka-mondal.github.io/BIBS/FLAQRCSF.bib" download>
@@ -177,13 +177,13 @@ author_profile: true
     </span> (Extended abstract & Poster)<br>
     <span style="font-size: 16px; color: #333333;">Tuan Tran, **Priyanka Mondal**, Roy Shadmon, Manthan Mallikarjun, Peter Alvaro, and Owen Arden</span><br>
     <i><font color="SlateBlue">Proceedings of the 10th ACM Symposium on Cloud Computing (<b>SoCC'19</b>)</font></i><br>
-    <a href="https://priyanka-mondal.github.io/PDFS/voteThemOut.pdf" target="_blank" download>
+    <a href="https://priyanka-mondal.github.io/PDFS/voteThemOut.pdf" target="_blank">
       <button>PDF</button>
     </a>
     <a href="https://priyanka-mondal.github.io/BIBS/voteThemOut.bib" download>
       <button style="background: linear-gradient(to right, #f1c40f, #e67e22);">BIB</button>
     </a>
-    <a href="https://priyanka-mondal.github.io/PDFS/voteThemOut-poster.pdf" download>
+    <a href="https://priyanka-mondal.github.io/PDFS/voteThemOut-poster.pdf" target="_blank">
       <button style="background: linear-gradient(to right, #2ecc71, #006400);">POSTER</button>
     </a>
     </li>
@@ -203,10 +203,10 @@ author_profile: true
       </span> (Poster)<br>
       <span style="font-size: 16px; color: #333333;">**Priyanka Mondal** and Owen Arden</span><br>
       <i><font color="SlateBlue">32nd IEEE Computer Security Foundations (<b>CSF'19</b>)</font></i><br>
-      <a href="https://priyanka-mondal.github.io/PDFS/CSF_2019_paper_6.pdf" target="_blank" download>
+      <a href="https://priyanka-mondal.github.io/PDFS/CSF_2019_paper_6.pdf" target="_blank">
         <button>PDF</button>
       </a>
-      <a href="https://priyanka-mondal.github.io/PDFS/Flowstate_Poster.pdf" target="_blank" download>
+      <a href="https://priyanka-mondal.github.io/PDFS/Flowstate_Poster.pdf" target="_blank">
         <button style="background: linear-gradient(to right, #2ecc71, #006400);">POSTER</button>
       </a>
     </li>
@@ -217,10 +217,10 @@ author_profile: true
       </span><br>
       <span style="font-size: 16px; color: #333333;">**Priyanka Mondal**</span><br>
       <i><font color="SlateBlue">Thesis, Master of Engineering, Indian Institute of Science</font></i><br>
-      <a href="https://priyanka-mondal.github.io/PDFS/PriyankaMEThesis.pdf" target="_blank" download>
+      <a href="https://priyanka-mondal.github.io/PDFS/PriyankaMEThesis.pdf" target="_blank">
         <button>PDF</button>
       </a>
-      <a href="https://priyanka-mondal.github.io/PriyankaMEThesis_code.zip" target="_blank" download>
+      <a href="https://github.com/Priyanka-Mondal/AtomDroid" target="_blank">
         <button style="background: linear-gradient(to right, #1e90ff, #4169e1);">CODE</button>
       </a>
     </li>
