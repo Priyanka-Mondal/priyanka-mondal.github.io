@@ -75,6 +75,17 @@ author_profile: true
   .back-link:hover {
     text-decoration: underline; /* Underline on hover */
   }
+
+  .news-list a {
+    font-size: 17px;
+    color: #1e90ff; /* Link color to match the gradient */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Bold links for emphasis */
+  }
+
+  .news-list a:hover {
+    text-decoration: underline; /* Underline links on hover for clarity */
+  }
 </style>
 
 <!-- Main Container -->
