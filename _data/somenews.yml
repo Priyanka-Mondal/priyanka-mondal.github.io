@@ -21,15 +21,15 @@ main:
       date: 2024-02-01
       render: false
 
-    - title: We were invited at the [CrowdStrike Open House](https://priyanka-mondal.github.io/crowdstrike.jpg){:target="_blank"} as WiCyS members
+    - title: We were invited at the [CrowdStrike Open House](https://priyanka-mondal.github.io/JPGS/crowdstrike.jpg){:target="_blank"} as WiCyS members
       date: 2023-12-14
       render: false
 
-    - title: We organized [WiCyS Coffe Hour](https://priyanka-mondal.github.io/WiCySCH1.jpg){:target="_blank"} to discuss our ongoing Cyber-security research at UCSC
+    - title: We organized [WiCyS Coffe Hour](https://priyanka-mondal.github.io/JPGS/WiCySCH1.jpg){:target="_blank"} to discuss our ongoing Cyber-security research at UCSC
       date: 2023-12-14
       render: false
     
-    - title: We organized [Academia to Industry Panel](https://priyanka-mondal.github.io/Wise.jpg){:target="_blank"} for [Women in Science & Engineering](https://wiseucsc.wixsite.com/wise){:target="_blank"} @ UCSC
+    - title: We organized [Academia to Industry Panel](https://priyanka-mondal.github.io/JPGS/Wise.jpg){:target="_blank"} for [Women in Science & Engineering](https://wiseucsc.wixsite.com/wise){:target="_blank"} @ UCSC
       date: 2023-11-17
       render: true
       
