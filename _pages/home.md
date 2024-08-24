@@ -92,6 +92,20 @@ author_profile: true
     transform: translateY(-3px); /* Slight lift effect on hover */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
   }
+  /* Responsive design for mobile */
+  @media (max-width: 600px) {
+    .news-container {
+      max-width: 95%; /* Adjust container width for mobile */
+    }
+
+    .news-container h3 {
+      font-size: 28px; /* Smaller font size for mobile */
+    }
+
+    .news-container p {
+      font-size: 16px; /* Smaller font size for content */
+    }
+  }
 </style>
 
 <!-- Main Container -->
@@ -128,8 +142,8 @@ author_profile: true
     Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.
     Feel free to connect with me as I explore the world of Distributed Systems.
   </p>
-
 </div>
+
   <!-- News Section -->
 <div class="news-container">
    <h3>Recent News</h3>
