@@ -27,6 +27,7 @@ author_profile: true
     background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient text color */
     -webkit-background-clip: text; /* Clip the background to text */
     color: transparent; /* Transparent text to show gradient */
+    text-transform: uppercase; /* Uppercase text for distinction */
   }
 
   /* Style for the talk list */

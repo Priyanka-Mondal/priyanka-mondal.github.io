@@ -26,7 +26,7 @@ author_profile: true
     background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient text color */
     -webkit-background-clip: text; /* Clip the background to text */
     color: transparent; /* Transparent text to show gradient */
-    /*text-transform: uppercase; /* Uppercase text for distinction */
+    text-transform: uppercase; /* Uppercase text for distinction */
     letter-spacing: 2px; /* Spacing between letters for a more open look */
   }
 
@@ -49,19 +49,13 @@ author_profile: true
     text-decoration: underline; /* Underline links on hover for clarity */
   }
 
-  /* Responsive design for mobile */
-  @media (max-width: 600px) {
-    .home-container {
-      max-width: 95%; /* Adjust container width for mobile */
-    }
-
-    .home-container h2 {
-      font-size: 28px; /* Smaller font size for mobile */
-    }
-
-    .home-container p {
-      font-size: 16px; /* Smaller font size for content */
-    }
+  /* Style for news section */
+  .news-container {
+    margin-top: 40px; /* Space above the news section */
+    padding: 20px; /* Padding around the news section */
+    background-color: #ffffff; /* White background for contrast */
+    border-radius: 10px; /* Rounded corners for a modern look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   }
 
   .news-container h3 {
@@ -82,7 +76,7 @@ author_profile: true
     margin-bottom: 15px; /* Space below each news item */
     padding: 10px; /* Add padding for space */
     background-color: #f9f9f9; /* Light grey background for news items */
-    border-left: 4px solid #8e44ad; /* Colored border on the left */
+    border-left: 6px solid #8e44ad; /* Colored border on the left */
     border-radius: 5px; /* Rounded corners for a softer look */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
     transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
@@ -92,11 +86,43 @@ author_profile: true
     transform: translateY(-3px); /* Slight lift effect on hover */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
   }
+
+  .news-container li a {
+    color: #333333; /* Darker color for readability */
+    text-decoration: none; /* Remove underline from links */
+  }
+
+  .news-container li a:hover {
+    text-decoration: underline; /* Underline links on hover */
+  }
+
+  /* Responsive design for mobile */
+  @media (max-width: 600px) {
+    .home-container {
+      max-width: 95%; /* Adjust container width for mobile */
+    }
+
+    .home-container h2 {
+      font-size: 28px; /* Smaller font size for mobile */
+    }
+
+    .home-container p {
+      font-size: 16px; /* Smaller font size for content */
+    }
+
+    .news-container h3 {
+      font-size: 24px; /* Smaller font size for news heading on mobile */
+    }
+
+    .news-container li {
+      font-size: 16px; /* Smaller font size for news items on mobile */
+    }
+  }
 </style>
 
 <!-- Main Container -->
 <div class="home-container">
-  <h2>Hello there! Welcome to my personal website.</h2>
+  <h2>Hello there!! Welcome to my website.</h2>
 
   <p>
     Currently, I am working towards my PhD at 
@@ -128,27 +154,4 @@ author_profile: true
     Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.
     Feel free to connect with me as I explore the world of Distributed Systems.
   </p>
-
-  <!-- News Section -->
-<div class="news-container">
-    <h3>Recent News</h3>
-    <ul>
-      {% assign allnews = site.data.somenews.main | where:'render', 'true' %}
-      {% for news in allnews %}
-        <li>{{ news.date }} - {{ news.title }}</li>
-      {% endfor %}
-    </ul>
-    <p style="text-align: center; margin-top: 20px;">
-      <a href="https://priyanka-mondal.github.io/allnews/">View All News &gt;&gt;</a>
-    </p>
-  </div>
 </div>
-
-
-
-
-
-
-
-
-
