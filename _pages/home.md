@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: ""
-excerpt: "Home"
 permalink: /
 author_profile: true
 ---
@@ -123,7 +122,7 @@ author_profile: true
 
 <!-- Main Container -->
 <div class="home-container">
-  <h2>Hello there! Welcome to my personal website.</h2>
+  <h2>Hello there!! Welcome to my personal website.</h2>
 
   <p>
     Currently, I am working towards my PhD at 
@@ -156,12 +155,3 @@ author_profile: true
     Feel free to connect with me as I explore the world of Distributed Systems.
   </p>
 </div>
-
-  <!-- News Section -->
-## News
-{% assign allnews = site.data.somenews.main | where:'render', 'true' %}
-{% for news in allnews -%}
-- {{ news.date }} - {{ news.title }}
-{% endfor %}
-[All news>>](https://priyanka-mondal.github.io/news/)
-

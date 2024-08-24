@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: awards/
+permalink: award/
 author_profile: true
 ---
 
@@ -70,26 +70,26 @@ author_profile: true
 
 <!-- Main Container -->
 <div class="awards-container">
-  <h2>Awards Ahn</h2>
+  <h2>Awards</h2>
   <ul>
     {% for award in site.data.awards.awards %}
     <li>
-      <p><strong>{{ award.title }}</strong>,, {{ award.event }}{% if award.year %}, {{ award.year }}{% endif %}</p>
+      <p><strong>{{ award.title }}</strong>, {{ award.event }}{% if award.year %}, {{ award.year }}{% endif %}</p>
     </li>
     {% endfor %}
   </ul>
 
   <h2>Grants and Fellowships</h2>
   <ul>
-    {% for grant in site.data.awards.grants %}
     <li>
+    {% for grant in site.data.awards.grants %}
       <p>
         <strong>{{ grant.title }}</strong> for {{ grant.event }}
         {% if grant.location %} ({{ grant.location }}){% endif %}
         {% if grant.year %}, {{ grant.year }}{% endif %}
       </p>
-    </li>
     {% endfor %}
+    </li>
   </ul>
 </div>
 

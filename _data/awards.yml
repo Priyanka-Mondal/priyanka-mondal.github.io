@@ -5,30 +5,34 @@ awards:
 
 grants:
   - title: "Travel Grant"
+    event: "33rd USENIX Security"
+    location: "Philadelphia PA, USA"
+    year: 2024
+  - title: "Travel Grant"
     event: "42nd Security & Privacy"
     location: "San Francisco CA, USA"
     year: 2023
-  - title: "Travel Grant for Confidential Computing"
+  - title: "Travel Grant"
     event: "Confidential Computing"
     location: "San Francisco CA, USA"
     year: 2023
-  - title: "Travel Grant for CSF"
+  - title: "Travel Grant"
     event: "CSF 2022"
     location: "Haifa, Israel"
     year: 2022
-  - title: "Travel Grant for POPL"
+  - title: "Travel Grant"
     event: "POPL 2019"
     location: "Lisbon, Portugal"
     year: 2019
-  - title: "Travel Grant for PLDI"
+  - title: "Travel Grant"
     event: "PLDI 2019"
     location: "Phoenix AZ, USA"
     year: 2019
-  - title: "Travel Grant for CSF"
+  - title: "Travel Grant"
     event: "CSF 2019"
     location: "New Jersey, USA"
     year: 2019
-  - title: "Travel Grant IARPA Hector Meeting"
+  - title: "Travel Grant"
     event: "IARPA Hector Meeting 2019"
     location: "Baltimore DC, USA"
     year: 2019
@@ -41,12 +45,12 @@ grants:
     location: "Eugene OR, USA"
     year: 2019
   - title: "Regent's Fellowship"
-    event: "University of California"
+    event: "attending UC Santa Cruz"
     year: 2018
   - title: "All India GATE Scholarship"
     event: "Master's studies"
-    duration: "June 2013 - June 2015"
+    year: "June 2013 - June 2015"
   - title: "All India Undergrad Scholarship"
-    year: 2009
-    duration: "2009-2012"
+    event: "Bachelor's studies"
+    year: "2009-2012"
 

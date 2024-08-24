@@ -174,15 +174,9 @@ kramdown:
 
 # Collections
 collections:
-  resume:
+  pages:
     output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  news:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 # Defaults
  
