@@ -129,19 +129,11 @@ author_profile: true
     Feel free to connect with me as I explore the world of Distributed Systems.
   </p>
 
+</div>
   <!-- News Section -->
 <div class="news-container">
-    <h3>Recent News</h3>
-    <ul>
-      {% assign allnews = site.data.somenews.main | where:'render', 'true' %}
-      {% for news in allnews %}
-        <li>{{ news.date }} - {{ news.title }}</li>
-      {% endfor %}
-    </ul>
-    <p style="text-align: center; margin-top: 20px;">
-      <a href="https://priyanka-mondal.github.io/allnews/">View All News &gt;&gt;</a>
-    </p>
-  </div>
+   <h3>Recent News</h3>
+     I am
 </div>
 
 
