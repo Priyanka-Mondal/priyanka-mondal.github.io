@@ -142,13 +142,14 @@ author_profile: true
     Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.
     Feel free to connect with me as I explore the world of Distributed Systems.
   </p>
-</div>
-
-  <!-- News Section -->
-<div class="news-container">
+  <div class="news-container">
    <h3>Recent News</h3>
      I am
 </div>
+</div>
+
+  <!-- News Section -->
+
 
 
 
