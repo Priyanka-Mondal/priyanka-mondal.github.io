@@ -59,11 +59,22 @@ author_profile: true
 
   /* Style for venue text */
   .talks-container .venue {
+    font-weight: bold;
     font-style: italic; /* Italicize for differentiation */
     color: #666666; /* Grey color for a softer look */
     display: block; /* Display block to force new line */
     margin-top: 5px; /* Add some space above the venue */
   }
+
+  .talks-container .venue-gradient {
+    font-weight: bold;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
+
 
   /* Responsive design for mobile */
   @media (max-width: 600px) {
@@ -90,7 +101,7 @@ author_profile: true
     {% for talk in alltalks %}
     <li>
       <strong>{{ talk.conf }}</strong> - {{ talk.title }}<br>
-      <span class="venue">{{ talk.venue }}</span>
+      <span class="venue-gradient">{{ talk.venue }}</span>
     </li>
     {% endfor %}
   </ul>
@@ -102,7 +113,7 @@ author_profile: true
     {% for talk in alltalks %}
     <li>
       <strong>{{ talk.conf }}</strong> - {{ talk.title }}<br>
-      <span class="venue">{{ talk.venue }}</span>
+      <span class="venue-gradient">{{ talk.venue }}</span>
     </li>
     {% endfor %}
   </ul>

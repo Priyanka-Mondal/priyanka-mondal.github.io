@@ -61,6 +61,14 @@ author_profile: true
     font-style: italic; /* Italicize for differentiation */
     color: #666666; /* Grey color for a softer look */
   }
+  .teaching-container .gradient {
+    font-weight: bold;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
 
   /* Responsive design for mobile */
   @media (max-width: 600px) {
@@ -87,7 +95,7 @@ author_profile: true
   <ul>
     {% for class in allclasses %}
     <li>
-      <strong>{{ class.course }} - {{ class.name }}</strong> - {{ class.quarter }}, {{ class.designation }}<br>
+      <span class="gradient">{{ class.course }} - {{ class.name }}</span> - {{ class.quarter }}, {{ class.designation }}<br>
       <span class="professor">With Prof. {{ class.prof | newline_to_br }}</span><br>
       <span class="description">{{ class.description | newline_to_br }}</span>
     </li>

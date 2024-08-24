@@ -25,17 +25,17 @@ main:
     render: false
 
   - title: "We were invited at the CrowdStrike Open House as WiCyS members"
-    link: "https://priyanka-mondal.github.io/crowdstrike.jpg"
+    link: "https://priyanka-mondal.github.io/JPGS/crowdstrike.jpg"
     date: 2023-12-14
     render: false
 
   - title: "We organized WiCyS Coffee Hour to discuss our ongoing Cyber-security research at UCSC"
-    link: "https://priyanka-mondal.github.io/WiCySCH1.jpg"
+    link: "https://priyanka-mondal.github.io/JPGS/WiCySCH1.jpg"
     date: 2023-12-14
     render: false
 
   - title: "We organized Academia to Industry Panel for Women in Science & Engineering"
-    link: "https://priyanka-mondal.github.io/Wise.jpg"
+    link: "https://priyanka-mondal.github.io/JPGS/Wise.jpg"
     date: 2023-11-17
     render: true
 
@@ -50,20 +50,20 @@ main:
     render: true
   
   - title: "Gave a talk on 'Asynchrony and Choreographies' in LSD Seminar"
-    link: "https://priyanka-mondal.github.io/Asynchrony_and_Choreographies.pdf"
+    link: "https://priyanka-mondal.github.io/PDFS/Asynchrony_and_Choreographies.pdf"
     date: 2023-06-09
     render: true
 
   - title: "I will be serving the WiCyS student chapter at UCSC as the Vice President"
     link: "https://www.wicys.org"
     date: 2023-04-21
-    render: true
+    render: false
 
 
   - title: "Presented my work on I/O efficient DSE at the CRSS seminar"
     link: "https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing"
     date: 2023-02-21
-    render: true
+    render: false
 
   - title: "We launched a WiCyS student chapter at UCSC"
     link: "https://www.wicys.org"

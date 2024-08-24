@@ -77,14 +77,22 @@ author_profile: true
       font-size: 18px; /* Smaller font size for list items */
     }
   }
+  .service-container .role {
+    font-weight: bold;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
 </style>
 
 <!-- Main Container -->
 <div class="service-container">
   <h2>Outreach</h2>
   <ul>
-    <li><b>Vice-President</b>, Women in Cyber Security (WiCyS) at UC Santa Cruz</li>
-    <li><b>Member</b>, Women in Science and Engineering (WiSE) at UC Santa Cruz</li>
+    <li><span class ="role">Vice-President</span>, Women in Cyber Security (WiCyS) at UC Santa Cruz</li>
+    <li><span class ="role">Member</span>, Women in Science and Engineering (WiSE) at UC Santa Cruz</li>
   </ul>
 
   <h2>Paper Reviews</h2>

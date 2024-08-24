@@ -37,7 +37,7 @@
 
 
 
-  <meta property="og:description" content="  Hello there! Welcome to my website.      Currently, I am working towards my PhD at     University of California, Santa Cruz (UCSC).    I am advised by     Prof. Owen Arden and     Prof. Ioannis Demertzis.    My research lies in the intersection of security in distributed systems, language-based security,    and applied cryptography. I also have experience with Encrypted search, Compiler Design, Program Analysis, Blockchain Technologies, and Formal Verification techniques in     Coq.     I work closely with the people from     Language, Systems, and Data Lab (LSD), and     Security Research Lab (SRL).     At UCSC, I am a member of     Women in Cyber Security and     Women in Science and Engineering,    advocating for diversity and excellence in science and technology. Before joining UCSC, I worked as a software engineer for the Networking &amp; Cloud team at     Citrix R&amp;D, Bangalore, for two years. Prior to that, I acquired a master&#39;s degree from the esteemed     IISc, Bangalore, where I worked with     Prof. Aditya Kanade in the     Software Engineering and Analysis Lab, developing an automated bug detection     tool for Android applications.    I am also a proud alumna of    IIEST, Shibpur, where I did my undergraduate studies; during this time, I had the opportunity to work as a summer intern at     Nomura Research Institute, Kolkata.        Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.    Feel free to connect with me as I explore the world of Distributed Systems.        Recent News                         2024-08-15 -                   Presented my work on Dynamic Searchable Encryption at USENIX Security, 2024                                2024-02-06 -                   Participated in UCSC Grad Slam (3-minute Thesis competition)                                2024-02-01 -                   Our paper on Searchable encryption got accepted in USENIX security 2024                                2023-11-17 -                   We organized Academia to Industry Panel for Women in Science &amp; Engineering                                2023-09-12 -                   Gave a talk on &#39;FLAQR&#39; at Chennai Mathematical Institute                                2023-08-23 -                   Our paper got accepted in Journal of Computer Security (31st Volume)                                2023-06-09 -                   Gave a talk on &#39;Asynchrony and Choreographies&#39; in LSD Seminar                                2023-04-21 -                   I will be serving the WiCyS student chapter at UCSC as the Vice President                                2023-02-21 -                   Presented my work on I/O efficient DSE at the CRSS seminar                                2022-08-08 -                   Our CSF&#39;22 paper received the Distinguished paper award                                2022-05-22 -                   Presented my CSF&#39;22 paper in PLCrypt&#39;22, at Stanford Research Institute, Menlo Park                      [All NEWS]   ">
+  <meta property="og:description" content="  Hello there! Welcome to my website.      Currently, I am working towards my PhD at     University of California, Santa Cruz (UCSC).    I am advised by     Prof. Owen Arden and     Prof. Ioannis Demertzis.    My research lies in the intersection of security in distributed systems, language-based security,    and applied cryptography. I also have experience with Encrypted search, Compiler Design, Program Analysis, Blockchain Technologies, and Formal Verification techniques in     Coq.     I work closely with the people from     Language, Systems, and Data Lab (LSD), and     Security Research Lab (SRL).     At UCSC, I am a member of     Women in Cyber Security and     Women in Science and Engineering,    advocating for diversity and excellence in science and technology. Before joining UCSC, I worked as a software engineer for the Networking &amp; Cloud team at     Citrix R&amp;D, Bangalore, for two years. Prior to that, I acquired a master&#39;s degree from the esteemed     IISc, Bangalore, where I worked with     Prof. Aditya Kanade in the     Software Engineering and Analysis Lab, developing an automated bug detection     tool for Android applications.    I am also a proud alumna of    IIEST, Shibpur, where I did my undergraduate studies; during this time, I had the opportunity to work as a summer intern at     Nomura Research Institute, Kolkata.        Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.    Feel free to connect with me as I explore the world of Distributed Systems.        Recent News                         2024-08-15 -                   Presented my work on Dynamic Searchable Encryption at USENIX Security, 2024                                2024-02-06 -                   Participated in UCSC Grad Slam (3-minute Thesis competition)                                2024-02-01 -                   Our paper on Searchable encryption got accepted in USENIX security 2024                                2023-11-17 -                   We organized Academia to Industry Panel for Women in Science &amp; Engineering                                2023-09-12 -                   Gave a talk on &#39;FLAQR&#39; at Chennai Mathematical Institute                                2023-08-23 -                   Our paper got accepted in Journal of Computer Security (31st Volume)                                2023-06-09 -                   Gave a talk on &#39;Asynchrony and Choreographies&#39; in LSD Seminar                                2022-08-08 -                   Our CSF&#39;22 paper received the Distinguished paper award                                2022-05-22 -                   Presented my CSF&#39;22 paper in PLCrypt&#39;22, at Stanford Research Institute, Menlo Park                        [All NEWS]">
 
 
 
@@ -309,6 +309,23 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
     transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
   }
+  .awards-container .date {
+    font-weight: bold;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
+  .awards-container .allnews {
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
 
   .awards-container li:hover {
     transform: translateY(-5px); /* Slight lift effect on hover */
@@ -317,14 +334,26 @@
   .award-container a {
     font-size: 17px;
     color: #1e90ff; /* Link color to match the gradient */
-    text-decoration: none; /* Remove underline from links */
+    text-decoration: none !important; /* Remove underline from links */
+  }
+
+  .awards-container li a,
+  .awards-container li a:link,
+  .awards-container li a:visited {
+    text-decoration: none !important; /* Remove underline */
+    color: #1e90ff; /* Ensure the color is consistent */
+   }
+
+  .award-container a:hover {
+    text-decoration: underline !important; /* Underline links on hover for clarity */
     font-weight: bold; /* Bold links for emphasis */
   }
 
-  .award-container a:hover {
-    text-decoration: underline; /* Underline links on hover for clarity */
+  .awards-container li a::before, 
+  .awards-container li a::after {
+    content: none !important; /* Ensure no pseudo-elements are adding underlines */
+    text-decoration: none !important;
   }
-
   /* Responsive design for mobile */
   @media (max-width: 600px) {
     .awards-container {
@@ -376,6 +405,15 @@
     font-weight: bold; /* Bold links for emphasis */
   }
   .home-container a:hover {
+    text-decoration: underline; /* Underline links on hover for clarity */
+  }
+  
+  .awards-container .newsline {
+    color: #1e90ff; /* Blue color to match the gradient */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Bold links for emphasis */
+  }
+  .awards-container .newsline:hover {
     text-decoration: underline; /* Underline links on hover for clarity */
   }
 
@@ -440,84 +478,70 @@
     
     
       <li>
-        2024-08-15 - 
+        <span class="date">2024-08-15</span> - 
         
-          <a href="https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf" target="_blank">Presented my work on Dynamic Searchable Encryption at USENIX Security, 2024</a>
-        
-      </li>
-    
-      <li>
-        2024-02-06 - 
-        
-          <a href="https://graddiv.ucsc.edu/calendar/grad-slam/index.html" target="_blank">Participated in UCSC Grad Slam (3-minute Thesis competition)</a>
+          <a href="https://www.usenix.org/system/files/usenixsecurity24-mondal.pdf" target="_blank"><span class="newsline">Presented my work on Dynamic Searchable Encryption at USENIX Security, 2024</span></a>
         
       </li>
     
       <li>
-        2024-02-01 - 
+        <span class="date">2024-02-06</span> - 
         
-          <a href="" target="_blank">Our paper on Searchable encryption got accepted in USENIX security 2024</a>
-        
-      </li>
-    
-      <li>
-        2023-11-17 - 
-        
-          <a href="https://priyanka-mondal.github.io/Wise.jpg" target="_blank">We organized Academia to Industry Panel for Women in Science &amp; Engineering</a>
+          <a href="https://graddiv.ucsc.edu/calendar/grad-slam/index.html" target="_blank"><span class="newsline">Participated in UCSC Grad Slam (3-minute Thesis competition)</span></a>
         
       </li>
     
       <li>
-        2023-09-12 - 
+        <span class="date">2024-02-01</span> - 
         
-          <a href="https://www.cmi.ac.in" target="_blank">Gave a talk on 'FLAQR' at Chennai Mathematical Institute</a>
-        
-      </li>
-    
-      <li>
-        2023-08-23 - 
-        
-          <a href="https://content.iospress.com/articles/journal-of-computer-security/jcs230048" target="_blank">Our paper got accepted in Journal of Computer Security (31st Volume)</a>
+          <a href="" target="_blank"><span class="newsline">Our paper on Searchable encryption got accepted in USENIX security 2024</span></a>
         
       </li>
     
       <li>
-        2023-06-09 - 
+        <span class="date">2023-11-17</span> - 
         
-          <a href="https://priyanka-mondal.github.io/Asynchrony_and_Choreographies.pdf" target="_blank">Gave a talk on 'Asynchrony and Choreographies' in LSD Seminar</a>
-        
-      </li>
-    
-      <li>
-        2023-04-21 - 
-        
-          <a href="https://www.wicys.org" target="_blank">I will be serving the WiCyS student chapter at UCSC as the Vice President</a>
+          <a href="https://priyanka-mondal.github.io/JPGS/Wise.jpg" target="_blank"><span class="newsline">We organized Academia to Industry Panel for Women in Science &amp; Engineering</span></a>
         
       </li>
     
       <li>
-        2023-02-21 - 
+        <span class="date">2023-09-12</span> - 
         
-          <a href="https://docs.google.com/presentation/d/1rw87pD4Vkdf7edMQcm2d8QI8rISmC26kgZQC0z-jy7Y/edit?usp=sharing" target="_blank">Presented my work on I/O efficient DSE at the CRSS seminar</a>
-        
-      </li>
-    
-      <li>
-        2022-08-08 - 
-        
-          <a href="https://ieeexplore.ieee.org/document/9919637" target="_blank">Our CSF'22 paper received the Distinguished paper award</a>
+          <a href="https://www.cmi.ac.in" target="_blank"><span class="newsline">Gave a talk on 'FLAQR' at Chennai Mathematical Institute</span></a>
         
       </li>
     
       <li>
-        2022-05-22 - 
+        <span class="date">2023-08-23</span> - 
         
-          <a href="https://andrewcmyers.github.io/plcrypt/" target="_blank">Presented my CSF'22 paper in PLCrypt'22, at Stanford Research Institute, Menlo Park</a>
+          <a href="https://content.iospress.com/articles/journal-of-computer-security/jcs230048" target="_blank"><span class="newsline">Our paper got accepted in Journal of Computer Security (31st Volume)</span></a>
         
       </li>
     
-    <li><a href="https://priyanka-mondal.github.io/allnews/">[All NEWS]</a></li>
+      <li>
+        <span class="date">2023-06-09</span> - 
+        
+          <a href="https://priyanka-mondal.github.io/PDFS/Asynchrony_and_Choreographies.pdf" target="_blank"><span class="newsline">Gave a talk on 'Asynchrony and Choreographies' in LSD Seminar</span></a>
+        
+      </li>
+    
+      <li>
+        <span class="date">2022-08-08</span> - 
+        
+          <a href="https://ieeexplore.ieee.org/document/9919637" target="_blank"><span class="newsline">Our CSF'22 paper received the Distinguished paper award</span></a>
+        
+      </li>
+    
+      <li>
+        <span class="date">2022-05-22</span> - 
+        
+          <a href="https://andrewcmyers.github.io/plcrypt/" target="_blank"><span class="newsline">Presented my CSF'22 paper in PLCrypt'22, at Stanford Research Institute, Menlo Park</span></a>
+        
+      </li>
+    
    </ul>
+   <span class="allnews"><a href="https://priyanka-mondal.github.io/allnews/" target="_blank">[All NEWS]</a></span>
 </div>
 
   </div>

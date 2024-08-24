@@ -321,11 +321,22 @@
 
   /* Style for venue text */
   .talks-container .venue {
+    font-weight: bold;
     font-style: italic; /* Italicize for differentiation */
     color: #666666; /* Grey color for a softer look */
     display: block; /* Display block to force new line */
     margin-top: 5px; /* Add some space above the venue */
   }
+
+  .talks-container .venue-gradient {
+    font-weight: bold;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
+
 
   /* Responsive design for mobile */
   @media (max-width: 600px) {
@@ -352,27 +363,27 @@
     
     <li>
       <strong>USENIX'24</strong> - I/O efficient Dynamic Searchable Encryption meets Forward and Backward Privacy<br />
-      <span class="venue">Philadelphia, Pennsylvania</span>
+      <span class="venue-gradient">Philadelphia, Pennsylvania</span>
     </li>
     
     <li>
       <strong>CSF'22</strong> - Applying consensus and replication securely with FLAQR<br />
-      <span class="venue">Technion, Haifa, Israel</span>
+      <span class="venue-gradient">Technion, Haifa, Israel</span>
     </li>
     
     <li>
       <strong>PLCrypt'22</strong> - Applying consensus and replication securely with FLAQR<br />
-      <span class="venue">Stanford Research Institute, Menlo Park, California</span>
+      <span class="venue-gradient">Stanford Research Institute, Menlo Park, California</span>
     </li>
     
     <li>
       <strong>PLAS'21</strong> - Applying consensus and replication securely with FLAQR<br />
-      <span class="venue">Virtual</span>
+      <span class="venue-gradient">Virtual</span>
     </li>
     
     <li>
       <strong>CSF'19</strong> - Flowstate, A Language for Fault Tolerant Decentralized Computation (Lightning talk)<br />
-      <span class="venue">Stevens Institute, New Jersey</span>
+      <span class="venue-gradient">Stevens Institute, New Jersey</span>
     </li>
     
   </ul>
@@ -384,37 +395,37 @@
     
     <li>
       <strong>SRL Seminar, Winter'24</strong> - Locality aware Searchable encryption with forward and backward privacy<br />
-      <span class="venue">UC Santa Cruz</span>
+      <span class="venue-gradient">UC Santa Cruz</span>
     </li>
     
     <li>
       <strong>CS Seminar, Summer'23</strong> - Flow Limited Authorization for Quorum Replication<br />
-      <span class="venue">Chennai Mathematical Institute, India</span>
+      <span class="venue-gradient">Chennai Mathematical Institute, India</span>
     </li>
     
     <li>
       <strong>LSD Seminar, Spring'23</strong> - Asynchrony and Choreographies<br />
-      <span class="venue">UC Santa Cruz</span>
+      <span class="venue-gradient">UC Santa Cruz</span>
     </li>
     
     <li>
       <strong>SRL Seminar, Spring'23</strong> - Flow-Limited Authorization - background and extension<br />
-      <span class="venue">UC Santa Cruz</span>
+      <span class="venue-gradient">UC Santa Cruz</span>
     </li>
     
     <li>
       <strong>CRSS Seminar, Winter'23</strong> - I/O efficient Dynamic Searchable Encryption<br />
-      <span class="venue">UC Santa Cruz</span>
+      <span class="venue-gradient">UC Santa Cruz</span>
     </li>
     
     <li>
       <strong>290X, Fall'22 (Guest speaker)</strong> - I/O efficient Dynamic Searchable Encryption<br />
-      <span class="venue">UC Santa Cruz</span>
+      <span class="venue-gradient">UC Santa Cruz</span>
     </li>
     
     <li>
       <strong>Advancement, Fall'22</strong> - Making Distributed Systems Trustless<br />
-      <span class="venue">UC Santa Cruz</span>
+      <span class="venue-gradient">UC Santa Cruz</span>
     </li>
     
   </ul>

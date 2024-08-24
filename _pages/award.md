@@ -66,6 +66,14 @@ author_profile: true
       font-size: 18px; /* Smaller font size for list items */
     }
   }
+  .awards-container .title {
+    font-weight: bold;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
 </style>
 
 <!-- Main Container -->
@@ -74,7 +82,7 @@ author_profile: true
   <ul>
     {% for award in site.data.awards.awards %}
     <li>
-      <p><strong>{{ award.title }}</strong>, {{ award.event }}{% if award.year %}, {{ award.year }}{% endif %}</p>
+      <p><strong><span class="title">{{ award.title }}</span></strong>, {{ award.event }}{% if award.year %}, {{ award.year }}{% endif %}</p>
     </li>
     {% endfor %}
   </ul>
@@ -84,7 +92,7 @@ author_profile: true
     <li>
     {% for grant in site.data.awards.grants %}
       <p>
-        <strong>{{ grant.title }}</strong> for {{ grant.event }}
+        <strong><span class="title">{{ grant.title }}</span></strong> for {{ grant.event }}
         {% if grant.location %} ({{ grant.location }}){% endif %}
         {% if grant.year %}, {{ grant.year }}{% endif %}
       </p>

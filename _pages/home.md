@@ -47,6 +47,23 @@ author_profile: true
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* Subtle shadow for depth */
     transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transition for hover effect */
   }
+  .awards-container .date {
+    font-weight: bold;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
+  .awards-container .allnews {
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(to right, #8e44ad, #1e90ff); /* Gradient colors */
+    -webkit-background-clip: text; /* Clips the gradient to the text */
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+    background-clip: text; /* Standard property for other browsers */
+    color: transparent; /* Makes the text transparent to show the gradient */
+ }
 
   .awards-container li:hover {
     transform: translateY(-5px); /* Slight lift effect on hover */
@@ -55,14 +72,26 @@ author_profile: true
   .award-container a {
     font-size: 17px;
     color: #1e90ff; /* Link color to match the gradient */
-    text-decoration: none; /* Remove underline from links */
+    text-decoration: none !important; /* Remove underline from links */
+  }
+
+  .awards-container li a,
+  .awards-container li a:link,
+  .awards-container li a:visited {
+    text-decoration: none !important; /* Remove underline */
+    color: #1e90ff; /* Ensure the color is consistent */
+   }
+
+  .award-container a:hover {
+    text-decoration: underline !important; /* Underline links on hover for clarity */
     font-weight: bold; /* Bold links for emphasis */
   }
 
-  .award-container a:hover {
-    text-decoration: underline; /* Underline links on hover for clarity */
+  .awards-container li a::before, 
+  .awards-container li a::after {
+    content: none !important; /* Ensure no pseudo-elements are adding underlines */
+    text-decoration: none !important;
   }
-
   /* Responsive design for mobile */
   @media (max-width: 600px) {
     .awards-container {
@@ -114,6 +143,15 @@ author_profile: true
     font-weight: bold; /* Bold links for emphasis */
   }
   .home-container a:hover {
+    text-decoration: underline; /* Underline links on hover for clarity */
+  }
+  
+  .awards-container .newsline {
+    color: #1e90ff; /* Blue color to match the gradient */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Bold links for emphasis */
+  }
+  .awards-container .newsline:hover {
     text-decoration: underline; /* Underline links on hover for clarity */
   }
 
@@ -178,14 +216,14 @@ author_profile: true
     {% assign allnews = site.data.allnews.main | where:'render', 'true' %}
     {% for news in allnews %}
       <li>
-        {{ news.date }} - 
+        <span class="date">{{ news.date }}</span> - 
         {% if news.link %}
-          <a href="{{ news.link }}" target="_blank">{{ news.title }}</a>
+          <a href="{{ news.link }}" target="_blank"><span class ="newsline">{{ news.title }}</span></a>
         {% else %}
           {{ news.title }}
         {% endif %}
       </li>
     {% endfor %}
-    <li><a href="https://priyanka-mondal.github.io/allnews/">[All NEWS]</a></li>
    </ul>
+   <span class="allnews"><a href="https://priyanka-mondal.github.io/allnews/" target="_blank">[All NEWS]</a></span>
 </div>
