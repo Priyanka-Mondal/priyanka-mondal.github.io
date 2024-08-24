@@ -185,6 +185,6 @@ author_profile: true
         {% endif %}
       </li>
     {% endfor %}
-    <li><a href="https://priyanka-mondal.github.io/news/">[All NEWS]</a></li>
+    <li><a href="https://priyanka-mondal.github.io/allnews/">[All NEWS]</a></li>
    </ul>
 </div>
