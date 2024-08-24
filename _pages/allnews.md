@@ -48,6 +48,13 @@ author_profile: true
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
   }
 
+  .news-container ul {
+    list-style-type: none; /* Removes the bullets */
+    padding-left: 0; /* Removes the default padding */
+    margin: 0; /* Removes any margin */
+  }
+
+
 
   /* Style for the back link */
   .back-link {
