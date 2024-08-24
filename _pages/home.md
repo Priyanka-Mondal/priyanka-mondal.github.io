@@ -64,6 +64,14 @@ author_profile: true
     }
   }
 
+   .news-container {
+    max-width: 1500px; /* Wide width for spacious layout */
+    margin: 0 auto; /* Center the container */
+    padding: 40px; /* Add padding for spacing */
+    background-color: #f4f4f4; /* Light grey background for contrast */
+    border-radius: 15px; /* Rounded corners for a modern look */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
   .news-container h3 {
     font-size: 30px; /* Font size for news heading */
     font-weight: bold; /* Bold font for news heading */
