@@ -116,7 +116,7 @@ author_profile: true
       <a href="https://priyanka-mondal.github.io/BIBS/iodse.bib" download>
         <button style="background: linear-gradient(to right, #f1c40f, #e67e22);">BIB</button>
       </a>
-      <a href="https://priyanka-mondal.github.io/PDFS/FinalUsenix2024.pptx">
+      <a href="https://priyanka-mondal.github.io/PDFS/FinalUsenix2024.pptx" target="_blank">
         <button style="background: linear-gradient(to right, #2ecc71, #006400);">SLIDES</button>
       </a>
       <a href="https://github.com/yourusername/yourrepository/raw/main/your-video.mp4" target="_blank">
