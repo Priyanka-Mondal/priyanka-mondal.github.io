@@ -122,15 +122,18 @@ author_profile: true
   <h2>Hello there! Welcome to my personal website.</h2>
 
   <p>
-    Currently, I am working towards my PhD at 
+    Currently, I am a Software Engineer at Snap Inc. on the Privacy-by-Design team, where I build privacy auditing and validation systems 
+    to detect and prevent privacy violations in large-scale products and machine learning workflows. 
+    My work spans privacy reviews, incident response, data classification, and privacy-preserving analysis for ranking and recommendation systems, 
+    with a particular focus on ensuring that user data and user preferences are respected in production systems. I completed my PhD from 
     <a href="https://www.ucsc.edu/about/" target="_blank">University of California, Santa Cruz (UCSC)</a>.
-    I am advised by 
+    I was fortunate to be advised by 
     <a href="https://owenarden.github.io/home/" target="_blank">Prof. Owen Arden</a> and 
     <a href="https://idemertzis.com" target="_blank">Prof. Ioannis Demertzis</a>.
-    My research lies in the intersection of security in distributed systems, language-based security,
+    During Ph.D. my research work lied in the intersection of security in distributed systems, language-based security,
     and applied cryptography. I also have experience with Encrypted search, Compiler Design, Program Analysis, Blockchain Technologies, and Formal Verification techniques in 
     <a href="https://coq.inria.fr/" target="_blank">Coq</a>. 
-    I work closely with the people from 
+    I worked closely with the people from 
     <a href="https://lsd.ucsc.edu" target="_blank">Language, Systems, and Data Lab (LSD)</a>, and 
     <a href="https://srl-ucsc.github.io/seminar.html" target="_blank">Security Research Lab (SRL)</a>. 
     At UCSC, I am a member of 
