@@ -178,7 +178,7 @@ author_profile: true
   <h2>Hello there! Welcome to my website.</h2>
 
   <p>
-    Currently, I am a Software Engineer at Snap Inc. on the Privacy-by-Design team, where I build privacy auditing and validation systems to detect and prevent privacy violations in large-scale products and machine learning workflows. My work spans privacy reviews, incident response, data classification, and privacy-preserving analysis for ranking and recommendation systems, with a particular focus on ensuring that user data and user preferences are respected in production systems. I completed my PhD from 
+    Currently, I am a Software Engineer at <a href="https://www.snap.com" target="_blank">Snap Inc.</a> on the Privacy-by-Design team, where I build privacy auditing and validation systems to detect and prevent privacy violations in large-scale products and machine learning workflows. My work spans privacy reviews, incident response, data classification, and privacy-preserving analysis for ranking and recommendation systems, with a particular focus on ensuring that user data and user preferences are respected in production systems. I completed my PhD from 
     <a href="https://www.ucsc.edu/about/" target="_blank">University of California, Santa Cruz (UCSC)</a>.
     I was fortunate to be advised by 
     <a href="https://owenarden.github.io/home/" target="_blank">Prof. Owen Arden</a> and 
