@@ -204,8 +204,8 @@ author_profile: true
   </p>
 
   <p>
-    Through my work, I strive to make Distributed Systems fault-tolerant, secure, and efficient.
-    Feel free to connect with me as I explore the world of Distributed Systems.
+    Through my work, I strive to build systems where privacy is a first-class property — not an afterthought — ensuring that user data is protected by design, at scale, and across the full software stack.
+    Feel free to connect with me as I explore the intersection of privacy, security, and systems research.
   </p>
 </div>
 
