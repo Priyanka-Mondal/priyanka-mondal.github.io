@@ -204,7 +204,7 @@ author_profile: true
   </p>
 
   <p>
-    Through my work, I strive to build systems where privacy is a first-class property — not an afterthought — ensuring that user data is protected by design, at scale, and across the full software stack.
+    Through my work, I strive to build systems where privacy and security are first-class properties — not an afterthought — ensuring that user data is protected by design, at scale, and across the full software stack.
     Feel free to connect with me as I explore the intersection of privacy, security, and systems research.
   </p>
 </div>
